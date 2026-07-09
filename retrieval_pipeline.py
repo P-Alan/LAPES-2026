@@ -4,8 +4,14 @@ from dotenv import load_dotenv
 from langchain_community.tools.tavily_search import TavilySearchResults
 from langchain_ollama import OllamaLLM
 from langchain_core.messages import HumanMessage, SystemMessage
+import json
+import datetime
+from pathlib import Path
+import os
+
 
 load_dotenv()
+
 # Inicializando DataBase
 persistent_directory = "db/chroma_db"
 
@@ -21,6 +27,17 @@ db = Chroma(
 
 pergunta = "What was NVIDIA's first graphics accelerator called?"
 
+# Inicializando a estrutura do JSON
+trace = {
+    "pergunta_original": pergunta,
+    "agentes": [],
+    "recuperacao": {"status": "pendente", "itens": []},
+    "fallback_acionado": False,
+    "motivo_fallback": None,
+    "resposta_final": None
+}
+
+
 retriever = db.as_retriever(
     search_type="similarity_score_threshold",
     search_kwargs={
@@ -29,11 +46,21 @@ retriever = db.as_retriever(
     }
 )
 
+trace["agentes"].append("VectorDB Retriever")
+
 relevant_docs = retriever.invoke(pergunta)
 
 print(relevant_docs)
 
 if relevant_docs:
+
+    trace["recuperacao"]["status"] = "sucesso"
+
+    for doc in relevant_docs:
+        trace["recuperacao"]["itens"].append({
+            "conteudo": doc.page_content,
+            "fonte": doc.metadata.get("source", "desconhecido")
+        })
 
     print(f"\nPergunta do usuario: {pergunta}")
     # Exibe resultados
@@ -50,10 +77,21 @@ if relevant_docs:
     """
 
 else:
+
+    trace["fallback_acionado"] = True
+    trace["motivo_fallback"] = "Score de similaridade abaixo do limiar (0.6)"
+    trace["agentes"].append("Tavily Search")
+
     # Criar modelo de IA de fallback 2 IA
     search_tool= TavilySearchResults(max_results=3)
 
     web_search = search_tool.invoke(pergunta)
+
+    for item in web_search:
+        trace["recuperacao"]["itens"].append({
+            "conteudo": item['content'],
+            "fonte": item['url']
+        })
 
     print(f"\nPergunta do usuario: {pergunta}")
     # Exibe resultados
@@ -85,9 +123,23 @@ messages = [
 
 result = model.invoke(messages)
 
+trace["agentes"].append("Llama3 LLM")
+trace["resposta_final"] = result
+
 # Resposta da LLM
 print("\n--- RESPOSTA ---")
 print(result)
+
+logs = "logs"
+
+if not os.path.exists(logs):
+    os.makedirs(logs)
+
+nome_arquivo = os.path.join(logs, f"trace_{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.json")
+
+with open(nome_arquivo, "w", encoding="utf-8") as f:
+    json.dump(trace, f, indent=4, ensure_ascii=False)
+
 
 # Outras perguntas: 
 
