@@ -69,7 +69,7 @@ def split_documents(documents, chunk_size=800, chunk_overlap=0):
 def create_vector_store(chunks, persist_directory="db/chroma_db"):
     print("Criando embendding e armazenando no ChromaDB...")
         
-    embedding_model = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
+    embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
     
     print("--- Criando vector store ---")
     vectorstore = Chroma.from_documents(
