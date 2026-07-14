@@ -25,7 +25,7 @@ db = Chroma(
 )
 
 
-pergunta = "What was NVIDIA's first graphics accelerator called?"
+pergunta = "Where the Toxoplasmosis Parasite Can Be Found" 
 
 # Inicializando a estrutura do JSON
 trace = {
@@ -42,7 +42,7 @@ retriever = db.as_retriever(
     search_type="similarity_score_threshold",
     search_kwargs={
         "k": 5,
-        "score_threshold": 0.6  
+        "score_threshold": 0.3
     }
 )
 
@@ -95,8 +95,6 @@ else:
 
     print(f"\nPergunta do usuario: {pergunta}")
     # Exibe resultados
-    print("--- Contexto ---\n")
-
     print("--- Contexto ---\n")
     for i, item in enumerate(web_search, 1):
         print(f"=== FONTE WEB {i} ===")

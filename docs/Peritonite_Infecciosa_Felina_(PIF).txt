@@ -1,0 +1,1032 @@
+CENTRO UNIVERSITÁRIO BRASILEIRO
+CURSO DE MEDICINA VETERINÁRIA
+MARIA ROSEANNE AMORIM
+REBECA KAROLINE SILVA DE LIMA
+SABRINA CELERINO DA SILVA
+PERITONITE INFECCIOSA FELINA: REVISÃO DE
+LITERATURA
+RECIFE/2022
+MARIA ROSEANNE AMORIM
+REBECA KAROLINE SILVA DE LIMA
+SABRINA CELEIRNO DA SILVA
+PERITONITE INFECCIOSA FELINA: REVISÃO DE
+LITERATURA
+Monografia apresentada ao Centro Universitário
+Brasileiro – UNIBRA, como requisito parcial
+para obtenção do título de Bacharel em
+Medicina Veterinária
+Professora Orientadora: Dra. Maria Luciana
+Menezes Wanderley Neves.
+RECIFE/2022
+Ficha catalográfica elaborada pela
+bibliotecária: Dayane Apolinário, CRB4- 1745.
+A524p Amorim, Maria Roseanne
+Peritonite infecciosa felina: revisão de literatura. / Maria Roseanne
+Amorim, Rebeca Karoline Silva de Lima, Sabrina Celerino da Silva.
+Recife: O Autor, 2022.
+21 p.
+Orientador(a): Prof. Dra. Maria Luciana Menezes Wanderley Neves.
+Trabalho de Conclusão de Curso (Graduação) - Centro Universitário
+Brasileiro – Unibra. Bacharelado em Medicina Veterinária, 2022.
+Inclui referências.
+1. Coronavírus. 2. Mutação. 3. Imunossupressão. 4. Infecção. I. Lima,
+Rebeca Karoline Silva de. II. Silva, Sabrina Celerino da. III. Centro
+Universitário Brasileiro - Unibra. IV. Título.
+CDU: 619
+Ficha catalográfica
+Dedicamos esse
+trabalho a nossos pais,
+familiares, amigos e
+professores
+AGRADECIMENTOS
+Agradecemos em primeiro lugar a Deus por nos fazer chegar até aqui mesmo
+com todas as dificuldades, por ele ser nossa grande inspiração e força a todo instante
+nos fazendo crer no potencial para finalizar mais um ciclo mesmo com todos os
+obstáculos.
+Agradecemos a nossa orientadora Maria Luciana Menezes Wanderley Neves por
+todo apoio e dedicação em reservar um tempo para ajudar e aconselhar.
+Agradecemos a todos os nossos professores e coordenadores que
+compartilharam muito conhecimento e experiências que enriquecem o aprendizado ao
+longo da jornada. Todos fazem parte dessa trajetória tão importante e marcante.
+Agradecemos aos nossos familiares, amigos e colegas, pois temos convicção
+que de alguma forma, cada um contribuiu de forma positiva para nossa evolução
+pessoal e profissional.
+“Para estudar e tratar diversas espécies, não
+basta ser MÉDICO. Tem que ser
+MÉDICO-VETERINÁRIO” (Jhonatta Oliver)
+PERITONITE INFECCIOSA FELINA: REVISÃO DE LITERATURA
+Maria Roseanne Amorim1
+Rebeca Karoline Silva de Lima1
+Sabrina Celerino da Silva1
+Maria Luciana Menezes Wanderley Neves2
+Resumo: A Peritonite Infecciosa Felina (PIF) é uma doença viral, infecto contagiosa,
+causada pela mutação do Coronavírus Entérico Felino. Por ser uma enfermidade
+comum entre os felinos, sem cura e vacina disponível, objetivou-se realizar uma revisão
+bibliográfica sobre a PIF. Para a construção deste estudo, foi realizada uma revisão de
+literatura com busca de artigos em plataformas de pesquisa, dentre os anos de 2017 e
+2022, dos quais, após os critérios de inclusão e exclusão, foram utilizados 32 artigos. A
+PIF pode se apresentar na forma úmida e ou seca. Os sinais clínicos são inespecíficos,
+mas pode-se observar perda de peso, febre, baixo desenvolvimento, inapetência e
+icterícia. A transmissão ocorre por via fecal-oral, transplacentária e transmamária. Os
+sintomas da forma seca incluem sinais oculares e do sistema nervoso central, e na
+forma úmida observa-se abdômen distendido com presença de exsudato. O diagnóstico
+é altamente complexo devido à variabilidade na apresentação clínica e à falta de
+métodos diagnósticos definitivos. O histopatológico de fragmentos teciduais coletados
+por meio da biópsia ou da necropsia permite o diagnóstico definitivo da PIF. O
+tratamento com imunossupressores e inibidores da replicação viral visa atenuar a
+progressão da doença. Atualmente, o medicamento GS-441524 associado à terapia de
+suporte, tem se mostrado promissor no tratamento da PIF, porém encontra-se em fase
+experimental e não está legalizado no Brasil. Como a PIF não tem vacina nem cura, e
+seu diagnóstico é inconclusivo no animal vivo, a prevenção é a melhor maneira para
+evitar a infecção e a morte dos gatos.
+Palavras-chave: Coronavírus. Gs-441524. Mutação. Imunossupressão. Infecção.
+1 Graduandos em medicina veterinária pelo Centro Universitário Brasileiro – UNIBRA.
+2 Professora da UNIBRA. Doutora em Nutrição e Produção Animal. E-mail:
+luciana.menezes@grupounibra.com.
+FELINE INFECTIOUS PERITONITIS: LITERATURE REVIEW
+Maria Roseanne Amorim1
+Rebeca Karoline Silva de Lima1
+Sabrina Celerino da Silva1
+Maria Luciana Menezes Wanderley Neves2
+Abstract: Feline Infectious Peritonitis (FIP) is a viral, contagious infectious disease
+caused by the mutation of the Feline Enteric Coronavirus. As it is a common disease
+among felines, without a cure and vaccine available, the objective was to carry out a
+bibliographical review on FIP. For the construction of this study, a literature review was
+carried out with a search for articles on research platforms, between the years 2017 and
+2022, of which, after the inclusion and exclusion criteria, 32 articles were used. FIP can
+be present in wet and/or dry form. Clinical signs are nonspecific, but weight loss, fever,
+poor development, lack of appetite and jaundice can be observed. Transmission occurs
+via fecal-oral, transplacental and transmammary routes. Symptoms of the dry form
+include ocular and central nervous system signs, and in the wet form, a distended
+abdomen with the presence of exudate is observed. Diagnosis is highly complex due to
+variability in clinical presentation and lack of definitive diagnostic methods. The
+histopathology of tissue fragments collected through biopsy or necropsy allows the
+definitive diagnosis of FIP. Treatment with immunosuppressants and viral replication
+inhibitors aims to attenuate the progression of the disease. Currently, the drug
+GS-441524 associated with supportive therapy has shown promise in the treatment of
+FIP, but it is still in the experimental phase and is not legalized in Brazil. As FIP has no
+vaccine or cure, and its diagnosis is inconclusive in live animals, prevention is the best
+way to avoid infection and death in cats.
+Key words: Coronavirus. Gs-441524. Mutation. Immunosuppression. Infection.
+21 Graduate students in veterinary medicine at the Brazilian University Center – UNIBRA.
+2 Professor at UNIBRA. PhD in Nutrition and Animal Production. E-mail:
+luciana.menezes@grupounibra.com.
+LISTA DE ABREVIATURAS E SIGLAS
+PIFV Vírus da Peritonite Infecciosa Felina
+PIF Peritonite Infecciosa Felina
+FIV Imunodeficiência Viral Felina
+FeLV Leucemia Viral Felina
+FCoV Coronavírus Felino
+FECV Coronavírus Entérico Felino
+IHC Imuno-histoquímica
+IMC Imunidade Celular Mediada Por Células
+PCR Reação em Cadeia de Polimerase
+LISTA DE FIGURAS
+Figura 1 - Representação esquemática do antígeno viral do FCoV 14
+Figura 2 - Esquema de contaminação da peritonite infecciosa felina 15
+Figura 3 - Sinais clínicos sistêmicos e das patologias associadas ao PIFV. As
+manifestações mais comuns da PIF são coloridas em vermelho 19
+Figura 4 - Peritonite infecciosa felina na forma exsudativa 20
+Figura 5 - Gato adulto de pelo longo (A) e pelo curto (B) com PIF úmido, com distensão
+abdominal crônica 22
+Figura 6 - Teste de Rivalta 24
+Figura 7 - Raio X de tórax na posição laterolateral com discreta efusão. 25
+Figura 8 - Imagem do Rim de um felino com peritonite infecciosa felina 25
+Figura 9 - Fotografia do abdômen de um felino contendo efusão 27
+Figura 10 - Necropsia, observa-se efusão na cavidade abdominal de um gato com
+peritonite infecciosa felina úmida e aguda. 27
+Figura 11 - Apresentação da peritonite infecciosa felina na medula óssea de um gato 28
+SUMÁRIO
+1 INTRODUÇÃO.............................................................................................................11
+2 METODOLOGIA..........................................................................................................12
+3 REVISÃO DE LITERATURA.......................................................................................13
+3.1 Etiologia e Epidemiologia………………………………………………………………… 13
+3.2 Patogenia…………………………………………………………………………………...16
+3.3 Sinais Clínicos……………………………………………………………………………...19
+3.4 Diagnóstico………………………………………………………………………………… 21
+3.4.1 Exame Físico……………………………………………………………………………. 21
+3. 4. 2 Diagnóstico hematológico……………………………………………………………..23
+3.4.3 Teste de Rivalta…………………………………………………………………………. 23
+3.4.4 Exames de Imagem…………………………………………………………………….. 24
+3.4.5 Reação em cadeia de polimerase…………………………………………………….. 26
+3.4.6 Diagnóstico post mortem………………………………………………………………. 26
+3.4.7 Histopatologico e Imuno-histoquímica………………………………………………...28
+3.5 Tratamento………………………………………………………………………………….29
+4. CONSIDERAÇÕES FINAIS........................................................................................31
+REFERÊNCIAS..............................................................................................................32
+11
+1 INTRODUÇÃO
+O coronavírus felino (FCoV) é um vírus que infecta membros da família Felidae,
+incluindo felinos domésticos e selvagens, seja em cativeiro ou vida livre. O FCoV
+pertence à família Coronaviridae, à ordem Nidovirales, subfamília Orthocoronavirinae,
+gênero Alphacoronavirus e espécie Alphacoronavirus, a qual também pertencem o
+coronavírus canino (CCoV) e o coronavírus da gastrite transmissível dos suínos
+(WALKER et al., 2020).
+O Virus da peritonite infecciosa felina (PIFV) resultante da mutação do FCoV, é
+um RNA-vírus envelopado de fita simples, frequentemente encontrado nos felinos
+domésticos, mas também selvagens de vida livre. A doença causada pelo PIFV pode
+ser classificada de duas formas: a úmida (efusiva) que se caracteriza por apresentar
+conteúdo exsudativo nas cavidades abdominal e toráxica e a seca (não efusiva) que se
+caracteriza pela presença de formações piogranulomatosas nos órgãos. A peritonite
+infecciosa felina (PIF) efusiva pode ser definida pelo acúmulo de líquido na cavidade
+torácica e abdominal, ocasionada pela má perfusão sanguínea, enquanto a PIF não
+efusiva apresenta sinais clínicos pouco específicos como apatia e anorexia (SILVA et
+al., 2017).
+São considerados mais predispostos os felinos jovens, com menos de três anos,
+animais imunossuprimidos devido à má formação ou falha do sistema imune, e gatos
+de raças puras (YIN et al., 2021).
+Essa enfermidade pode apresentar uma grande variedade de sinais clínicos,
+geralmente inespecíficos, como anorexia, letargia, perda de peso, febre, alterações
+neurológicas e oculares (RIEMER et al., 2016; SWEET et al., 2022). Devido à
+disseminação sistêmica e ao desenvolvimento de vasculite imunomediada, diversos
+órgãos podem estar envolvidos, como fígado, rins, pâncreas, olhos e sistema nervoso
+central (KENNEDY, 2020).
+A presença de anormalidades nos parâmetros hematológicos ou bioquímicos
+não é específica em gatos com PIF. Na avaliação hematológica, os sinais mais
+observados são anemia não regenerativa, quando a produção de eritrócitos é
+prejudicada, ou anemia regenerativa, quando a produção de eritrócitos pela medula
+óssea mantém-se normal; linfopenia; neutrofilia e trombocitopenia (SCARIOT, 2021).
+Na bioquímica sérica pode ser encontrado azotemia, aumento de enzimas hepáticas,
+hiperproteinemia, hiperglobulinemia, associada ou não à hipoalbuminemia ou
+hiperproteinemia (RIEMER et al., 2016).
+A bilirrubinemia e a bilirrubina também são comuns em gatos com PIF, e
+ocorrem devido ao decréscimo na glucuronidação, o que limita a metabolização da
+bilirrubina e de seus derivados. Adicionalmente, o aumento da hemoglobina resultante
+da destruição de glóbulos vermelhos eleva os níveis de bilirrubina (LOVATO;
+DEZENGRINI, 2017).
+O diagnóstico da PIF é considerado difícil, não havendo uma maneira simples de
+diagnosticá-la definitivamente (MASSITEL; VIANA; FERRANTE, 2020). Procedimentos
+12
+invasivos, como a biópsia, permite um diagnóstico mais preciso da PIF, mas os tutores,
+muitas vezes, optam por não realizar este tipo de exame (YIN et al., 2021). Além disso,
+o diagnóstico definitivo é feito por meio do histopatológico obtido da biópsia ou
+necropsia, o que pode ser mais um motivo para a falta de um diagnóstico definitivo da
+doença (CARDOSO, 2022).
+Devido a dificuldade no diagnóstico conclusivo, são raros os dados concretos
+sobre a PIF. Assim, os casos registrados na região Nordeste e em Pernambuco, estão
+apresentados em estudos de caso descritos em instituições e clínicas veterinárias desta
+região e publicados em artigos e congressos regionais (TAKANO et al., 2019).
+Até o momento, considera-se que a doença não tem cura e o seu tratamento é
+baseado na terapia de suporte com o uso de drogas imunossupressoras, interferon,
+vitaminas, antibioticoterapia (em casos com infecções secundárias) e abdominocentese
+nos casos efusivos (MASSITEL; VIANA; FERRANTE, 2021). Novos tratamentos para a
+doença têm se mostrado promissores, mas ainda se encontram em fase de teste e seu
+uso não é legalizado no Brasil (SILVESTRE, 2022) além de não estar disponível
+comercialmente neste país. Portanto, a doença resulta em uma alta taxa de
+mortalidade, e seu prognóstico é considerado desfavorável para a maioria dos gatos
+(SCARIOT, 2021). Sendo a prevenção a principal forma de manter os gatos livres desta
+doença. Deste modo, objetivou-se fazer uma revisão de literatura sobre a peritonite
+infecciosa felina.
+2 METODOLOGIA
+Este estudo foi realizado por meio de uma busca definida a partir do assunto
+“Peritonite Infecciosa Felina” em uma seleção de publicações indexadas em diversas
+bases de dados científicos, tais como: Google Acadêmico, Scientific Electronic Library
+Online (SciELO), Periódicos acadêmicos (CAPES), Pubmed, Medical Literature
+Analysis and Retrieval System Online (MEDLINE), Literatura Latino-americana e do
+Caribe em Ciências da Saúde (LILACS), Biblioteca Regional de Medicina (BIREME),
+Biblioteca Digital Brasileira de Teses e Dissertações (BDTD) utilizando como
+descritores isolados ou em combinação: coronavírus, Gs-441524, mutação.
+imunodepressão, infecção, PIFV, PIF, peritonite infecciosa felina.
+Dos artigos encontrados na pesquisa foram incluídos aqueles que contemplaram
+o assunto, publicados em inglês ou português, bem como os artigos publicados na
+íntegra entre os anos de 2017 a 2022. Ao todo foram encontrados 75 artigos, onde
+destes 13 foram excluídos por fugir do tema, e quatro por possuir somente o resumo.
+Dos 58 restantes, 26 foram excluídos, por terem sido publicados antes de 2017. Ao
+final restaram 32 artigos que foram utilizados para construção do desenvolvimento e
+discussão deste estudo.
+Foram excluídos da análise textos anteriores a 2017, bem como artigos que não
+foram publicados na íntegra e textos que não estivessem dentro da temática.
+13
+3 REVISÃO DE LITERATURA
+3.1 Etiologia e Epidemiologia
+O coronavírus felino (FCoV) é um retrovírus do gênero Coronavirus, que
+pertence à família Coronaviridae e à ordem Nidovirales. Atualmente, o gênero
+coronavírus é dividido em três novos gêneros, Alfa, Beta e Gamma Coronavírus. Os
+vírus são assim classificados de acordo com a sequência de nucleotídeos, relação
+sorológica e seus hospedeiros naturais. Segundo O FCoV pertence ao gênero
+Alphacoronavirus, o qual inclui outros vírus, como o coronavírus da diarreia epidêmica
+suína (PEDV), o vírus da gastroenterite transmissível porcina (TGEV), o coronavírus
+respiratório suíno, o coronavírus canino (CCOV), o coronavirus NL63 humano
+(HCoV-NL63), o sorotipo da bronquite humana coronavírus 229E (HCoV-229E),
+coronavírus de coelho (RbCoV), coronavírus entérico de furão (FRECV), coronavírus
+sistêmico de furão (FRSCV) e coronavírus de vison (MCoV) (RIBEIRO; PASQUALI,
+2020).
+Segundo James et al. (2020), a infecção da maioria dos coronavírus ocorre
+naturalmente na espécie animal e, na maioria dos casos, é possível observar a infecção
+em um número limitado de espécies que estão ligadas. Pode destacar os grupos do
+coronavírus da seguinte forma: Grupo I conta com o vírus da gastroenterite
+transmissível porcina (TGEV), coronavírus respiratório porcino, coronavírus canino
+(CCOV), vírus da peritonite transmissível felina, coronavírus entérico felino e
+coronavírus humano 229E (HCoV-229E). No mesmo sentido de infecção, o Grupo II
+incluiu os vírus da hepatite de camundongo, coronavírus bovino, sialovírus de
+camundongo, coronavírus de coelho, coronavírus de peru e coronavírus humano OC43.
+Finalmente, o terceiro grupo inclui o vírus da bronquite infecciosa aviária.
+Quanto à patogenicidade, existem dois biótipos de FCoV. O biótipo mais comum
+é o coronavírus entérico felino (FECoV) tipo I, que causa diarreia leve em gatos. Outro
+biótipo é o vírus da peritonite infecciosa felina (PIFV), uma doença mortal
+(BUBENIKOVA et al., 2020).
+Como outros vírus de RNA, os coronavírus são caracterizados por mutações
+frequentes em seus genomas devido a erros na RNA polimerase. O surgimento de uma
+cepa do FECoV mais virulenta que causa a PIF, também parece estar associada à
+deleção genômica. A alta frequência de recombinação é outro aspecto importante na
+patogênese desta doença. Segundo pesquisas, o FCoV tipo II pode se originar da
+recombinação entre o vírus felino (FCoV tipo I) e o coronavírus canino (CCoV)
+(CANUTO et al., 2017).
+Na Figura 1 é possível observar a representação esquemática de antígenos
+virais de FCoV, que correspondem às proteínas de espícula (S), de membrana (M) e do
+envelope (E) que ficam ancoradas a membranas lipídicas duplicadas. Cabe ressaltar
+que as proteínas S e M são indispensáveis para a entradas nas células, e mutações
+14
+específicas no gene S têm sido observadas em estudos recentes, por serem
+importantes na transformação do FCoV em PIFV (BERLINER, 2021).
+Figura 1 - Representação esquemática do antígeno viral do FCoV
+Fonte: Yin et al. (2021)
+De acordo com Yin et al (2021) todos os gatos são suscetíveis ao PIFV, mas a
+incidência é maior em animais jovens, entre 3 meses e 3 anos de idade, e em idosos.
+Outros fatores que influenciam o surgimento da PIF incluem estresse, suscetibilidade
+genética, superpopulação em casas de gatos e abrigos, comorbidades como
+Imunodeficiência Viral Felina (FIV) e Leucemia Viral Felina (FeLV), falha da
+competência imunológica (Contagem Total de Linfócitos) e uso de drogas
+imunossupressoras.
+A grande maioria dos gatos domésticos que desenvolvem PIF têm entre 3 meses
+e 3 anos de idade, sendo que pelo menos 50% dos gatos infectados têm até 12 meses
+de idade. Contudo, a PIF pode ocorrer em qualquer idade, existindo um segundo pico
+de incidência da doença em gatos geriátricos com idade superior a 10 anos (FELTEN,
+2019).
+O aumento da prevalência encontrado em algumas raças pura, como: British
+Shorthair, Devon Rex e Abissíniao, pode ser devido a uma concentração de fatores
+genéticos resultantes da endogamia. Já as predisposições raciais podem variar
+geograficamente e temporalmente, dependendo das preferências dos criadores da
+região, e determinadas residências onde vive o animal podem ser mais suscetíveis do
+que a própria raça. Os gatos de raça pura são mais propensos a vir de gatis de criação,
+o que por si só constitui um ambiente mais estressante devido ao maior número de
+animais, introduções regulares de novos gatos e reprodução frequente (PEDERSEN et
+al., 2022).
+Em um ambiente com vários gatos, uma grande proporção desses animais passa
+por um ciclo de infecção e eliminação viral, recuperação e re-infecção, eliminando vírus
+intermitentemente em suas fezes. De acordo com o estudo, mais de 80% dos gatos
+15
+estudados vivem em gatis e excretam FECV nas fezes quando estavam assintomáticos.
+Portanto, é geralmente aceito que gatos assintomáticos persistentes excretam o FECV
+nas fezes e são a fonte mais importante de infecção (Figura 2) (ADDIE et al., 2020).
+Figura 2 - Esquema de contaminação da peritonite infecciosa felina
+.
+Fonte: Berliner (2021)
+Além disso, os FECoV são transmitidos pela via fecal, pois o vírus é excretado
+principalmente nas fezes e, raramente, na saliva ou em outros fluidos corporais. O vírus
+pode infectar células epiteliais intestinais após a ingestão, onde a transmissão sistêmica
+ocorre pela infecção de monócitos e macrófagos. A depuração fecal ocorre uma
+semana após a infecção e pode persistir por semanas, meses ou toda a vida do animal.
+Dois padrões de excreção podem ser observados: gatos que excretam vírus de forma
+quase contínua e intermitente, e uma pequena porcentagem de gatos que podem ser
+soropositivos para FCoV, mas nunca excretam vírus nas fezes, o que pode ser devido a
+alta imunidades destes animais (CUNHA et al., 2021).
+A maior fonte de contaminação (Figura 2) desta doença ocorre através da
+ingestão de fezes, que pode ocorrer por meio da auto higiene ou alimentação dos
+felinos. Após a infecção, o vírus se replica em macrófagos e monócitos e se espalha
+para os órgãos através da corrente sanguínea. A eliminação do vírus pelas fezes
+começa uma semana após a infecção e pode durar semanas, meses ou mesmo toda a
+vida, de forma intermitente ou contínua. A partir do momento em que um gato é
+infectado, com PIFV, podem viver até cerca de dois meses em sua forma úmida. Já os
+gatos com PIF seca podem viver até um ano com boa qualidade de vida (JAIMES et al.,
+2020).
+A PIF é uma doença rara associada a altos níveis de exposição ao FCoV em
+gatos. Isso, juntamente com outras observações, sugere que a maioria das infecções
+pelo FCoV que ocorrem naturalmente com o biótipo FECoV são bem comuns, enquanto
+16
+infecções com variantes do vírus da PIF são relativamente incomuns. Nessa área,
+predomina o biótipo I, responsável por 80 a 90% das infecções virais (MASSITEL;
+VIANA; FERRANTE, 2020).
+Pesquisas sorológicas mostram que tipicamente 25% a 40% dos gatos
+domésticos são soropositivos para FCoV, aumentando para 80% a 100% em grandes
+criações de gatos que vivem em gatis (CASAGRANDE; MACHADO, 2016). Apesar dos
+altos níveis de exposição ao FCoV em populações felinas, a PIF continua sendo uma
+doença relativamente rara. Este fato, juntamente com outras observações, sugere que
+a maioria das infecções por FCoV que ocorrem naturalmente são provavelmente do
+biótipo FECoV, enquanto os biótipos do PIFV são relativamente incomuns (PINTO et al.,
+2020).
+A incidência de PIF raramente excede 10% e a taxa de letalidade se aproxima de
+100%. A imaturidade do sistema imunológico torna a replicação viral menos controlada,
+promovendo a mutação viral. Em gatos com mais de dez anos, a doença é mais comum
+devido à deterioração do sistema imunológico. A PIF costuma ser fatal nos gatos com
+idade entre 3 e 16 meses, e a morte geralmente ocorre como um evento isolado em um
+gatil ou abrigo (CASAGRANDE; MACHADO, 2016). Segundo Cunha et al. (2021), além
+da faixa etária, a suscetibilidade étnica (persa, absina, bengala, birmanesa e himalaia),
+superpopulação em abrigos e gatis, desnutrição, doenças infecciosas crônicas como
+FeLV e FIV, e uso de drogas imunossupressoras são outros fatores predisponentes
+para a doença.
+De acordo com Cardoso (2019), as maiores taxas de morbidade em gatos se
+devem ao sistema imunológico imaturo desses animais, bem como à exposição a
+estressores como castração, desmame, vacinações e alterações ambientais, que levam
+a queda da imunidade e maior susceptibilidade a infecção. Esses filhotes também
+podem ser portadores de patógenos como Toxocara spp., Giardia spp. e Trichomonas
+spp., que são transmitidos pela via fecal-oral, que podem, em parte, contribuir para a
+replicação do FCoV em macrófagos.
+3.2 Patogenia
+O desenvolvimento da PIF está associado a vários mecanismos imunológicos
+desencadeados pelo vírus no organismo hospedeiro, resultando em doença
+imunomediada. Dentre estes mecanismos estão: respostas imunes intensificadas e
+insuficientes mediadas por linfócitos T citotóxicos, levando a doenças imunomediadas;
+apoptose de linfócitos T aumentando a replicação viral; redução de citocinas
+associadas à imunidade mediada por células, como IL-10, IL-12 e IFNγ; aumento da
+diferenciação de linfócitos B em células plasmáticas, aumentando assim a resposta
+imune humoral (JAIMES et al., 2020.; RIBEIRO; PASQUALI, 2020).
+A terminologia de coronavírus felinos é usada em diversos casos e de forma bem
+ampla porque se refere a diferentes cepas, sorotipos I e II, biótipos entéricos e vírus da
+peritonite infecciosa. Considerando que, o sorotipo I possui uma proteína específica e é
+17
+o mais predominante. Já o sorotipo II veio a partir de uma recombinação entre o FCoV
+tipo I e o coronavírus canino. Neste sentido, tanto o FECoV quanto PIF pertencem ao
+sorotipo I, mas algumas cepas do PIFV são genótipos próximos ao sorotipo II, exibindo
+uma proteína spike semelhante à observada em coronavírus caninos (MENDONÇA et
+al., 2022).
+O FCoV é um patógeno intracelular obrigatório. O FCoV pode causar desde
+gastroenterite transitória com diarreia autolimitada até doenças fatais em gatos. Em
+geral, os agentes infecciosos possuem tropismo por células, tecidos e hospedeiros. Os
+coronavírus têm um tropismo notável por células epiteliais do trato respiratório e do trato
+intestinal. No caso da PIF, o FIPV tem tropismo por enterócitos e macrófagos. Além
+disso, foram encontradas mutações pontuais no gene S (da proteína spike), que foram
+associadas a maior virulência. No entanto, não está claro se essa mutação sozinha
+causa a doença. Existem diferenças genômicas entre os coronavírus felinos devido a
+uma maior probabilidade de mutação (CUNHA et al., 2021).
+Embora as causas específicas da patogênese da PIF não estejam totalmente
+elucidadas, várias teorias surgiram para elucidar isso, a saber, a teoria da mutação
+interna, a circulação de cepas virulentas e avirulentas e as respostas do sistema
+imunológico relacionadas às interações vírus-hospedeiro (PINTO et al., 2020).
+Segundo Ribeiro et al. (2020), o FECoV difere do PIFV principalmente porque
+sua replicação é restrita ao epitélio intestinal, muitas vezes resultando em infecção
+assintomática ou diarréia autolimitada. Embora o FECoV possa passar por uma fase de
+viremia sistêmica associada aos monócitos, essa fase é curta e não produz transmissão
+sistêmica como o PIFV.
+Uma vez ingerida pela via fecal-oral, o FCoV passa pelo trato gastrointestinal, é
+encontrado no intestino delgado onde se liga à superfície do enterócito, entra no
+enterócito, replica-se rapidamente no citoplasma causando a morte celular e liberando
+mais partículas virais, infectando os enterócitos adjacentes causando mais danos e
+gerando enterite. As células alvo do FECoV são os enterócitos e a patogênese é
+limitada ao intestino, enquanto para o PIFV as células alvo são macrófagos e ocorre
+doença sistêmica (JAIMES et al., 2020).
+O PIFV se replica nas células epiteliais das vias aéreas superiores da orofaringe,
+onde os anticorpos antivirais são produzidos e o vírus é capturado pelos macrófagos.
+Nos monócitos/macrófagos, o vírus é transportado por todo o corpo, localizando-se em
+várias paredes venosas e locais perivasculares (CAMPÊLO, 2019).
+O PIFV se replica eficientemente em monócitos e macrófagos, permitindo a
+disseminação sistêmica e o desenvolvimento de PIF. A disseminação linfática permite
+nova replicação e aumento da viremia no endotélio de veias e capilares, induzindo
+assim uma resposta imune visando a eliminação do vírus. Esse processo leva a uma
+forte resposta inflamatória que, posteriormente, leva à vasculite piogranulomatosa
+sistêmica, na qual macrófagos infectados e complexos antígeno-anticorpo se depositam
+no endotélio capilar, gerando inflamação perivascular e produzindo derrames
+18
+peritoneais e pleurais de intensidades variadas, determinado pelo sistema imunológico
+(KENNEDY, 2020).
+Independentemente da alteração na origem da patogênese do vírus, o PIFV, uma
+vez estabelecido, apresenta tropismo pelos monócitos. Este monócito infectado libera
+citocinas TNF-a e IL-1 estas citocinas estimulam excessivamente a expressão de
+adesinas nas células endoteliais e, quando o monócito infectado entra em contato com
+estas adesinas, ele começa a aderir ao endotélio (RIEMER et al., 2016).
+Os fatores do hospedeiro que contribuem para o desenvolvimento da PIF incluem
+características imunológicas, determinadas pela variabilidade das moléculas do
+complexo principal de histocompatibilidade (MHC), o tipo de citocinas secretadas após
+a infecção e outras características das respostas imunes mediadas por células (CMI). A
+maioria dos gatos com PIFV são capazes de montar uma resposta humoral significativa
+ao vírus, no entanto, eles não exibem uma resposta imune mediada por células
+eficazes. Estresse e co-infecções, como o FELV e o FIV, têm sido descritos como
+possíveis fatores que aumentam o risco de PIF e desencadeiam a progressão da
+doença (PINTO et al., 2020).
+Segundo Scariot (2021), diferentes fatores de interação entre hospedeiro e
+patógeno também influenciam a prevalência da doença e suas manifestações clínicas,
+como tempo de exposição ao vírus, suscetibilidade genética, competência imunológica,
+estresse e infecção concomitante pelo FELV e FIV.
+O mecanismo pelo qual os gatos desenvolvem PIF não é claro. A imunidade
+humoral não parece ser importante na prevenção da infecção pelo PIFV, mas pode
+estar envolvida no desenvolvimento da doença. No entanto, os felinos são conhecidos
+por serem protegidos por anticorpos maternos, portanto, pode ocorrer alguma proteção
+humoral. Acredita-se que a imunidade humoral associada à secreção de IgA seja
+importante na prevenção da infecção inicial das células epiteliais (MENDONÇA et al.,
+2022).
+Segundo Pedersen (2022), o aparecimento da doença e as diferentes formas
+clínicas (exsudativas ou não exsudativas) dependem da eficiência da imunidade celular.
+Se uma forte resposta imune celular ocorrer logo após a infecção, a replicação viral é
+controlada e a doença não ocorre. Portanto, a PIF exsudativa ocorre quando uma forte
+resposta imune humoral é acompanhada por uma resposta imune celular fraca ou
+inexistente; e a forma não exsudativa ocorre quando há forte imunidade humoral
+acompanhada por uma resposta imune celular intermediária.
+Como mencionado anteriormente, a imunidade humoral parece aumentar a
+probabilidade de desenvolvimento da doença. Os anticorpos específicos do antígeno de
+PIF estão envolvidos em dois processos imunológicos distintos. No primeiro processo a
+infecção dependente de anticorpos aprimorada (ADEI), e estes anticorpos anti-FCoV
+promovem a entrada viral nos macrófagos formando complexos anticorpo-vírus que são
+absorvidos pelo dispositivo de monócitos/macrófagos não infectados. Este aumento da
+infecção mediado por anticorpos é pontual para anticorpos felinos e macrófagos felinos
+(CUNHA et al., 2021).
+19
+3.3 Sinais Clínicos
+A peritonite infecciosa felina apresenta duas formas clínicas, exsudativa e não
+exsudativa, também conhecida como úmida e seca. As duas formas raramente ocorrem
+simultaneamente, a menos que a forma seca se torne úmida durante a transição do
+estágio final de uma doença crônica, ou a forma úmida se torne seca no início da
+doença (SCARIOT, 2021).
+O início dos sinais clínicos pode preceder eventos estressantes para o animal,
+como adoção e consequentes mudanças ambientais, mudanças na hierarquia social,
+trauma ou castração (YIN et al., 2021). Os primeiros sinais clínicos relatados podem ser
+diarreia, espirros ou tosse (Figura 3) nas últimas semanas, bem como a exposição a
+gatos infectados por PIFV, principalmente de ninhada única (LOVATO; DEZENGRINI,
+2017).
+Figura 3 - Sinais clínicos sistêmicos e das patologias associadas ao PIFV. As
+manifestações mais comuns da PIF são coloridas em vermelho
+Fonte: Sweet et al. (2022)
+Os cinco sinais mais comuns em gatos com PIF, independentemente da forma
+clínica e frequência, são letargia, perda de apetite, inchaço dos gânglios linfáticos
+abdominais, perda de peso, febre e deterioração da pelagem. Esses sinais podem
+ocorrer rapidamente em uma semana ou mais, ou existir por semanas ou até meses
+antes do diagnóstico ser feito. Gatos com PIF úmida tendem a ter um curso mais rápido
+da doença do que gatos com PIF seca, e atrasos no desenvolvimento são comuns em
+gatinhos, especialmente aqueles com doenças crônicas (PEDERSEN, 2022).
+A apresentação típica da PIF é a partir do derrame abdominal e/ou pleural, além
+disso, a PIF ocorre em muitos sistemas do corpo e é semelhante às manifestações
+extrapulmonares do COVID-19. A característica mais semelhante das duas doenças é a
+disfunção endotelial. A vasculite é uma marca registrada da patologia da PIF,
+20
+caracterizada por edema e infiltração perivascular, degeneração da parede do vaso e
+hiperplasia endotelial (YIN et al., 2021).
+Clinicamente, o paciente apresenta piora progressiva, febre intermitente não
+responsiva a anti-inflamatórios, inapetência e emagrecimento, ascite envolvendo os
+órgãos do abdome e dispneia na presença de derrame pleural. Os achados
+laboratoriais incluem linfopenia e neutropenia, e anemia ou policitemia podem estar
+presentes. Um achado comum é o aumento da proteína plasmática devido ao aumento
+da gamaglobulina, o que indica uma resposta hiper imune ao vírus. Portanto, na maioria
+dos casos, a relação albumina/globulina (A/G) é reduzida, o que é útil para o
+diagnóstico. Por causa do alto teor de proteína, o derrame (líquido ascético) geralmente
+é amarelado a marrom e geralmente é espesso e mucoso (RUBIO; CHAVERA, 2018).
+Pode-se destacar a PIF exsudativa como a forma aguda da patologia, que
+aparece 4 a 6 semanas após uma infecção ou evento estressante. Esta forma da PIF
+ainda se caracteriza por derrame na cavidade, principalmente no peritônio, de
+coloração amarelada, transparente a turvo e viscoso (Figura 4), e manifesta-se como
+distensão abdominal e dispneia. É importante ainda destacar que, a forma exsudativa
+da doença também pode ser caracterizada por uma vasculite causada por
+imunocomplexos, caracterizada por perda de líquido nas cavidades pleural e
+intraperitoneal, combinada com desenvolvimento purulento em um ou mais tecidos
+(geralmente rins, fígado, intestinos), granuloma ou lesões granulomatosas associadas
+(UZAL; PLATTNER; HOTETTER, 2016).
+Figura 4 - Peritonite infecciosa felina na forma exsudativa
+Fonte: Uzal, Plattner e Hotetter (2016)
+Por outro lado, na forma não exsudativa, a PIF apresenta-se principalmente com
+lesões granulomatosas piogênicas, no parênquima do órgão, sinais neurológicos e
+oculares são observados na maioria dos casos de PIF seca. Desta forma, a PIF é muito
+difícil de diagnosticar devido a sintomas clínicos ambíguos, variáveis e inespecíficos. Os
+sinais mais comuns são perda de peso, apetite, letargia e febre intermitente, que não
+melhora com o uso de antibióticos. Dependendo do órgão ou tecido afetado pelas
+lesões vasculíticas e piogranulomatosas, os gatos podem apresentar sinais mais
+21
+específicos, associados a fígado, baço, pâncreas, rins, linfonodos abdominais, pulmões,
+sistema nervoso central, coração, trato gastrointestinal, olhos e relacionados à pele
+(MENDONÇA et al., 2022).
+No entanto, alguns gatos podem não apresentar sinais clínicos e permanecer
+alertas, com apetite normal e uma boa pontuação corporal, mas alguns gatos podem
+apresentar sintomas como polidipsia e poliúria, que podem ser resultado de febre
+(CARDOSO, 2022).
+Como a PIF é uma doença sem sintomas clínicos específicos, é necessário o
+diagnóstico diferencial e a exclusão de outras doenças como peritonite séptica,
+toxoplasmose, empiema, colangite, tumores (principalmente baço, fígado ou linfoma
+gastrointestinal), pancreatite, micoses sistêmicas, retrovírus, glomerulonefrite e
+pneumonia bacteriana (SCARIOT, 2021).
+3.4 Diagnóstico
+O diagnóstico da PIF é difícil devido à variabilidade na apresentação clínica e na
+latência. O diagnóstico é baseado na história, sinais clínicos e exames laboratoriais. A
+PIF possui vários métodos diagnósticos que podem ser interpretados em conjunto,
+como exames hematológicos e bioquímicos; análise de derrames peritoneais/pleurais
+pelo teste de Rivalta; eletroforese de proteínas do fluido luminal; imunocitoquímica;
+técnicas de imagem; testes sorológicos como imunofluorescência e ELISA; e detecção
+molecular por RT-PCR e RT-qPCR (CARDOSO, 2022).
+Na forma não exsudativa, a PIF apresenta-se principalmente com lesões
+granulomatosas piogênicas, no parênquima do órgão, sinais neurológicos e oculares
+são observados na maioria dos casos de PIF seca. Desta forma, a PIF é muito difícil de
+diagnosticar devido a sintomas clínicos ambíguos, variáveis e inespecíficos. Os sinais
+mais comuns são perda de peso, apetite, letargia e febre intermitente, que não melhora
+com o uso de antibióticos. Dependendo do órgão ou tecido afetado pelas lesões
+vasculíticas e piogranulomatosas, os gatos podem apresentar sinais mais específicos,
+associados a fígado, baço, pâncreas, rins, linfonodos abdominais, pulmões, sistema
+nervoso central, coração, trato gastrointestinal, olhos e relacionados à pele
+(MENDONÇA et al., 2022).
+3.4.1 Exame Físico
+De acordo com Pedersen (2022), um exame físico completo deve incluir peso
+corporal e temperatura, estado da pelagem e da carne, palpação manual do abdome e
+dos órgãos abdominais, avaliação da função cardíaca e pulmonar e exame rápido dos
+olhos e do sistema neurológico. Uma forte suspeita de derrame no abdômen ou no
+tórax pode justificar a aspiração confirmatória e até mesmo uma análise interna de
+fluidos como parte do exame inicial.
+22
+No exame físico de gatos com PIF efusiva, observa-se distensão abdominal
+(Figura 5), que pode causar dor e desconforto, e a percussão pode facilmente induzir
+uma onda de líquido. Na presença de derrame pleural, os gatos apresentam dispneia,
+respiração bucal, falta de ar e cianose das mucosas. Em caso de derrame pericárdico,
+pode-se observar batimentos cardíacos diminuídos na ausculta, com possíveis
+alterações no eletrocardiograma (ECG) e ultrassonografia (ADDIE et al., 2020).
+Figura 5 - Gato adulto de pelo longo (A) e pelo curto (B) com PIF úmido, com distensão
+abdominal crônica
+Fonte: Pedersen (2022)
+A maioria dos gatos com PIF seca tem sinais da doença limitados ao abdômen
+e/ou tórax na apresentação. As características clínicas mais comuns da PIF seca são
+palpáveis ou vistas por meio de ultrassom, com massas identificáveis nos rins, ceco,
+cólon, fígado e gânglios linfáticos associados. Estas lesões também podem ser
+visualizadas na pele, olhos, passagens nasais, pericárdio e testículos como parte de
+uma doença sistêmica mais ampla (SCARIOT, 2021).
+De acordo com Cunha et al. (2020), gatos com PIF, mesmo que raro, podem
+apresentar alterações cutâneas. Estas alterações são caracterizadas por lesões
+nodulares por flebite, levemente elevadas e bem definidas no pescoço, tórax e
+extremidades pélvicas.
+Na PIF seca, a principal lesão ocorre no fígado, com numerosas estruturas
+semelhantes a placas (piogranulomas) na cápsula. Lesões mais definidas (granulomas),
+também em direção à superfície serosa, aparecem mais carnudas e se elevam acima
+da superfície. Essas lesões também se estendem para o parênquima hepático
+subjacente. Este é um caso em que a PIF transita entre seca e úmida (PEDERSEN,
+2022).
+23
+3. 4. 2 Diagnóstico hematológico
+No hemograma, pode-se observar anemia grave por sequestro de ferro, que se
+caracteriza então como anemia de doença crônica (normocítica normocrômica). Além
+disso, a neutropenia é comum, com leve ou nenhum desvio, e trombocitopenia. A
+hipoalbuminemia é um achado típico do hemograma devido ao aumento da globulina.
+Outro achado comum é a hiperbilirrubinemia (ausência de colestase e hemólise). Ureia,
+creatinina, ALT e FA podem aumentar devido à localização da lesão granulomatosa no
+órgão (ADDIE et al., 2020).
+De acordo com Pedersen (2022), anormalidades em um hemograma completo e
+um painel básico de bioquímica sérica são importantes para o diagnóstico da PIF e o
+monitoramento da terapia com medicamentos antivirais.
+Quadro 1 – Hemograma Completo de um animal com PIF
+Valores sanguíneos e exclusão de infecção retroviral em dois gatos
+Teste Caso 1: Siamês Caso II:
+Doméstico
+Valores referenciais
+Hemácias 5.98 3.22 5.0-10.0 milhões/ml
+Hematócrito (Ht) 30.0 15 24-45
+Hemoglobina
+(Hb)
+9.4 3.3 9.8-15.4 g/dl
+Plaquetas 283 680 150-500 mil/ml
+Leucócitos 13.9 52.67 5.5-19.5 mil/ml
+Neutrófilos 12.2 42.13 5.5-12.5 mil/ml
+bastonetes 0.14 1.58 0-0.3 mil/ml
+Eosinófilos 0 0.52 0-1.0 mil/ml
+Basófilos 0 0 0-0.2 mil/ml
+Monócitos 0.42 4.21 0-1.0 mil/ml
+Linfócitos 1.12 4.21 1.5-5.0 mil/ml
+Fonte: Adaptado de Rubio e Chavera (2018)
+Na contagem total de leucócitos é mais provável que apresente um quadro de
+leucocitose em gatos com PIF úmido. Apesar disto, não podemos descartar a
+possibilidade de contagem baixa de leucócitos que pode ocorrer com inflamações
+severas, conforme Quadro 1, e que está frequentemente associada à neutrofilia,
+linfopenia e eosinopenia.
+3.4.3 Teste de Rivalta
+No entanto, o valor preditivo positivo de qualquer um desses testes é inferior a
+100% (UZAL; PLATTNER; HOTETTER, 2016). Além disso, para o diagnóstico, os sinais
+clínicos em animais se correlacionam com os achados do exame físico, laboratorial e de
+imagem (CUNHA et al., 2020).
+Ainda de acordo com Yin et al. (2021) o teste de Rivalta (Figura 6) é um método
+simples e barato para distinguir a PIF exsudativa de não exsudativa. O tubo é
+preenchido com água destilada, em seguida adiciona-se uma gota de ácido acético a
+24
+98%, seguida de uma gota da amostra. Se as gotículas acumuladas se dissiparam na
+solução, o teste é negativo e trata-se de um transudato (líquido proveniente da redução
+plasmática ou aumento da pressão hidrostática); se a gota mantém sua forma, o teste é
+positivo e trata-se um exsudato (líquido proveniente de processos inflamatórios).
+Figura 6 - Teste de Rivalta
+Fonte: Cunha et al (2020)
+O teste de Rivalta juntamente com os resultados dos exames hematológicos,
+bioquímicos e de imagem, a suspeita da PIF fica mais evidenciada. O componente do
+fluido que causou a reação positiva no teste de Rivalta ainda é desconhecido, mas a
+positividade não se deve apenas aos altos níveis de proteína (CUNHA et al., 2020).
+3.4.4 Exames de Imagem
+Segundo Scariot (2021), o uso de exames de imagem para auxiliar no diagnóstico
+da PIF é uma forma de avaliar a integridade do órgão e, em seguida, avaliar a
+localização da lesão no órgão acometido pela doença, podendo visualizar a presença
+de líquidos nas cavidades corpóreas e auxiliar na coleta do mesmo para análise
+adicional. Radiografias de tórax podem mostrar derrame pleural, nódulos pulmonares
+em gatos com pneumonia piogranulomatosa e contorno cardíaco aumentado em
+animais com derrame pericárdico. No abdome, as radiografias podem mostrar perda de
+detalhes no peritônio ou retroperitônio devido ao derrame pleural, e também podem
+mostrar fígado, rins e baço aumentados.
+A imagem abaixo (Figura 7) se trata de raio-x realizado em posição laterolateral e
+ventrodorsal, que apresentou discreta efusão no tórax e alteração no pulmão indicando
+um padrão brônquio intersticial infiltrativo, definindo uma pneumonia.
+25
+Figura 7 - Raio X de tórax na posição laterolateral com discreta efusão.
+Fonte: Cunha et al. (2020)
+Ainda de acordo com Cardoso (2022), exames de imagem podem identificar a
+integridade do órgão e também podem apresentar a presença de líquido na cavidade.
+Esses testes ajudam a coletar fluido, se necessário. Nas radiografias há evidência de
+derrame pleural e pericárdico, enquanto na ultrassonografia pode-se observar líquido
+peritoneal anecoico ou moderadamente ecogênico.
+Nos exames de ultrassom é possível observar em animais com PIF, alterações
+em órgãos como rim, fígado, baço e bexiga, que podem perder a aparência e as
+características (CUNHA et al., 2020). Os principais achados ultrassonográficos podem
+ser aumento renal, contorno renal irregular e hipoecogênico subcapsular, linfadenopatia
+abdominal e acúmulo de líquido peritoneal ou retroperitoneal, com alterações intestinais
+reforçando a suspeita de PIF (Figura 8). No entanto, uma USG normal não exclui o
+diagnóstico de PIF (YIN et al., 2021).
+Figura 8 - Imagem do Rim de um felino com peritonite infecciosa felina
+Fonte: Barrocas (2018)
+26
+Observa-se, na Figura 8, a ultrassonografia do rim de um felino, com a presença
+de líquido livre no abdômen e derrame pericárdico discreto com tamponamento atrial
+direito, presença de estruturas com estruturas ecogênicas heterogêneas, possivelmente
+aderidas ao pericárdio, provavelmente neoplásicas (BARROCAS, 2018).
+3.4.5 Reação em cadeia de polimerase
+Segundo Silva et al. (2017), a reação em cadeia da polimerase em tempo real
+(qPCR) revolucionou a virologia diagnóstica, pois é usada principalmente para detecção
+quantitativa de vírus em amostras biológicas, no entanto, apenas identificam altas
+titulações para o FCoV.
+A reação em cadeia da polimerase (PCR) é usada para detectar o vírus em
+diferentes amostras, como sangue, fluidos corporais, coleções de fluidos, tecidos ou
+fezes. Este exame tem alta sensibilidade e especificidade para o vírus, consiste na
+amplificação e detecção de pequenos fragmentos de DNA, que são mais bem
+encontrados nas fezes dos animais, mas não consegue distinguir entre os diferentes
+vírus do coronavírus. Gatos portadores do PIFV podem apresentar resultados
+sorológicos negativos devido à rápida progressão da doença (YIN et al., 2021).
+Ainda segundo Pinto et al. (2020), a PCR não distingue entre cepas virulentas e
+avirulentas. Além disso, cepas avirulentas podem ser encontradas no sangue e tecidos
+de gatos sem PIF. Portanto, encontrar o vírus em outros locais que não o trato
+gastrointestinal não é útil para o diagnóstico.
+3.4.6 Diagnóstico post mortem
+O diagnóstico ante mortem definitivo é um desafio, especialmente para doença
+não exsudativa com sintomas ambíguos e sem alterações características nos
+parâmetros clínicos. A forma exsudativa é mais fácil de diagnosticar, no entanto,
+apenas 50% dos gatos com efusão têm PIF, uma vez que outras condições também
+produzem efusão, como tumores hepáticos, colangite linfocítica e linfoma (KENNEDY,
+2020).
+A infecção por FCoV é comum, portanto, a evidência de infecção não diagnostica
+a PIF. Embora o diagnóstico de PIF devido ao mau prognóstico seja crítico, fazer um
+diagnóstico antes da morte pode ser desafiador, pois requer uma combinação de
+evidências obtidas durante o encaminhamento do paciente, história clínica, exame
+físico, exames de imagem e achados laboratoriais (ADDIE et al., 2020).
+Já o diagnóstico post mortem, de acordo com Cunha et al. (2020), é realizado
+pelo exame histopatológico e pelas lesões macroscópicas encontradas durante a
+necropsia dos animais. No exame macroscópico da PIF úmida, um dos principais
+achados é a presença de derrames altamente proteicos na cavidade abdominal e/ou
+torácica, cuja superfície serosa pode estar recoberta por fibrina, conferindo-lhe aspecto
+granular e pequenas aderências (Figuras 9 e 10), omento avermelhado, edematoso e
+27
+contraído, e placas de fibrina evidentes nas superfícies do baço e nas bordas do fígado
+são achados da PIF (PEDERSEN, 2022).
+Figura 9 - Fotografia do abdômen de um felino contendo efusão
+Fonte: Greene (2006).
+Figura 10 - Necropsia, observa-se efusão na cavidade abdominal de um gato com
+peritonite infecciosa felina úmida e aguda.
+Fonte: Pedersen (2022)
+Na PIF não exsudativa podem ser observados granulomas e lesões nodulares
+macroscópicas de coloração branca (PANEGOSSI et al., 2022). De acordo com Silva et
+al (2017), os granulomas aparecem como lesões nodulares brancas, creme ou
+amarelas na superfície serosa e em órgãos parenquimatosos como pulmão, baço, rim,
+pâncreas e fígado. Os piogranulomas podem aparecer como lesões miliares ou podem
+ter vários centímetros de diâmetro. Linfonodos inchados no tórax e/ou abdômen são
+achados comuns. Pode haver uma massa no intestino, ou pode haver espessamento
+28
+difuso ou focal da parede intestinal. O exame do cérebro pode revelar a presença de
+exsudatos fibrinosos associados às meninges, com ou sem dilatação ventricular e
+hidrocefalia.
+3.4.7 Histopatologico e Imuno-histoquímica
+Um diagnóstico definitivo de PIF, método padrão ouro para o diagnóstico de PIF,
+é feito por histopatologia e imuno-histoquímica, mas um diagnóstico presuntivo pode
+ser baseado na história, bem como em achados clínicos, laboratoriais e de necropsia
+em animais com suspeita de PIF (ADDIE et al., 2020).
+A histopatologia é realizada por meio da coleta de amostras de órgãos afetados
+com inflamação perivascular. Nesta análise, pode-se verificar inflamação
+piogranulomatosa em nível perivascular na presença de PIF exsudativa (RIBEIRO;
+PASQUALI, 2020).
+A imunohistoquímica é uma técnica para detectar antígenos de coronavírus felino
+usando anticorpos monoclonais e policlonais específicos. O anticorpo utilizado é um
+"fragmento" do vírus que utiliza o citoplasma de macrófagos infectados, onde ocorre a
+autocoloração marrom. A partir dessa cor e das lesões observadas, pode-se fazer o
+diagnóstico da doença (PINTO et al., 2020).
+Amostras obtidas para biópsias de tecidos relevantes são um procedimento
+diagnóstico valioso para identificar lesões características de PIF como inflamação
+piogranulomatosa e vasculite. Além disso, a PIF só pode ser diagnosticada por
+histopatologia e imuno-histoquímica de lesões características (Figura 11). No entanto,
+as biópsias de gatos com PIF são muito difíceis, por isso o resultado final é determinado
+pós mortem (CAMPÊLO, 2019).
+Figura 11 - Apresentação da peritonite infecciosa felina na medula óssea de um gato
+Fonte: Luz et al. (2018)
+Na avaliação histopatológica da medula óssea de um gato com PIF, pode-se
+observar (Figura 11A) a presença de megacariócitos dislobulado e com núcleos em
+forma de chifre de veado. Na avaliação imuno-histoquímica (Figura 11B), evidencia-se,
+por meio do marcador do anticorpo monoclonal anti-antígeno mieloide, a coloração
+29
+marrom-escuro dos precursores mieloides de linhagem granulocítica, principalmente
+mielócitos, metamielócitos e bastonetes (LUZ et al., 2018).
+3.5 Tratamento
+Atualmente, o tratamento da PIF é baseado em cuidados de suporte que visam
+garantir que a vida do animal seja prolongada e sua qualidade seja mantida. No
+entanto, essa alternativa de tratamento só prolonga a vida do animal, dando uma
+sobrevida ao lado dos seus tutores. Portanto, não reduz a mortalidade pela doença, que
+irá evoluir para a morte dos gatos infectados, que apresentam sinais clínicos mais
+graves da doença como emagrecimento, perda de apetite e fraqueza (CARDOSO,
+2022).
+As recomendações para a prevenção e controle da doença relacionada ao PIFV
+são difíceis de generalizar porque muitos fatores influenciam o resultado da infecção,
+mas tanto o manejo quanto a vacinação podem desempenhar um papel importante. Os
+animais que sobrevivem por ação do medicamento tendem a apresentar os sinais
+clínicos que podem evoluir para a morte do animal. A eutanásia pode ser recomendada
+devido à baixa qualidade de vida e prognóstico ruim (SCARIOT, 2021).
+Um prognóstico favorável pode ser atribuído a gatos em boas condições físicas,
+com apetite normal, comportamento ativo, sem sintomas neurológicos e sem doença
+concomitante, como FeLV (ADDIE et al., 2020).
+O tratamento pode ser feito de três formas: a primeira é com drogas que atuam
+inibindo a replicação viral; a segunda é baseada no uso de drogas imunomoduladoras,
+por meio de citocinas como os interferons, que atuam suprimindo aspectos importantes
+da resposta inflamatória e promovendo a produção de células e um aumento nas
+respostas mediadas. Embora o sucesso dessa abordagem dependa da associação com
+certos medicamentos antivirais. Finalmente, o terceiro tratamento envolve o uso de
+drogas que causam imunossupressão do sistema imunológico em gatos com PIF
+(CARDOSO, 2022).
+Atualmente, há mais de uma abordagem para o tratamento da PIF, combinando
+drogas imunomoduladoras com drogas imunossupressoras e antivirais para controlar a
+eficácia dos tratamentos prescritos para proteger a segurança do animal. Além disso,
+de acordo com James et al. (2020) para o tratamento baseado na imunossupressão, as
+drogas comumente utilizadas são a prednisolona ou a ciclofosfamida (PANEGOSSI et
+al., 2022).
+A prednisolona é a mais eficaz porque estimula o apetite e melhora a condição
+do animal. A droga suprime as respostas imunes humoral e celular e deve ser
+administrada por via oral na dose de 2-4 mg/kg SID, diminuindo a cada 10-14 dias até
+que a dose ideal para o animal seja alcançada e isto é estabelecido por uma resposta
+estável ao tratamento (SCARIOT, 2021).
+Segundo Sweet et al. (2022), alguns gatos melhoram temporariamente com
+medicação paliativa, incluindo cuidados de suporte (por exemplo, fluidoterapia) e altas
+doses de corticosteroides em combinação com outros medicamentos
+30
+imunossupressores, como clorambucil ou ciclofosfamida. Os corticosteroides e essas
+drogas citotóxicas não têm efeito sobre o vírus, mas devido aos seus efeitos
+anti-inflamatórios e imunossupressores, são capazes de controlar a disseminação da
+resposta inflamatória imunomediada que ocorre na PIF. No entanto, essas drogas
+afetam negativamente a imunidade celular mediada por linfócitos T e macrófagos e,
+portanto, também têm potencial para promover infecção viral. Se nenhuma resposta ao
+tratamento for observada nas primeiras 2 a 4 semanas, o tratamento deve ser
+considerado ineficaz e deve ser modificado ou descontinuado. Em caso de resposta
+positiva, o tratamento deve ser continuado indefinidamente.
+Com o desenvolvimento das recentes pesquisas, gradualmente foram
+encontrados avanços no tratamento da PIF, tais como estudos sobre GS-441524 e
+GC3766-9,16. Mas os efeitos colaterais destas duas drogas não são claros, e não
+podem ser usados para tratamento clínico imediatamente (DELAPLACE et al., 2021).
+O GS-441524 é um análogo de nucleosídeo que atua como um inibidor de RNA
+polimerase dependente de RNA (RdRp) projetado para interromper o processo de
+replicação do genoma viral. O GS-441524 é uma pequena molécula com potente
+atividade antiviral contra uma variedade de vírus de RNA, incluindo o coronavírus felino
+(KENNEDY, 2020).
+Estudos in vitro mostraram que o análogo de nucleosídeo GS-441524 inibe
+completamente a replicação do PIFV em células renais felinas Crandell-Rees (CRFK) e
+macrófagos peritoneais de felinos naturalmente infectados em concentrações ≥ 1uM in
+vitro e sem toxicidade detectável a 100 μm. Estudos in vivo também mostraram
+resultados promissores, tanto em infecções experimentais quanto naturalmente
+adquiridas, nos quais os animais apresentaram remissão dos sintomas clínicos alguns
+dias após o início do tratamento (SPOLTI, 2021).
+Além disso, o uso da molécula foi associado a efeitos colaterais mínimos, onde
+reações cutâneas locais e desconforto após a injeção foram as únicas reações
+adversas clinicamente relevantes. Além disso, foi observado um aumento significativo
+na taxa de sobrevivência desses animais (RIBEIRO; PASQUALI, 2020).
+Dado o sucesso potencial do GS-441524 no tratamento de gatos com PIF, muitos
+donos de gatos tratam seus animais de estimação de forma independente com
+medicamentos não licenciados no Brasil, como o GS-441524. Um estudo recente
+realizou uma pesquisa com tutores tentando tratar a PIF com este medicamento e
+contabilizou que 54% deles acreditavam que seus gatos haviam sido curados da PIF, e
+a maioria dos animais tratados estavam vivos nas 12 semanas de monitoramento. O
+estudo destaca os benefícios potenciais do medicamento GS-441524, mas muitas
+preocupações permanecem sobre o uso generalizado desses tratamentos não
+licenciados no Brasil, incluindo o surgimento de cepas potencialmente resistentes a
+medicamentos (DELAPLACE et al., 2021).
+31
+4. CONSIDERAÇÕES FINAIS
+O presente trabalho demonstra a importância do conhecimento da peritonite
+infecciosa felina devido ao seu rápido curso clínico, alta mortalidade e difícil
+diagnóstico.
+Outro ponto importante que deve ser considerado é que a infecção pelo
+coronavírus felino tem alta taxa de transmissão em ambientes onde os animais se
+reúnem, como abrigos ou casas de gatos.
+Contudo, a Peritonite Infecciosa Felina segue como um desafio para o médico
+veterinário devido ao alto grau de dificuldade no diagnóstico da doença, sendo o
+médico veterinário primordial para a realização da anamnese junto a exames
+complementares que visam chegar próximo ao diagnóstico da PIF. Além disso, os
+avanços relacionados ao diagnóstico e tratamento da doença é advindo de pesquisas e
+estudos realizados por médicos veterinários, tornando estes profissionais ainda mais
+importantes para os cuidados dos animais com esta patologia.
+Portanto, a necessidade de avanços na detecção do PIFV e nas possibilidades
+de diagnóstico e tratamento demonstra a importância de mais pesquisas em técnicas
+genômica e de biologia molecular para entender a patogênese da doença, fornecendo
+ferramentas para facilitar o diagnóstico e o tratamento precoces, bem como na redução
+das fatalidades da doença.
+32
+REFERÊNCIAS
+ADDIE, D. et al. Rapid Resolution of Non-Effusive Feline Infectious Peritonitis Uveitis
+with an Oral Adenosine Nucleoside Analogue and Feline Interferon Omega. Viruses,
+France, v. 12, n.11, p. 1216, 2020. Disponível em:
+https://www.mdpi.com/19994915/12/11/1216. Acesso em: 01 out. 2022.
+BARROCAS, Lilian Bastos. Relatório de Estágio Supervisionado Obrigatório (ESO)
+peritonite infecciosa felina (PIF): relato de caso. 2018. Trabalho de Conclusão de
+Curso. Universidade Federal Rural De Pernambuco. (Curso – Medicina Veterinária).
+Prof.ª Dr.ª Daniela Maria Bastos de Souza. Disponível em:
+http://repository.ufrpe.br/handle/123456789/899. Acesso em: 12 Nov. 2022.
+BERLINER, E. A. Peritonite Infecciosa Felina. Revista Royal Canin. Ed nº 29.1. 2021.
+Disponível em:
+https://vetfocus.royalcanin.com/pt/issues/publica%C3%A7%C3%B5es-regulares/gatos-f
+ilhotes-e-adultos-jovens. Acesso em: 20 out. 2022.
+BUBENIKOVA, J. et al. Candidate Gene Markers Associated with Fecal Shedding of the
+Feline Enteric Coronavirus (FECV). Pathogens, USA. v. 9, n. 11, p. 958, 2020. DOI:
+https://doi.org/10.3390/pathogens9110958. Disponível em:
+https://www.mdpi.com/2076-0817/9/11/958. Acesso em: 29 out. 2022.
+CAMPÊLO, Thaís Seixas. Peritonite infecciosa felina: breve revisão. 2019. Trabalho
+de Conclusão de Curso (Bacharelado em Medicina Veterinária) — Universidade de
+Brasília, DF, 2019. Disponível em: https://bdm.unb.br/handle/10483/3233. Acesso em:
+29 Out. 2022
+CANUTO, Francisco Jucélio Correia et al. Peritonite infecciosa felina-Relato de caso.
+Revista Brasileira de Higiene e Sanidade Animal, Fortaleza, CE, v. 11, n. 4, p.
+426-432, 2017. DOI: http://dx.doi.org/10.5935/1981-2965.20170041. Disponível em:
+http://www.higieneanimal.ufc.br/seer/index.php/higieneanimal/article/view/417. Acesso
+em: 04 out. 2022.
+CARDOSO, P. S. Peritonite infecciosa felina (PIF): revisão bibliográfica. 2019.
+Trabalho de Conclusão de Curso (Bacharel em Medicina Veterinária) - Fundação
+Edson Queiroz Universidade de Fortaleza, Minas Gerais, 2019. Disponível em:
+https://bibliotecadigital.uniformg.edu.br:21015/xmlui/bitstream/handle/123456789/826/T
+CC_PietraSilvaCardoso.pdf?sequence=1&isAllowed=y. Acesso em: 09 out. 2022.
+CASAGRANDE, T.; MACHADO, D. D. Peritonite Infecciosa Felina: Relato de dois
+casos clínicos. Revista Ciência & Cidadania, Orleans, SC, v. 2, n. 1, p. 103, 2016.
+Disponível em:
+http://periodicos.unibave.net/index.php/cienciaecidadania/article/view/53/44. Acesso em
+12 set. 2022.
+CUNHA, R.L. B. et al. Evolução da peritonite infecciosa felina da forma úmida para
+seca: Relato de caso. Pubvet, Ceará, v. 15, p. 208, 2020. DOI:
+https://doi.org/10.31533/pubvet.v15n07a866.1-9. Disponível em:
+https://web.archive.org/web/20210716072143id_/http://www.pubvet.com.br/uploads/439
+195cb612cf830d28de8f1f5dab79f.pdf. Acesso em: 02 out. 2022.
+DELAPLACE, M. et al. Feline coronavirus antivirals: A review. Pathogens, Paris, v. 10,
+n. 9, p. 1150, 2021. DOI: doi.org/10.3390/pathogens10091150. Disponível em:
+https://www.mdpi.com/2076-0817/10/9/1150. Acesso em: 04 out. 2022.
+FELTEN, S. Diagnosis of Feline Infeccious Peritonitis: a Review of the Current
+Literature. Viruses, Alemanha, v. 11, p. 1068. 2019. DOI: doi:10.3390/v11111068.
+Disponível em: https://www.mdpi.com/1999-4915/11/11/1068. Acesso em: 12 Dez.
+2022.
+33
+GREENE, C. E. (2006). Infectious diseases of the dog and cat. (Issue Ed. 3). WB
+Saunders/Elsevier Science. Disponível em:
+https://www.cabdirect.org/cabdirect/abstract/20053181866. Acesso em: 11 Dez. 2022.
+JAIMES, J. A. et al. A Tale of Two Viruses: the distinct spike glycoproteins of feline
+Coronaviruses. Viruses, Paris-Saclay, v. 10, n.12, p. 83. 2020. DOI:
+https://doi.org/10.3390/v12010083. Disponível em:
+https://www.mdpi.com/1999-4915/12/1/83. Acesso em: 01 out. 2022.
+KENNEDY, M. A. Feline Infectious Peritonitis. Veterinary Clinics of North America:
+Small Animal Practice, USA, v. 50, n. 5, p. 1001–1011, 2020. DOI:
+https://doi.org/10.1016/j.cvsm.2020.05.002. Disponível em:
+https://www.vetsmall.theclinics.com/article/S0195-5616(20)30042-5/fulltext. Acesso em:
+04 out. 2022.
+LOVATO, L. T.; DEZENGRINI, R. Coronaviridae In: FLORES, E. F. Virologia
+Veterinária. Virologia Geral e Doenças Víricas. Santa Maria: UFSM. 3ª ed. p.
+624-626, 2017.
+LUZ, Flávia S. et al. Mielodisplasia na peritonite infecciosa felina: 16 casos
+(2000-2017). Pesquisa Veterinária Brasileira. Santa Maria, RGS, v. 38, p. 1638-1648,
+2018. DOI: https://doi.org/10.1590/1678-5150-PVB-5578. Disponível em:
+https://www.scielo.br/j/pvb/a/G4BqbpFQnPHjkSwT3xFh96v/abstract/?lang=pt. Acesso
+em: 11 out. 2022.
+MASSITEL, I. L.; VIANA, D. B.; FERRANTE, M. Peritonite infecciosa felina: Revisão.
+Pubvet. Londrina, v. 15, p. 143, 2020. DOI:
+https://doi.org/10.31533/pubvet.v15n01a740.1-8. Disponível em:
+https://web.archive.org/web/20201211073412id_/http://www.pubvet.com.br/uploads/dfc
+302d8ba865e4584d52d9515b0aae2.pdf. Acesso em: 20 set. 2022.
+MENDONÇA, M. L. M. et al. Coronavírus felino: revisão bibliográfica: Feline
+coronavirus: literature review. Brazilian Journal of Development, Curitiba, v. 8, n. 9, p.
+63623-63643, 2022. DOI: https://doi.org/10.34117/bjdv8n9-214. Disponível em:
+https://www.brazilianjournals.com/ojs/index.php/BRJD/article/view/52384?__cf_chl_tk=f
+D17sJcTv2_DAxmdqFOvYDBxNxPLCbhos3oeATd2YJ0-1670799277-0-gaNycGzNCT0
+. Acesso em: 14 out. 2022.
+PEDERSEN, N. C. History of Feline infectious Peritonitis 1963-2022–First
+description to Successful Treatment. Center for Companion Animal Health, School of
+Veterinary Medicine, University of California, 944 Garrod Drive, Davis, CA, 95616, USA
+April 17, 2022. Disponível em:
+https://ccah.vetmed.ucdavis.edu/sites/g/files/dgvnsk4586/files/inline-files/Review%20FI
+P%201963-2022%20final%20version%20April%202022_0.pdf. Acesso em: 22 out.
+2022.
+PANEGOSSI, Letícia Colin et al. Aspectos clínico-neurológicos e laboratoriais da
+peritonite infecciosa felina: Clinical-neurological and laboratory aspects of feline
+infectious peritonitis. Brazilian Journal of Animal and Environmental Research, v. 5,
+n. 4, p. 3857-3864, 2022. Disponível em:
+https://ojs.brazilianjournals.com.br/ojs/index.php/BJAER/article/view/54265. Acesso em:
+12 Dez. 2022.
+PINTO, M. C. B. et al. Peritonitis infecciosa felina: revisión de literatura y aspectos
+generales de las principales técnicas de diagnostico. Ibagué, Colombia, 2020. Asesor:
+Dunia Trujillo. Disponível em:
+ttp://74.208.53.179/bitstream/20.500.12494/20198/2/2020_BarriosPinto_Peritonitis_Infe
+cciosa_Felina.pdf. Acesso em: 03 out. 2022.
+RIBEIRO, L. T. et al. Peritonite infecciosa felina: Relato de caso. Seminário de
+Iniciação Científica e Seminário Integrado de Ensino, Pesquisa e Extensão, p.
+e25142-e25142, 2020. Universidade do Oeste de Santa Catarina. – Joaçaba, SC:
+34
+Editora Unoesc. Disponível em:
+https://unoesc.emnuvens.com.br/siepe/article/download/25142/14798. Acesso em: 05
+Dez. 2022.
+RIBEIRO, L. T.; PASQUALI, A. K. S. Peritonite Infecciosa Felina: Revisão De Literatura.
+Seminário de Iniciação Científica e Seminário Integrado de Ensino, Pesquisa e
+Extensão, p. e25329-e25329, 2020. Disponível em:
+https://portalperiodicos.unoesc.edu.br/siepe/article/download/25329/14910. Acesso em:
+05 Dez. 2022.
+RIEMER, F. et al. Clinical and laboratory features of cats with feline infectious peritonitis
+– a retrospective study of 231 confirmed cases (2000–2010). Journal of Feline
+Medicine and Surgery, v. 18, n. 4, p. 348–356, USA. 2016. DOI:
+https://doi.org/10.1177/1098612X15586209. Disponível em:
+https://journals.sagepub.com/doi/full/10.1177/1098612X15586209. Acesso em: 25 set.
+2022.
+RUBIO, A.; CHAVERA, A. Peritonitis infecciosa felina: dos casos clínicos en Lima-Perú .
+Revista de Investigaciones Veterinarias del Perú, Lima, Péru, v. 29, n. 1, p. 381-388.
+2018. DOI: http://dx.doi.org/10.15381/rivep.v29i1.14188. Disponível em:
+http://www.scielo.org.pe/scielo.php?pid=S1609-91172018000100038&script=sci_arttext
+&tlng=en. Acesso em: 20 set. 2022.
+SCARIOT, A. C. Marcadores moleculares e sua utilização no diagnóstico do vírus
+da peritonite infecciosa felina. 2021. Trabalho de Conclusão de Curso (Graduação
+em Medicina Veterinária) - Universidade Federal do Rio Grande do Sul, Porto Alegre.
+2021. Disponível em: https://www.lume.ufrgs.br/handle/10183/232891. Acesso em: 04
+out. 2022.
+SILVA, A. L. et al. Peritonite Infecciosa Felina (PIF) – Revisão de Literatura. Anais Do
+XX Simpósio de Ciências Aplicadas da FAEF. Garça/SP: Editora FAEF, 2017.
+Disponível em:
+https://www.faef.br/userfiles/files/Anais%20FAEF%202017%20-%20Vol%2010%20-%2
+0Medicina%20Veterinaria.pdf#page=38. Acesso em: 16 Nov. 2022.
+SILVESTRE, G. S. et al. Relatório de estágio obrigatório supervisionado nas áreas
+de clínica médica de pequenos animais e clínica médica de felinos. 2022. Trabalho
+Conclusão do Curso. (Graduação em Medicina Veterinária) – Universidade
+Federal de Santa Catarina. Orientador: Profª. Marcy Lancia Pereira. Curitibanos. 2022.
+Disponível em: https://repositorio.ufsc.br/handle/123456789/233615. Acesso em: 18
+Nov. 2022.
+SPOLTI, J. et al. Relato de caso: Peritonite infecciosa felina em fêmea de 10
+meses. 2021. Trabalho Conclusão do Curso. (Graduação em Medicina Veterinária) -
+Universidade Federal de Santa Catarina. Profª. Drª. Marcy Lancia Pereira. Curitibanos,
+2021. Disponível em: https://repositorio.ufsc.br/handle/123456789/224101. Acesso em:
+15 Dez. 2022.
+SWEET, A. N. et al. Clinical and Molecular Relationships between COVID-19 and Feline
+Infectious Peritonitis (PIF). Viruses. USA. v. 14, n. 3, p. 481, 2022. Supl. DOI:
+https://doi.org/10.3390/v14030481. Disponível em:
+https://www.mdpi.com/1999-4915/14/3/481. Acesso em: 26 out. 2022.
+TAKANO, T. et al. Antiviral activity of itraconazole against type I feline coronavirus
+infection. Veterinary research. Aomori, Japan. v. 50, n. 1, p. 1-6, 2019. Supl. DOI:
+https://doi.org/10.1186/s13567-019-0625-3. Disponível em:
+https://link.springer.com/article/10.1186/s13567-019-0625-3. Acesso em: 04 out. 2022.
+TEKES, G.; THIEL, H.-J. Feline coronaviruses: pathogenesis of feline infectious
+peritonitis. Advances in virus research, v. 96, p. 193-218, USA. 2016. Supl. DOI:
+10.1016/bs.aivir.2016.08.002. Disponível em:
+35
+https://www.sciencedirect.com/science/article/pii/S0065352716300410. Acesso em: 12
+out. 2022.
+UCHIDA, C. Y. Avaliação dos principais métodos de diagnóstico ante mortem da
+peritonite infecciosa felina. 2017. Trabalho de Conclusão de Curso. (Graduação em
+Medicina Veterinária) – Universidade Estadual Paulista. Araçatuba, SP, 2017.
+Disponível em: https://repositorio.unesp.br/handle/11449/156707. Acesso em: 12 Dez.
+2022.
+UZAL, F. A.; PLATTNER, B. L.; HOTETTER, J. M. Alimentary system: Infectious and
+parasitc diseases of the alimentary tract. In: MAXIE, M. G. Jubb, Kennedy, anda
+Palmer’s. Pathology of domestic animals. 6. ed. St. Louis: Elsevier, 2016. cap. 1, p.
+3-257. v. 2. Supl. DOI: 10.1016/B978-0-7020-5318-4.00007-3. Disponível em:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7811793/. Acesso em: 04 out. 2022.
+WALKER, P. J. et al. Changes to virus taxonomy and the Statutes ratified by the
+International Committee on Taxonomy of Viruses. Archives of Virology. v. 165, n. 11,
+p. 2737-2748. USA. 2020. Supl. DOI: https://doi.org/10.1007/s00705-020-04752-x.
+Disponível em: https://link.springer.com/article/10.1007/s00705-020-04752-x. Acesso
+em: 19 out. 2022.
+YIN, Y. et al. A retrospective study of clinical and laboratory features and treatment on
+cats highly suspected of feline infectious peritonitis in Wuhan, China. Scientific
+reports, v. 11, n. 1, p. 1-9, 2021. Supl. DOI:
+https://doi.org/10.1038/s41598-021-84754-0. Disponível em:
+https://www.nature.com/articles/s41598-021-84754-0. Acesso em: 15 out. 2022.

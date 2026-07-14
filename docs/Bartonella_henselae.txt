@@ -1,0 +1,829 @@
+3. Infecção por Bartonella henselae
+A Bartonella henselae é uma bactéria que pode infectar os gatos e ser transmitida para as pessoas por meio de arranhões causados por esse animal, por isso a infecção por essa bactéria recebe o nome de doença da arranhadura do gato.
+Após o arranhão, a bactéria entra no organismo e pode causar infecção na pele das pessoas que possuem o sistema imune comprometido devido ao uso de medicamentos, doenças ou transplantes, por exemplo. Saiba reconhecer os sintomas da doença da arranhadura do gato.
+A doença da arranhadura do gato é uma infecção pode ser transmitida para as pessoas pela mordida, arranhão ou contato com a saliva de um gato infectado pela bactéria Bartonella henselae.
+Apesar de ser uma doença transmitida por gatos, nem todos os gatos são portadores da bactéria. No entanto, como não é possível saber se o gato possui ou não a bactéria, é importante que seja levado a consultas periódicas no veterinário para que sejam feitos exames e seja feita a desparasitação, prevenindo essa e outras doenças.
+Na presença de sintomas indicativos da doença da arranhadura do gato, como bolhas vermelhas ao redor do arranhão, inflamação dos gânglios linfáticos, perda de apetite e de peso, é recomendado consultar o clínico geral ou infectologista para que seja confirmado o diagnóstico e iniciado o tratamento mais adequado, que pode incluir analgésicos, anti-inflamatórios e, em alguns casos, antibióticos.
+Principais sintomas
+Os principais sintomas da doença da arranhadura do gato são:
+	Bolha vermelha em torno do local do arranhão;
+	Gânglios linfáticos inflamados, popularmente chamadas de ínguas;
+	Febre alta que pode ser de 38 a 40ºC;
+	Dor e rigidez no local lesionado;
+	Falta de apetite e emagrecimento sem causa aparente;
+	Problemas de visão como vista embaçada e ardência nos olhos;
+	Irritabilidade.
+Nos casos mais graves da doença da arranhadura do gato, pode haver alteração no fígado e no baço, assim como alterações neurológicas, como encefalopatia, mielite, radiculite ou neurorretinite.
+Os sintomas costumam surgir entre 3 a 12 dias após o arranhão do gato infectado, sendo importante que o infectologista ou clínico geral seja consultado.
+Como é feito o diagnóstico
+O diagnóstico da doença da arranhadura do gato é feito pelo clínico geral ou infectologista a partir da avaliação dos sinais e sintomas apresentados pela pessoa, levando em consideração de a pessoa sofreu algum arranhão do gato e quando isso aconteceu.
+Além disso, para confirmar o diagnóstico, é indicada a realização de exame de sangue para investigar a presença da bactéria Bartonella henselae, que é transmitida pelo gato no momento do arranhão e que leva ao aparecimento dos sinais e sintomas da doença.
+O que fazer: lavar imediatamente o local do arranhão com água e sabão, podendo ser utilizado um antisséptico em seguida para reduzir o risco de infecção, sendo importante observar o aparecimento de sinais como vermelhidão, inchaço, dor local ou febre, e procurar o médico caso esses sintomas surjam.
+Em pessoas com imunidade comprometida, a atenção deve ser redobrada, sendo recomendado procurar avaliação médica mesmo após arranhões leves.
+Também é indicado manter as vacinas do gato em dia, assim como a desparasitação, pois essa bactéria é frequentemente encontrada em pulgas que podem afetar os gatos e, assim, transmitir a doença.
+
+Prevalence of Bartonella species in shelter cats and their
+ectoparasites in southeastern Brazil
+Prevalência de espécies de Bartonella em gatos de abrigos e seus
+ectoparasitas no Sudeste do Brasil
+Juliana Macedo Raimundo1; Andresa Guimarães1; Gleice Marques Amaro1; Aline Tonussi da Silva1;
+Caio Junior Balduino Coutinho Rodrigues2; Huarrisson Azevedo Santos3; Elba Regina Sampaio de Lemos4;
+Alexsandra Rodrigues de Mendonça Favacho5; Cristiane Divan Baldani1*
+1Laboratório de Patologia Clínica Veterinária, Departamento de Medicina e Cirurgia Veterinária, Instituto de Veterinária, Universidade
+Federal Rural do Rio de Janeiro – UFRRJ, Seropédica, RJ, Brasil
+2Laboratório de Controle Microbiano, Departamento de Parasitologia Animal, Instituto de Veterinária, Universidade Federal Rural do
+Rio de Janeiro – UFRRJ, Seropédica, RJ, Brasil
+3Laboratório de Sanidade Avícola, Departamento de Epidemiologia e Saúde Pública, Instituto de Veterinária, Universidade Federal
+Rural do Rio de Janeiro – UFRRJ, Seropédica, RJ, Brasil
+4Laboratório de Hantaviroses e Rickettsioses, Fundação Oswaldo Cruz – Fiocruz, Rio de Janeiro, RJ, Brasil
+5Fiocruz Mato Grosso do Sul, Fundação Oswaldo Cruz – Fiocruz, Campo Grande, MS, Brasil
+How to cite: Raimundo JM, Guimarães A, Amaro GM, Silva AT, Rodrigues CJBC, Santos HA, et al. Prevalence of Bartonella species
+in shelter cats and their ectoparasites in southeastern Brazil. Braz J Vet Parasitol 2022; 31(1): e014221. https://doi.org/10.1590/
+S1984-29612022006
+Received August 17, 2021. Accepted December 17, 2021.
+Financial support: This research was financially supported by the Carlos Chagas Filho Foundation for Research Support in the State of Rio de Janeiro
+(FAPERJ; grant number: E-26/110.386/2014).
+*Corresponding author: Cristiane Divan Baldani. E-mail: crisbaldani@gmail.com
+Abstract
+Feline Bartonella can be transmitted to humans through cat scratches or bites, and between cats, by the flea
+Ctenocephalides felis. The study was carried out in order to investigate the occurrence of Bartonella DNA in cats
+living in shelters and their ectoparasites and the relationship between the infection status of cats and ectoparasites
+they host. Bartonella DNA was detected in 47.8% of the cat blood samples, 18.3% of C. felis fleas, 13.3% of flea
+egg pools and 12.5% of lice pools. B. henselae and B. clarridgeiae DNA were detected in cat fleas, while B. henselae,
+B. clarridgeiae and B. koehlerae were found in blood samples from bacteremic cats. Cats infested by positive
+ectoparasites showed approximately twice the odds of being infected. Our results indicate that shelter cats have
+high prevalence of Bartonella species that are known to be human pathogens. This highlights the importance of
+controlling infestations by ectoparasites to avoid cat and human infection.
+Keywords: Bartonella, zoonotic diseases, pathogen transmission, fleas, ticks, lice.
+Resumo
+Algumas espécies de Bartonella têm os felinos como principais hospedeiros reservatórios. Tais patógenos são
+transmitidos ao homem por intermédio da arranhadura ou mordedura de gatos e entre os gatos, por meio da
+pulga Ctenocephalides felis. O objetivo deste estudo foi investigar a ocorrência de DNA de Bartonella spp. em gatos
+de abrigos e seus ectoparasitas e a relação entre o estado de infecção dos gatos e dos ectoparasitas albergados
+por estes. Material genético bacteriano foi detectado em 47,8% das amostras de sangue de gatos, 18,3% das pulgas
+C. felis, 13,3% dos “pools” de ovos de pulgas e 12,5% dos “pools” de piolhos. DNA de B. henselae e B. clarridgeiae
+foi detectado em pulgas, e B. henselae, B. clarridgeiae e B. koehlerae, em amostras de sangue de gatos. Gatos
+infestados por ectoparasitas que carreavam DNA de Bartonella spp. demonstraram aproximadamente o dobro
+de chance de estarem infectados. Esses resultados indicam que os gatos de abrigos têm alta prevalência de
+infecção por espécies de Bartonella, capazes de causar doenças no homem. E também destacam a importância
+do controle e prevenção da infestação por ectoparasitas, no intuito de prevenir a infecção em gatos e humanos.
+Palavras-chave: Bartonella, zoonoses, transmissão de patógenos, pulgas, carrapatos, piolhos.
+Braz J Vet Parasitol 2022; 31(1): e014221 2/10Bartonella infection in cats
+Introduction
+In the light of One Health concepts, studies on bartonellosis are important because the bacterial genus Bartonella
+can infect a wide variety of animals. This genus is being linked to an ever-increasing number of human diseases that
+are transmitted by arthropod vectors (Regier et al., 2016). According to the List of Prokaryotic Names with Standing
+in Nomenclature (LPSN 2021), the genus Bartonella contains 37 species, 3 subspecies and 25 with a Candidatus
+status. The potential domesticated and wild animal reservoirs include cats, dogs, rodents, rabbits, ruminants, sea
+mammals, wild felines, coyotes, roe-deer (Capreolus capreolus), elk (Cervus elaphus), jackals (Canis aureus), grey and
+red foxes (Urocyon cinereoargenteus and Vulpes vulpes). The list of vectors and potential vectors associated with
+bacterial transmission includes sandflies, fleas, ticks, lice and mites (Baldani et al., 2014).
+To date, natural infections in cats caused by seven Bartonella species have been reported: B. henselae, B.
+clarridgeiae, B. koehlerae, B. bovis, B. quintana, B. vinsonii subsp. berkhoffii and B. capreoli (Varanat et al., 2009; Chomel
+& Kasten, 2010; Gil et al., 2013). Most Bartonella species infecting humans are zoonotic, and cats appear to be the
+primary mammalian reservoir for B. henselae, B. clarridgeiae and B. koehlerae (Boulouis et al., 2005). Feline Bartonella
+can be transmitted to humans through scratches or bites. Transmission between cats most often occurs via the
+flea Ctenocephalides felis (Chomel et al., 1996; Kordick et al., 1999; Guptill, 2012), which is a competent vector of B.
+henselae and a potential vector of B. clarridgeiae and B. koehlerae (Chomel et al., 1996; Tsai et al., 2011).
+In Brazil, there are few studies addressing the occurrence and distribution of Bartonella spp. in shelter cats.
+Therefore, the objective of this study was to investigate the prevalence of Bartonella infection in shelter cats and
+in ectoparasites collected from them, and the relationship between Bartonella DNA in cats and their ectoparasites.
+Materials and Methods
+Cat sample
+The study protocol was approved by the animal use ethics committee at the Federal Rural University of Rio de
+Janeiro under procedural number 027/2014.
+A survey was carried out in six cat shelters in the metropolitan region of Rio de Janeiro, Brazil, from September
+2014 to September 2015 by convenience sampling. After obtaining each shelter owner’s permission, approximately
+2 mL of blood was aseptically obtained from cats by means of cephalic phlebotomy. These samples were transferred
+into sterile tubes containing the anticoagulant ethylenediamine tetraacetic acid, and were maintained at −80 °C
+until used for molecular analyses.
+Ectoparasite collection and identification
+Ectoparasites were retrieved manually from the cats, placed in dry sterile tubes and stored at −20 °C until used.
+All ectoparasites were morphologically identified to genus or species level based on morphological criteria, through
+observation under a stereoscopic microscope, in accordance with standard taxonomic keys (Urquhart et al., 1998;
+Barros-Battesti et al., 2006; Linardi & Santos, 2012).
+Molecular detection
+Fleas and ticks were placed individually in separate tubes. Lice were divided into pairs or trios per tube. Some
+fleas laid eggs inside the tubes: these were used as single pools per flea specimen for DNA extraction, as described
+in the literature (Horta et al., 2007). Briefly, each flea or tick and each pool of flea eggs or lice was ground up in
+40 μl of TE buffer (10 mM Tris-HCl; 0.5 mM EDTA; pH 9.0) in a sterile microtube. The final suspension was boiled
+at 100 °C for 30 minutes and was then maintained at -20 °C until tested by means of PCR.
+Regarding the cats, DNA was extracted from 200 μL of whole blood sample using the Relia PrepTM blood gDNA
+miniprep system (Promega®), in accordance with the manufacturer’s instructions. For quality assurance, a negative
+control was processed at the same time as the study samples. It should be highlighted that one of the limitations
+of the present study was the lack of endogenous gene to verify the presence of amplifiable DNA and check the
+integrity of the DNA template. As so, negative results should be interpreted with caution.
+All the DNA samples were screened for the presence of Bartonella spp. 16S-23S rRNA intergenic spacer region
+(ITS), using the primers 321s and 983as (Maggi & Breitschwerdt, 2005); and for the citrate synthase gene (gltA),
+Braz J Vet Parasitol 2022; 31(1): e014221 3/10Bartonella infection in cats
+using the primers BhCS.781p and BhCS.1137n (Norman et al., 1995). Following amplification, the PCR products
+were subjected to horizontal electrophoresis on 1% agarose gel and were stained with GelRed (Biothium, CA, USA).
+The positive control consisted of B. henselae (Houston strain) cultured in HEp-2 cells. All PCR runs were performed
+with nuclease-free water (Invitrogen, USA) as the negative control. In order to prevent PCR contamination, the DNA
+extraction, reaction setup, PCR amplification and electrophoresis were performed in separate rooms.
+Amplicons from positive flea and cat samples were randomly selected and purified using the Illustra GFX PCR
+purification kit (GE Healthcare, Buckinghamshire, England, UK). Purified DNA fragments were subjected to sequence
+confirmation in an automated sequencer (ABI3730xl, Applied Biosystems, CA, USA). Sense and antisense sequences
+were analyzed using the DNA Sequence Assembler version 4 software and were compared with those deposited
+in the GenBank DNA database through using the Basic Local Alignment Search Tool (BLAST, National Center for
+Biotechnology Information).
+A phylogenetic reconstruction was inferred using the maximum likelihood method. Nucleotide substitution
+models were selected based on Bayesian information criterion (BIC scores) and Tamura three-parameter and
+Kimura-2 parameter models were used to calculate evolutionary distances. The combination of phylogenetic
+clusters was assessed using a bootstrap test with 1000 replicates, to test different phylogenetic reconstructions.
+The phylogenetic evaluation was conducted using the Molecular Evolutionary Genetics Analysis (MEGA) software,
+version 7.0.18.
+Statistical analysis
+The relationship between the Bartonella infection status of cats and their fleas was evaluated by means of the
+chi-square test and association between them was expressed as the odds ratio (OR) at a 95% confidence interval.
+All the analysis were implemented using the Bioestat 5.0 statistical software.
+Results
+A total of 115 fleas, 21 lice and one tick were collected from 46 cats. All flea and lice specimens were identified
+as adults of Ctenocephalides felis and Felicola subrostratus, respectively. The tick specimen was identified as a nymph
+of Rhipicephalus sanguineus sensu lato. All the cats sampled presented ectoparasites on their bodies. On average,
+approximately three fleas or lice were collected per cat (ranges: 1-9 fleas and 2-4 lice).
+Overall, 47.8% (22/46) of the cats tested positive for Bartonella DNA according to both the ITS and gltA gene tests
+(Table 1). Sequencing confirmed the presence of Bartonella henselae, Bartonella clarridgeiae and Bartonella koehlerae
+infection among the blood samples. Cases in which ITS and gltA sequences from the same cat corresponded to
+different feline Bartonella species were considered to be coinfections.
+Bartonella DNA was detected in 18.3% (21/115) of the C. felis fleas, of which 15.7% (18/115) were by means of the
+gltA gene and 4.3% (5/115) by the ITS region. Bacterial DNA was amplified from both the ITS and the gltA fragments
+in three flea samples. Among the 15 pools of eggs laid by fleas and the 8 pools of lice, 13.3% and 12.5% showed
+amplification of the expected Bartonella spp. gltA gene, respectively. Bartonella henselae DNA was detected in cat
+Table 1. Prevalence of Bartonella DNA in cats and their ectoparasites in shelters, Rio de Janeiro, Brazil.
+Cats
+DNA samples
+Ectoparasites
+Blood
+Flea
+Lice* Ticks
+Adults Eggs*
+Total of samples 46 115 15 8 1
+Total PCR positive
+no.(%)
+22 (47.8) 21 (18.3) 2 (13.3) 1(12.5) 0 (0.0)
+gltA positive no.(%) 21 (45.7) 18 (15.7) 2 (13.3) 1(12.5) 0 (0.0)
+ITS positive no.(%) 12 (26.1) 5 (4.3) 0 (0.0) 0 (0.0) 0 (0.0)
+*Number of pools.
+Braz J Vet Parasitol 2022; 31(1): e014221 4/10Bartonella infection in cats
+fleas and their respective eggs, while Bartonella clarridgeiae DNA was only identified in adult fleas. No eggs or lice
+tested positive for the ITS region. No amplification of Bartonella DNA was obtained in the R. sanguineus (s.l.) nymph.
+Bartonella henselae was the predominant species in both fleas and cats (Table 2).
+At least one Bartonella species was detected in fleas in each shelter. Additionally, all bacterial species detected in fleas
+of each shelter were also identified in at least one of its cats. Bartonella spp. was also amplified from fleas belonging
+to apparently uninfected cats and from infected cats infested by negative fleas. Not all fleas had the same Bartonella
+Table 2. Bartonella species in cats and their fleas (99 to 100% identity), Rio de Janeiro, Brazil.
+Shelter 1 Host cat
+Ectoparasites
+Adult Eggs
+211 B. henselae B. henselae B. henselae
+208 Negative * Negative
+76 * * Negative
+Shelter 2
+175 B. clarridgeiae B. henselae B. henselae
+171 B. koehlerae * Negative
+168 B. henselae Negative -
+172 B. henselae Negative Negative
+178 * Negative Negative
+180 Negative * Negative
+173 Negative * Negative
+Shelter 3
+205 B. clarridgeiae * -
+207 B. clarridgeiae * -
+201 B. clarridgeiae + B.henselae Negative -
+206 Negative B. clarridgeiae -
+202 B. clarridgeiae Negative Negative
+Shelter 4
+117 B. henselae B. henselae Negative
+116 B. henselae * Negative
+Shelter 5
+132 Negative B. clarridgeiae -
+131 B. clarridgeiae Negative -
+129 B. henselae Negative -
+Shelter 6
+193 B. henselae Negative -
+191 * B. henselae -
+195 B. henselae Negative -
+200 B. henselae Negative -
+198 Negative * -
+*Positive sample, but showing weak bands whose DNA concentration was too low to be sequenced.
+Braz J Vet Parasitol 2022; 31(1): e014221 5/10Bartonella infection in cats
+species as their hosts. Two out of every three fleas collected from infected cats carried the same Bartonella species
+as their cat hosts (Table 2). Whereas 60% (9/15) of the cats infested by positive ectoparasites carried Bartonella DNA,
+the prevalence was only 40% (10/25) in those infested by negative ectoparasites. Although cats infested by positive
+ectoparasites, especially fleas, had more than twice the odds of being infected, there was no statistical association
+between the cats’ infection status and parasitism by positive fleas (p-value 0.3685; CI 95% 0.6-8.3).
+All the sequences analysis demonstrated 99 to 100% identity with B. henselae, B. clarridgeiae and B. koehlerae
+reference sequences (Figures 1 and 2). The phylogenetic tree showed two well-supported clusters (Figure 1) and
+two clusters contained the human and cat associated Bartonella species (Figure 2). The sequences were deposited
+in GenBank under the accession numbers MT112180 – MT112197 and MT095045 – MT095055 for the gltA gene
+and ITS region, respectively (Figures 1 and 2).
+Figure 1. Phylogenetic relationship of Bartonella species detected in shelter cats and ectoparasites based on gltA gene. Phylogenetic
+position of Bartonella species isolates from shelter cats (●), cat fleas (▲) and cat flea eggs (Δ), Rio de Janeiro, Brazil. The phylogenetic
+tree was constructed using the maximum likelihood method (K2+G) and the numbers on the tree nodes indicate bootstrap
+values with 1000 replicates. Accession numbers are indicated. Brucella abortus was used as outgroup. The scale bar indicates
+nucleotide substitutions per site.
+Braz J Vet Parasitol 2022; 31(1): e014221 6/10Bartonella infection in cats
+Discussion
+One Health is an initiative that has the aim of bringing together human, animal and environmental health and
+it plays a significant role in prevention and control of zoonoses (Bidaisee & Macpherson, 2014). The increasingly
+close health relationship between humans and their domestic animals, especially cats, is conspicuous. According
+to the Brazilian Association for the Pet Product Industry, the cat population has shown accelerated annual growth
+in Brazil. Therefore, zoonoses studies have become ever more important. From a public health perspective, cats
+are a major reservoir host for at least three zoonotic Bartonella species (B. henselae, B. clarridgeiae and B. koehlerae),
+and commonly infested by C. felis fleas. Large flea infestations without proper control can cause even the death
+Figure 2. Phylogenetic relationship of Bartonella species detected in shelter cats and fleas based on ITS region. Phylogenetic
+position of Bartonella sp. isolates from shelter cats (●) and their fleas (▲), Rio de Janeiro, Brazil. The phylogenetic tree was
+constructed using the maximum likelihood method (T92+G+I) and the numbers on the tree nodes indicate bootstrap values with
+1000 replicates. Accession numbers are indicated. Brucella abortus was used as outgroup. The scale bar indicates nucleotide
+substitutions per site.
+Braz J Vet Parasitol 2022; 31(1): e014221 7/10Bartonella infection in cats
+of the animal and transmit disease to humans (Limongi et al., 2013) such as plague and bartonellosis (Bitam et al.,
+2010). To the best of our knowledge, this was the first study in Brazil to investigate Bartonella DNA in shelter cats
+and their ectoparasites.
+The overall prevalence of Bartonella DNA was 47.5% in cat blood, 18.3% in fleas, 13.3% in flea egg pools and
+12.5% in lice pools. Bartonella DNA occurred more frequently than previously reported, especially in shelter cats
+(Bergmans et al., 1997; Alves et al., 2009; Namekata et al., 2010; Staggemeier et al., 2010; Miceli et al., 2013; Braga et al.,
+2015; Raimundo et al., 2019). However, one previous study reported 97.3% positivity in one shelter in Rio de Janeiro,
+Brazil (Souza et al., 2010). The risk factors that appear to influence occurrences of bacteremia in cats includes age,
+flea infestation status, neutering status, historic of fights, outdoor access and multiple-cat households (Chomel et al.,
+1995; Gurfield et al., 2001; Raimundo et al., 2019; Mazurek et al., 2020). Flea infestation status is particularly important,
+considering that all the cats in this study had ectoparasites on their body surface. The prevalence of Bartonella DNA
+detected in C. felis fleas varies worldwide, ranging from 7.3% to 75.6% (Rolain et al., 2003; Alves et al., 2009; Tsai et al.,
+2011; Gutiérrez et al., 2015; Rizzo et al., 2015; Furquim et al., 2021). Bartonella DNA was not detected in R. sanguineus
+(s.l.) ticks or F. subrostratus lice collected from shelter cats in Taiwan (Tsai et al., 2011).
+This study confirmed the presence of single infections by B. henselae, B. clarridgeiae and B. koehlerae, as well as
+coinfection by B. henselae and B. clarridgeiae, in feline blood samples. Occurrence of concurrent infection by two
+or more Bartonella species in cats are uncommon in the literature, such that these have either been documented
+in low percentages of cats or been absent (Gil et al., 2013; André et al., 2016; Gutiérrez et al., 2015; Rizzo et al.,
+2015). The Bartonella species encountered in the present study in cat fleas (B. henselae and B. clarridgeiae) have
+also been detected in cat fleas in previous studies (Alves et al., 2009; Assarasakorn et al., 2012; Rojas et al., 2015;
+Fontalvo et al., 2017).
+In all the shelters, Bartonella spp. were detected in fleas and their hosts. In one shelter, the Bartonella species
+detected in fleas and their eggs were different from those in their respective host. However, such species have
+been detected in other cats sharing the same environment. For such non-coincident cases, it is possible that the
+fleas previously had fed on infected cats other than the one from which they were collected or the bacterial loads
+in cats’blood samples are at, or below, the detection limit of PCR.
+Interestingly, bacterial DNA was detected both in fleas collected from negative hosts and in cats harboring
+negative fleas. It is noteworthy that in this study, the fleas collected from cats represented a sample of the real flea
+population present on cats and in the local environment. Thus, newly emerged or not-yet-infected fleas may have
+been collected. Examples of different bacterial species in fleas and cat hosts have been documented previously
+(La Scola et al., 2002; Gabriel et al., 2009; Bai et al., 2015; Gutiérrez et al., 2015; Fontalvo et al., 2017).
+The presence of Bartonella DNA in C. felis fleas collected from infected cats also suggested that these ectoparasites
+play an essential role in the transmission of Bartonella species to cats. Studies show that C. felis is an important
+vector for Bartonella species, including those for which cats serve as natural reservoir, such as B. henselae and B.
+clarridgeiae (Chomel et al., 1996; Bouhsira et al., 2013). In fact, there is a positive correlation between previous or
+current flea infestation and Bartonella molecular positivity in shelter cats (Raimundo et al., 2019). Although there was
+no statistical association, cats infested by fleas were found to have at least twice the chance of becoming infected by
+Bartonella species. Similarly, previous studies found no apparent correlation (La Scola et al., 2002; Bai et al., 2015).
+To the best of our knowledge, the present study provided the first record of detection of Bartonella DNA in lice
+collected from an infected cat. This cat was infested with lice at the time of sample collection, had a history of flea
+infestation and was living in shelter 6, where Bartonella species DNA was also detected in fleas and contact cats.
+Considering the importance of fleas for Bartonella transmission between cats (Chomel et al., 1996; Guptill, 2012;
+Raimundo et al., 2019), the absence of links between louse infestation and Bartonella infection in cats, in this and
+previous studies (Tsai et al., 2011; Raimundo et al., 2019), and the possibility that lice while feeding on epidermal
+debris or fur, have ingested the feces of infected fleas, the molecular evidence of Bartonella may be accidental and
+not really responsible for transmission of bacteria to this cat in the present study. Future studies are necessary to
+evaluate if this arthropod could play a biological role for Bartonella transmission among cats.
+The possibility of vertical Bartonella spp. transmission among fleas remains a possible hypothesis. In our study, B.
+henselae DNA was detected in naturally infected fleas and their eggs. In support of our finding, Bartonella washoensis
+and Bartonella vinsonii subsp. arupensis DNA was previously detected in the reproductive tissues (ovaries) of flea
+species collected from several mammals (Cynomys ludovicianus, Peromyscus maniculatus and Vulpes vulpes), thus
+suggesting that transovarian transmission of this organism among fleas may be possible (Brinkerhoff et al., 2010).
+On the other hand, in another study, no Bartonella DNA was amplified in eggs laid by infected fleas at experimental
+Braz J Vet Parasitol 2022; 31(1): e014221 8/10Bartonella infection in cats
+condition, and authors concluded that those results could not be extended to natural conditions (Bouhsira et al.,
+2013). Knowledge of Bartonella behavior and dispersal in fleas is limited, and the question of whether fleas can
+acquire Bartonella by means of mechanisms other than ingestion of infected blood remains to be answered.
+According to a study evaluating ticks as a possible vector of B. henselae, transovarian transmission was not confirmed
+as bacterial DNA was detected in eggs laid by females fed on blood containing B. henselae but not in larvae obtained
+from these eggs (Cotté et al., 2008). Those findings suggest the external contamination of eggs with infected flea
+feces and for this reason, further studies are needed to investigate the vertical transmission hypothesis.
+This study showed that three distinct Bartonella species (B. henselae, B. clarridgeiae and B. koehlerae) occur in
+shelter cats in the metropolitan region of Rio de Janeiro and that B. henselae and B. clarridgeiae circulate among fleas
+collected from them, thus emphasizing the importance of this ectoparasite in bacterial transmission between cats.
+For public health purposes, it is important to emphasize the relationship between the Bartonella species identified in
+ectoparasites and their cats hosts since they are agents associated with human disease. Thus, ectoparasite control
+measures should be implemented to prevent flea infestation and, consequently, Bartonella infection in cats and
+the humans with whom they have close contact.
+References
+Alves AS, Milhano N, Santos-Silva M, Santos AS, Vilhena M, de Sousa R. Evidence of Bartonella spp., Rickettsia spp. and Anaplasma
+phagocytophilum in domestic, shelter and stray cat blood and fleas, Portugal. Clin Microbiol Infect 2009; 15(Suppl 2): 1-3. http://
+dx.doi.org/10.1111/j.1469-0691.2008.02636.x. PMid:19416279.
+André MR, Dumler JS, Herrera HM, Gonçalves LR, de Sousa KCM, Scorpio DG, et al. Assessment of a quantitative 5′ nuclease real-
+time polymerase chain reaction using the nicotinamide adenine dinucleotide dehydrogenase gamma subunit (nuoG) for Bartonella
+species in domiciled and stray cats in Brazil. J Feline Med Surg 2016; 18(10): 783-790. http://dx.doi.org/10.1177/1098612X15593787.
+PMid:26138812.
+Assarasakorn S, Veir JK, Hawley JR, Brewer MM, Morris AK, Hill AE, et al. Prevalence of Bartonella species, hemoplasmas, and
+Rickettsia felis DNA in blood and fleas of cats in Bangkok, Thailand. Res Vet Sci 2012; 93(3): 1213-1216. http://dx.doi.org/10.1016/j.
+rvsc.2012.03.015. PMid:22521739.
+Bai Y, Rizzo MF, Alvarez D, Moran D, Peruski LF, Kosoy M. Coexistence of Bartonella henselae and B. clarridgeiae in population
+of cats and their fleas in Guatemala. J Vector Ecol 2015; 40(2): 327-332. http://dx.doi.org/10.1111/jvec.12171. PMid:26611968.
+Baldani CD, Santos HA, Massard CL. The family Bartonellaceae. In: Rosenberg E, DeLong EF, Lory S, Stackebrandt E, Thompson F,
+editors. The Prokaryotes: Alphaproteobacteria and Betaproteobacteria. 4th ed. London: Springer-Verlag Berlin Heidelberg; 2014.
+p. 81-114. http://dx.doi.org/10.1007/978-3-642-30197-1_251.
+Barros-Battesti DM, Arzua M, Bechara GH. Carrapatos de importância médico-veterinária da Região Neotropical: um guia ilustrado
+para identificação de espécies. São Paulo: ICTTD/Butantan; 2006.
+Bergmans AMC, Jong CM, Van Amerongen G, Schot CS, Schouls LM. Prevalence of Bartonella species in domestic cats in the
+Netherlands. J Clin Microbiol 1997; 35(9): 2256-2261. http://dx.doi.org/10.1128/jcm.35.9.2256-2261.1997. PMid:9276397.
+Bidaisee S, Macpherson CNL. Zoonoses and one health: a review of the literature. J Parasitol Res 2014; 2014: 874345. http://
+dx.doi.org/10.1155/2014/874345. PMid:24634782.
+Bitam I, Dittmar K, Parola P, Whiting MF, Raoult D. Fleas and flea-borne diseases. Int J Infect Dis 2010; 14(8): e667-e676. http://
+dx.doi.org/10.1016/j.ijid.2009.11.011. PMid:20189862.
+Bouhsira E, Ferrandez Y, Liu M, Franc M, Boulouis HJ, Biville F. Ctenocephalides felis an in vitro potential vector for five Bartonella
+species. Comp Immunol Microbiol Infect Dis 2013; 36(2): 105-111. http://dx.doi.org/10.1016/j.cimid.2012.10.004. PMid:23200028.
+Boulouis H, Chang C, Henn JB, Kasten RW, Chomel BB. Factors associated with the rapid emergence of zoonotic Bartonella
+infections. Vet Res 2005; 36(3): 383-410. http://dx.doi.org/10.1051/vetres:2005009. PMid:15845231.
+Braga ÍA, Dias ISO, Chitarra CS, Amude AM, Aguiar DM. Molecular detection of Bartonella clarridgeiae in domestic cats from
+Midwest Brazil. Braz J Infect Dis 2015; 19(4): 451-452. http://dx.doi.org/10.1016/j.bjid.2015.05.002. PMid:26100436.
+Brinkerhoff RJ, Kabeya H, Inoue K, Bai Y, Maruyama S. Detection of multiple Bartonella species in digestive and reproductive tissues
+of fleas collected from sympatric mammals. ISME J 2010; 4(7): 955-958. http://dx.doi.org/10.1038/ismej.2010.22. PMid:20220787.
+Chomel BB, Abbott RC, Kasten RW, Floyd-Hawkins KA, Kass PH, Glaser CA, et al. Bartonella henselae prevalence in domestic cats
+in California: risk factors and association between bacteremia and antibody titers. J Clin Microbiol 1995; 33(9): 2445-2450. http://
+dx.doi.org/10.1128/jcm.33.9.2445-2450.1995. PMid:7494043.
+Braz J Vet Parasitol 2022; 31(1): e014221 9/10Bartonella infection in cats
+Chomel BB, Kasten RW, Floyd-Hawkins K, Chi B, Yamamoto K, Roberts-Wilson J, et al. Experimental transmission of Bartonella
+henselae by the cat flea. J Clin Microbiol 1996; 34(8): 1952-1956. http://dx.doi.org/10.1128/jcm.34.8.1952-1956.1996. PMid:8818889.
+Chomel BB, Kasten RW. Bartonellosis, an increasingly recognized zoonosis. J Appl Microbiol 2010; 109(3): 743-750. http://dx.doi.
+org/10.1111/j.1365-2672.2010.04679.x. PMid:20148999.
+Cotté V, Bonnet S, Le Rhun D, Le Naour E, Chauvin A, Boulouis H, et al. Transmission of Bartonella henselae by Ixodes ricinus.
+Emerg Infect Dis 2008; 14(7): 1074-1080. http://dx.doi.org/10.3201/eid1407.071110. PMid:18598628.
+Fontalvo MC, Favacho ARM, Araújo AC, Santos MN, Oliveira GMB, Aguiar DM, et al. Bartonella species pathogenic for humans
+infect pets, free-ranging wild mammals and their ectoparasites in the Caatinga biome, Northeastern Brazil: a serological and
+molecular study. Braz J Infect Dis 2017; 21(3): 290-296. http://dx.doi.org/10.1016/j.bjid.2017.02.002. PMid:28249707.
+Furquim MEC, Amaral R, Dias CD, Gonçalves LR, Perles L, Lima CAP, et al. Genetic diversity and Multilocus Sequence Typing
+analysis of Bartonella henselae in domestic cats from Southeastern Brazil. Acta Trop 2021; 222: 106037. http://dx.doi.org/10.1016/j.
+actatropica.2021.106037. PMid:34224716.
+Gabriel MW, Henn J, Foley JE, Brown RN, Kasten RW, Foley P, et al. Zoonotic Bartonella species in fleas collected on gray foxes
+(Urocyon cinereoargenteus). Vector Borne Zoonotic Dis 2009; 9(6): 597-602. http://dx.doi.org/10.1089/vbz.2008.0134. PMid:19125660.
+Gil H, Escudero R, Pons I, Rodríguez-Vargas M, García-Esteban C, Rodríguez-Moreno I, et al. Distribution of Bartonella henselae
+variants in patients, reservoir hosts and vectors in Spain. PLoS One 2013; 8(7): e68248. http://dx.doi.org/10.1371/journal.
+pone.0068248. PMid:23874563.
+Guptill L. Bartonella infections in cats: what is the significance? In Pract 2012; 34(8): 434-445. http://dx.doi.org/10.1136/inp.e5704.
+Gurfield AN, Boulouis HJ, Chomel BB, Kasten RW, Heller R, Bouillin C, et al. Epidemiology of Bartonella infection in domestic cats
+in France. Vet Microbiol 2001; 80(2): 185-198. http://dx.doi.org/10.1016/S0378-1135(01)00304-2. PMid:11295338.
+Gutiérrez R, Nachum-Biala Y, Harrus S. Relationship between the presence of Bartonella species and bacterial loads in cats and
+cat fleas (Ctenocephalides felis) under natural conditions. Appl Environ Microbiol 2015; 81(16): 5613-5621. http://dx.doi.org/10.1128/
+AEM.01370-15. PMid:26070666.
+Horta MC, Labruna MB, Pinter A, Linardi PM, Schumaker TTS. Rickettsia infection in five areas of the state of São Paulo, Brazil.
+Mem Inst Oswaldo Cruz 2007; 102(7): 793-801. http://dx.doi.org/10.1590/S0074-02762007000700003. PMid:18094887.
+Kordick DL, Brown TT, Shin K, Breitschwerdt EB. Clinical and pathologic evaluation of chronic Bartonella henselae or Bartonella
+clarridgeiae infection in cats. J Clin Microbiol 1999; 37(5): 1536-1547. http://dx.doi.org/10.1128/JCM.37.5.1536-1547.1999.
+PMid:10203518.
+La Scola B, Davoust B, Boni M, Raoult D. Lack of correlation between Bartonella DNA detection within fleas, serological results,
+and results of blood culture in a Bartonella-infected stray cat population. Clin Microbiol Infect 2002; 8(6): 345-351. http://dx.doi.
+org/10.1046/j.1469-0691.2002.00434.x. PMid:12084102.
+Limongi JE, Silva JJ, Paula MBC, Mendes J. Aspectos epidemiológicos das infestações por sifonápteros na área urbana do
+município de Uberlândia, Minas Gerais, 2007-2010. Epidemiol Serv Saude 2013; 22(2): 285-294. http://dx.doi.org/10.5123/S1679-
+49742013000200010.
+Linardi PM, Santos JLC. Ctenocephalides felis felis vs. Ctenocephalides canis (Siphonaptera: Pulicidae): some issues in correctly identify
+these species. Rev Bras Parasitol Vet 2012; 21(4): 345-354. http://dx.doi.org/10.1590/S1984-29612012000400002. PMid:23295817.
+Maggi RG, Breitschwerdt EB. Potential limitations of the 16S-23S rRNA intergenic region for molecular detection of Bartonella
+species. J Clin Microbiol 2005; 43(3): 1171-1176. http://dx.doi.org/10.1128/JCM.43.3.1171-1176.2005. PMid:15750079.
+Mazurek Ł, Carbonero A, Skrzypczak M, Winiarczyk S, Adaszek L. Epizootic situation of feline Bartonella infection in eastern
+Poland. J Vet Res 2020; 64(1): 79-83. http://dx.doi.org/10.2478/jvetres-2020-0019. PMid:32258803.
+Miceli NG, Gavioli FA, Gonçalves LR, André MR, Sousa VRF, Sousa KCM, et al. Molecular detection of feline arthropod-borne
+pathogens in cats in Cuiabá, state of Mato Grosso, central-western region of Brazil. Rev Bras Parasitol Vet 2013; 22(3): 385-390.
+http://dx.doi.org/10.1590/S1984-29612013000300011. PMid:24142170.
+Namekata DY, Kasten RW, Boman DA, Straub MH, Siperstein-Cook L, Couvelaire K, et al. Oral shedding of Bartonella in
+cats: correlation with bacteremia and seropositivity. Vet Microbiol 2010; 146(3-4): 371-375. http://dx.doi.org/10.1016/j.
+vetmic.2010.05.034. PMid:20646879.
+Norman AF, Regnery R, Jameson P, Greene C, Krause DC. Differentiation of Bartonella-like isolates at the species level by PCR-
+restriction fragment length polymorphism in the citrate synthase gene. J Clin Microbiol 1995; 33(7): 1797-1803. http://dx.doi.
+org/10.1128/jcm.33.7.1797-1803.1995. PMid:7545181.
+Braz J Vet Parasitol 2022; 31(1): e014221 10/10Bartonella infection in cats
+Raimundo JM, Guimarães A, Amaro GM, Silva AT, Botelho CFM, Massard CL, et al. Molecular survey of Bartonella species in
+shelter cats in Rio de Janeiro: clinical, hematological, and risk factors. Am J Trop Med Hyg 2019; 100(6): 1321-1327. http://dx.doi.
+org/10.4269/ajtmh.18-0585. PMid:31017080.
+Regier Y, O’Rourke F, Kempf VAJ. Bartonella spp. – a chance to establish One Health concepts in veterinary and human medicine.
+Parasit Vectors 2016; 9(1): 261. http://dx.doi.org/10.1186/s13071-016-1546-x. PMid:27161111.
+Rizzo MF, Billeter SA, Osikowicz L, Luna-Caipo DV, Cáceres AG, Kosoy M. Fleas and flea-associated Bartonella species in dogs and
+cats from Peru. J Med Entomol 2015; 52(6): 1374-1377. http://dx.doi.org/10.1093/jme/tjv137. PMid:26363063.
+Rojas N, Troyo A, Castillo D, Gutierrez R, Harrus S. Molecular detection of Bartonella species in fleas collected from dogs and
+cats from Costa Rica. Vector Borne Zoonotic Dis 2015; 15(10): 630-632. http://dx.doi.org/10.1089/vbz.2015.1799. PMid:26393956.
+Rolain JM, Franc M, Davoust B, Raoult D. Molecular detection of Bartonella quintana, B. koehlerae, B. henselae, B. clarridgeiae,
+Rickettsia felis, and Wolbachia pipientis in cat fleas, France. Emerg Infect Dis 2003; 9(3): 338-342. http://dx.doi.org/10.3201/
+eid0903.020278. PMid:12643829.
+Souza AM, Almeida DNP, Guterres A, Gomes R, Favacho ARM, Moreira NS, et al. Bartonelose: análise molecular e sorológica em
+gatos do Rio de Janeiro – Brasil. R Bras Ci Vet 2010; 17(1): 7-11. http://dx.doi.org/10.4322/rbcv.2014.135.
+Staggemeier R, Venker CA, Klein DH, Petry M, Spilki FR, Cantarelli VV. Prevalence of Bartonella henselae and Bartonella clarridgeiae
+in cats in the south of Brazil: a molecular study. Mem Inst Oswaldo Cruz 2010; 105(7): 873-878. http://dx.doi.org/10.1590/S0074-
+02762010000700006. PMid:21120356.
+Tsai YL, Lin CC, Chomel BB, Chuang ST, Tsai KH, Wu WJ, et al. Bartonella infection in shelter cats and dogs and their ectoparasites.
+Vector Borne Zoonotic Dis 2011; 11(8): 1023-1030. http://dx.doi.org/10.1089/vbz.2010.0085. PMid:21142966.
+Urquhart GM, Armour J, Duncan JL, Dunn AM, Jennings FW. Parasitologia veterinária. 2 ed. Rio de Janeiro: Guanabara Koogan; 1998.
+Varanat M, Travis A, Lee W, Maggi RG, Bissett SA, Linder KE, et al. Recurrent osteomyelitis in a cat due to infection with Bartonella
+vinsonii subsp. berkhoffii genotype II. J Vet Intern Med 2009; 23(6): 1273-1277. http://dx.doi.org/10.1111/j.1939-1676.2009.0372.x.
+PMid:19709358.
+
+
+Congenital toxoplasmosis in infants from chronically
+infected mothers: report of two cases
+Toxoplasmose congênita em nascidos de mães cronicamente infectadas: relato de
+dois casos
+Roberta Rassi Almeidaa , Geovana Batista de Camposa,* , Ana Maria Castroa
+https://doi.org/10.1590/1984-0462/2025/43/2024120
+CASE REPORT
+ABSTRACT
+Objective: To describe two severe cases of congenital toxoplasmosis in infants born to chronically
+infected mothers who did not receive education or information on the prevention of gestational
+toxoplasmosis during prenatal care.
+Case description: The mothers had a previous serological diagnosis of toxoplasmosis conducted
+during prenatal care, with non-reactive (<10 IU/mL) IgM and reactive IgG (>10 IU/mL), and were
+considered “immune” to the infection. Both infants were born with sequelae of the congenital
+infection, including neurological and ocular alterations.
+Comments: Managing gestational toxoplasmosis in susceptible pregnant women is a considerable
+challenge in several countries, especially in South America. It is necessary to diagnose and monitor
+chronic gestational toxoplasmosis, as it may result from reactivation or reinfection. Both forms can
+cause sequelae and irreparable damage to newborns. In addition, it is essential to guide all pregnant
+women on how to avoid contact with Toxoplasma gondii, regardless of their serological status.
+Keywords: Child; Congenital toxoplasmosis; Chronic infection; Neglected diseases; Case report.
+Corresponding author:
+E-mail: geovana.batista@discente.ufg.br
+(G. B. Campos)
+aUniversidade Federal de Goiás, Institute
+of Tropical Pathology and Public Health,
+Parasite-Host Relationship Studies
+Laboratory, Goiânia, GO, Brazil.
+Received on May 22, 2024;
+approved on October 13, 2024.
+Editor-in-chief: Ruth Guinsburg
+Associated editor: Fabio Carmona
+Executive editor: Tamara Beres Lederer
+Goldberg
+Reviewers: Regina Célia Succi
+Funding
+Coordination for the Improvement of Higher
+Education Personnel (CAPES) through the
+Financial Aid to Educational or Research
+Project (AUXPE n.88881.845026/2023-01).
+Conflict of interests
+The authors declare that is no conflict of
+interests.
+Authors’ contributions
+Study design: Almeida RR, Campos GB,
+Castro AM. Data collection: Almeida RR,
+Campos GB, Castro AM. Data analysis:
+Almeida RR, Campos GB, Castro AM.
+Manuscript writing: Almeida RR, Campos
+GB, Castro AM. Manuscript revision:
+Almeida RR, Campos GB, Castro AM. Study
+supervision: Almeida RR, Castro AM.
+Declaration
+The database that originated the article is
+available with the corresponding author.
+CAAE: 53111321.2.0000.5078
+RESUMO
+Objetivo: Descrever dois casos graves de toxoplasmose congênita em crianças nascidas de mães
+cronicamente infectadas que não receberam orientação sobre a prevenção da toxoplasmose
+gestacional durante o pré-natal.
+Descrição do caso: As mães tinham sorologia prévia para toxoplasmose, realizada durante o
+pré-natal, com IgM não reagente (<10 UI/mL) e IgG reagente (>10 UI/mL) e foram consideradas
+“imunes” à infecção. Ambos os neonatos nasceram com sequelas da infecção congênita, incluindo
+alterações neurológicas e oculares.
+Comentários: O combate à toxoplasmose gestacional em gestantes suscetíveis é um desafio
+em vários países, especialmente na América do Sul. É necessário diagnosticar e monitorar a
+toxoplasmose gestacional crônica, pois ela pode ser decorrente de reativação ou reinfecção.
+Ambas as formas podem causar sequelas e danos irreparáveis aos recém-nascidos. Além disso,
+é essencial orientar todas as gestantes sobre como evitar o contato com Toxoplasma gondii,
+independentemente da sorologia.
+Palavras-chave: Criança; Toxoplasmose congênita; Infecção persistente; Doenças negligenciadas;
+Relato de caso.
+© 2024 Sociedade de Pediatria de
+São Paulo. Published by Zeppelini
+Publishers. This is an open access
+article under the CC BY license (http://
+creativecommons.org/licenses/by/4.0/).
+Congenital toxoplasmosis: a neglected public health issue2
+Rev Paul Pediatr. 2025;43:e2024120RPPed
+INTRODUCTION
+Toxoplasmosis is a cosmopolitan zoonosis that affects humans
+and is often neglected. Transmission can occur by ingesting con-
+taminated water and food. The vertical form happens because the
+tachyzoites can migrate transplacentally.1 According to Rostami
+et al., the seroprevalence of antibodies against Toxoplasma gondii
+tends to increase with age and varies according to geographi-
+cal location, health education, hygiene, eating habits, and cli-
+matic conditions. The congenital form of toxoplasmosis requires
+attention as it can have clinical repercussions ranging from
+asymptomatic to mild or severe symptoms and even death.2-4
+The ocular lesions caused by congenital toxoplasmosis are usu-
+ally more severe and more frequent in children from South
+America. Particularly, Brazil has a high morbidity of congeni-
+tal toxoplasmosis.5
+A paradigm about toxoplasmosis has been discussed in
+recent years: pregnant women with chronic T. gondii infection
+infect their infants. Although uncommon, vertical transmission
+of toxoplasmosis from chronically infected pregnant women to
+their fetuses has been documented in humans. Studies suggest
+that transmission may occur in 0–6% of pregnancies involving
+immune-competent, chronically infected mothers.6
+Cases of congenital toxoplasmosis resulting from mater-
+nal reinfection or reactivation of a chronic infection have been
+reported. This highlights the importance of these events in stud-
+ies on congenital toxoplasmosis.7 Assessing the risk of vertical
+transmission is crucial for providing clinical counseling and
+guiding treatment decisions for pregnant women and infants.
+Factors such as gestational age at maternal seroconversion and
+specific antibody profiles are used to estimate the risk of trans-
+mission.8 Although rare, it is crucial to continuously monitor
+and assess the risk of vertical transmission from chronically
+infected mothers throughout pregnancy.
+This study aimed to describe two severe cases of congenital
+toxoplasmosis in infants born to chronically infected mothers
+who did not receive guidance on the prevention of gestational
+toxoplasmosis during prenatal care. The participants signed a
+free and informed consent form (Plataforma Brasil, #5.208.385).
+CASE REPORT
+Case description – Report 1
+The infant was brought to the health service at 11 months old.
+Prior data include: female newborn from a mother in her third
+pregnancy, delivered by cesarean section, with a gestational age
+of 37 weeks, birth weight of 2270 g, height of 43 cm, and head
+circumference of 30 cm. The neonatal anthropometric data per-
+centiles were below the expected levels: weight <P3, height <P3,
+and head circumference <P3.
+The vaccination booklet did not describe any changes in the
+physical examination at birth. The results of the fetal ultrasound
+during pregnancy were normal according to the mother, but they
+were not shown at the appointments. Cerebrospinal fluid was
+not collected because the infant arrived at the health service at
+11 months old without treatment and with a ventriculoperito-
+neal shunt (performed at 6 months old).
+The mother was 30 years old, had no previous immunodefi-
+ciency, and tested non-reactive human immunodeficiency virus
+(HIV) serology during prenatal care. The mother had serolog-
+ical diagnosis of toxoplasmosis in an earlier pregnancy in May
+2017, showing non-reactive IgM and reactive IgG. A serolog-
+ical test during prenatal care in June 2019 detected non-reac-
+tive IgM and reactive IgG (>200 IU/mL). The pregnant woman
+was in her seventh week of pregnancy when this serological test
+was conducted.
+The same laboratory conducted both serological tests using
+the enzyme-linked immunosorbent assay method. No sero-
+logical test for toxoplasmosis was performed at the mater-
+nity hospital where the infant was delivered. The infant’s
+serological test was conducted at 7 months of age, showing
+IgM reactivity at 17.27 IU/mL and IgG reactivity at 43.10
+IU/mL. The infant had not been treated until then. At 11
+months, upon arrival at the health service, treatment with
+sulfadiazine, pyrimethamine, and folinic acid was initiated.
+The mother stated that she could only follow up at that time
+due to the COVID-19 pandemic. The infant had a poor prog-
+nosis, with neurological and ophthalmological sequelae, low
+weight, and short stature. A multi-professional team moni-
+tored the infant, although she started late.
+When the infant was approximately two months old, the
+mother noticed that the infant had strabismus and could not
+follow objects. An ophthalmologist diagnosed chorioretinitis in
+both eyes due to probable congenital toxoplasmosis. The neu-
+rologist monitored the infant, and a computed tomography
+scan revealed asymmetrical hydrocephalus in the supratentorial
+region. There was a reduced amplitude of the cerebral aqueduct
+and IV ventricle, multiple calcifications scattered throughout
+the brain, and encephalomalacia (Figure 1). At six months old,
+the infant experienced a seizure and had to be submitted to a
+ventriculoperitoneal shunt surgery. Despite all these findings,
+no treatment was initiated.
+Almeida RR et al.3
+Rev Paul Pediatr. 2025;43:e2024120RPPed
+Neurological and ophthalmological sequelae are described
+below, including the last assessment:
+• 1 year and 5 months old. Fundoscopy findings in the
+right eye: calm, clear cornea, formed anterior cham-
+ber, and nystagmus with non-viable pupillary secretion.
+Fundoscopy findings in the left eye: calm, clear cornea,
+formed anterior chamber, nystagmus, pale optic nerve,
+and extensive inactive macular lesion.
+• 4 years and 6 months old. Head tomography findings:
+intraparenchymal calcifications without a halo of edema
+or focal mass effect, varying in dimensions and dispersed
+in both cerebral hemispheres, along with an increased
+volume of the lateral ventricles; fourth ventricle with
+normal morphology and dimensions; cerebellum and
+brainstem also with normal morphology and attenuation
+values; and residual calcifications present in both cerebral
+hemispheres, indicating supratentorial hydrocephalus.
+Case description – Report 2
+The male infant was delivered by cesarean section with a pelvic
+presentation. He was born at a gestational age of 38 weeks and
+3 days, weighing 2400 g, measuring 45 cm in length, and head
+circumference of 31 cm. The percentiles of neonatal anthropo-
+metric data of the head circumference were <P3. No abnormal-
+ities were described during the physical examination at birth.
+The fetal ultrasound results in the first and third trimesters
+showed no changes.
+The infant was born to a 37-year-old mother in her fifth
+pregnancy, with no previous immunodeficiency and non-re-
+active HIV serology during prenatal care and in the mater-
+nity ward. This mother did not have any serological diagnosis
+of toxoplasmosis from previous pregnancies for comparison,
+as her youngest child was 15 years old, and prenatal care had
+been carried out in another state. The mother did not bring
+the prenatal care test results to the maternity ward, so they
+had to be requested again.
+Therefore, during the postpartum period, the mother had a
+serological diagnosis of toxoplasmosis, which showed reactive IgM
+and reactive IgG using the Chemiluminescence Microparticle
+Immunoassay (CMIA) methodology. The tests conducted during
+prenatal care were requested for comparison. Prenatal serologi-
+cal test for toxoplasmosis was conducted in May 2021 using the
+immunoenzymatic methodology: IgM was non-reactive (<10
+IU/mL), whereas IgG was reactive (20 IU/mL). The woman
+was in her ninth week of pregnancy at the time of this serolog-
+ical test. Maternal serological test was conducted postpartum,
+and the results showed IgM-reactive (12.83 IU/mL) and IgG-
+reactive (>200 IU/mL).
+In the maternity ward, the investigation of the newborn
+was initiated due to reactive IgM and IgG maternal serology,
+resulting in a diagnosis of congenital toxoplasmosis with both
+reactive IgM and IgG in the newborn. The investigation com-
+menced with a computed tomography scan revealing some foci
+of calcification in a primarily subcortical region in the left cere-
+bral hemisphere (Figure 2).
+A fundoscopy showed a macular lesion in the right eye and
+a pigmented lesion in the temporal arch of both eyes. The cere-
+brospinal fluid result was within normal limits. Sulfadiazine,
+pyrimethamine, folinic acid, and prednisone were administered
+on the second day of life. The infant received prednisolone due
+to a change in fundoscopy, guided by the Ophthalmology team.
+The infant was treated with sulfadiazine, pyrimethamine, and
+folinic acid for one year. The patient had healed eye lesions and
+developmental delays compared to his age group. At the time of
+writing, he was under investigation for autism spectrum disorder.
+Neurological and ophthalmological sequelae are described
+below, including the last assessment:
+Figure 1. Case report number 1. Brain tomography
+performed when the infant was 1 year and 3 months
+old. Supratentorial asymmetrical hydrocephalus, with
+reduced amplitude of the cerebral aqueduct and IV
+ventricle, multiple calcifications scattered throughout
+the brain, and encephalomalacia.
+Congenital toxoplasmosis: a neglected public health issue4
+Rev Paul Pediatr. 2025;43:e2024120RPPed
+• 1 year and 4 months old. The ophthalmologist decided
+to keep the infant under observation. He found a foveal
+sickness in the right eye, which impaired the visual prog-
+nosis of this eye, and a sickness in the upper arcade with
+a free posterior pole in the left eye. A better visual prog-
+nosis was expected for the left eye. At the time of writing,
+the infant had been monitored for visual stimulation.
+• 2 years old. Computed tomography findings: within
+normal limits; there were no calcifications in the brain.
+DISCUSSION
+Pregnant women should receive guidance during prenatal
+care on all forms of prevention and care to avoid congenital
+toxoplasmosis. The Manual de Gestação de Alto Risco (“High-
+Risk Pregnancy Manual”) recommends providing specific
+guidance to all pregnant women to prevent T. gondii infec-
+tion, including those previously diagnosed with chronic infec-
+tion.9 This study presented two cases in which both mothers
+with chronic toxoplasmosis, non-reactive IgM and reactive
+IgG during prenatal care, had their infants severely infected
+with T. gondii.
+None of the mothers received any information about pre-
+venting the disease during prenatal care due to their previ-
+ous serological status. They were all unaware of this zoonosis.
+In both cases, the infants did not exhibit specific symptoms of
+the infection at birth, except for being small for their gesta-
+tional age. The low birth weight could have been attributed to
+the congenital infection.
+In Brazil, toxoplasmosis seroprevalence in the adult popula-
+tion ranges from 40 to 80%. Several factors are linked to vertical
+transmission, leading to congenital toxoplasmosis. Factors such
+as parasitemia, the genotype of T. gondii, the gestational age at
+which the first infection occurred, reaggravation and/or rein-
+fection, treatment during pregnancy, and whether the pregnant
+woman has any immunodeficiency will define the prognosis.10,11
+The most significant risk of fetal infection occurs during the
+primary infection in pregnancy, and the severity of the infec-
+tion is inversely proportional to the gestational age at the time
+of maternal infection.12 The literature also describes cases of
+reaggravation and/or reinfection in chronic infections, mainly
+occurring in pregnant women with primary or secondary immu-
+nodeficiency, leading to fetal infection.13 Reinfections occur
+when there is exposure to numerous parasites, a more virulent
+strain, and/or a parasite of a different genotype.14 According
+to Andrade et al., the reinfection’s impact on the occurrence of
+congenital toxoplasmosis is unknown.13,15
+Reactivation is characterized by elevated IgG titers without
+the presence of IgM, often associated with acute inflammatory
+ophthalmic lesions, primarily retinochoroiditis.15 Although verti-
+cal transmission is not common in mothers chronically infected
+with T. gondii, there are several reports in the literature from
+different geographical locations. According to Elbez-Rubinstein
+et al., there is a very low probability of reinfection with differ-
+ent genotypes on the European continent. However, in Brazil,
+congenital toxoplasmosis due to reinfection during pregnancy
+might not be so exceptional.16
+In 2010, a case was described in Brazil involving a chron-
+ically infected pregnant woman with reactivation of the ocular
+form and non-reactive HIV serology. She had a fetus with con-
+genital toxoplasmosis.13 In 2015, Avelar et al. reported a case
+of fetal death due to toxoplasmosis in a pregnant woman with
+chronic infection. She had no history of immunosuppression
+and non-reactive HIV serology.17 Silva et al. described a case
+of a mother with negative HIV serology who had two children
+two years apart, and both had symptomatic congenital toxoplas-
+mosis.18 All these cases emphasize the importance of prenatal
+care for chronically infected mothers. Since it is an asymptom-
+atic or oligosymptomatic infection at birth, most cases of con-
+genital toxoplasmosis without prior serological screening will
+go undetected.
+Figure 2. Case report number 2. Brain tomography
+performed in the maternity ward. Calcification in the
+subcortical region in the left cerebral hemisphere.
+Almeida RR et al.5
+Rev Paul Pediatr. 2025;43:e2024120RPPed
+In Brazil, there is currently no centralized program to combat
+gestational and congenital toxoplasmosis due to the enormous
+diversity between states. Few states, such as Minas Gerais, offer
+specific and well-defined propaedeutic and therapeutic plans
+and protocols for both gestational and congenital toxoplasmosis.
+Unfortunately, there are still many states that lack such programs.
+The reported cases reinforce the importance of training
+and updating healthcare professionals in the management of
+toxoplasmosis during prenatal care. The absence of adequate
+guidance on prevention for chronically infected mothers high-
+lights a gap in the education and training of the professionals
+involved. The lack of information, even when serologies indi-
+cate chronic infection, exposes pregnant women to a high risk
+of vertical transmission. Healthcare professionals must be able
+to identify, monitor, and advise pregnant women on infection
+prevention and management strategies to reduce the sequelae
+associated with congenital toxoplasmosis.
+These two reports aimed to emphasize that congenital toxo-
+plasmosis causes significant sequelae and issues in newborns.
+Measures to prevent the disease must be addressed and strongly
+promoted throughout prenatal care. The combat against gesta-
+tional toxoplasmosis in susceptible pregnant women in South
+America, particularly in Brazil, is a challenge. It is necessary
+to diagnose and monitor chronic gestational toxoplasmosis,
+whether it is due to reactivation or reinfection. Both forms can
+cause sequelae and irreparable damage to newborns.
+REFERENCES
+1. Tenter AM, Heckeroth AR, Weiss LM. Toxoplasma gondii: from animals
+to humans. Int J Parasitol. 2000;30:1217-58. https://doi.org/10.1016/
+s0020-7519(00)00124-7
+2. Peyron F, L’ollivier C, Mandelbrot L, Wallon M, Piarroux R, Kieffer F,
+et al. Maternal and congenital toxoplasmosis: diagnosis and treatment
+recommendations of a French multidisciplinary working group.
+Pathogens. 2019;8:24. https://doi.org/10.3390/pathogens8010024
+3. Rostami A, Riahi SM, Contopoulos-Ioannidis DG, Gamble HR, Fakhri
+Y, Shiadeh MN, et al. Acute Toxoplasma infection in pregnant women
+worldwide: a systematic review and meta-analysis. PLoS Negl Trop
+Dis. 2019;13:e0007807. https://doi.org/10.1371/journal.pntd.0007807
+4. McAuley JB. Congenital toxoplasmosis. J Pediatric Infect Dis Soc.
+2014;3(Suppl 1):S30-5. https://doi.org/10.1093/jpids/piu077
+5. Lago EG, Endres MM, Scheeren MF, Fiori HH. Ocular outcome of
+Brazilian patients with congenital toxoplasmosis. Pediatr Infect Dis J.
+2021;40:e21-e27. https://doi.org/10.1097/INF.0000000000002931
+6. Holliman RE, Raymond R, Renton N, Johnson JD. The diagnosis of
+toxoplasmosis using IgG avidity. Epidemiol Infect. 1994;112:399-408.
+https://doi.org/10.1017/s0950268800057812
+7. Kodjikian L, Wallon M, Fleury J, Denis P, Binquet C, Peyron F, et al.
+Ocular manifestations in congenital toxoplasmosis. Graefes Arch Clin Exp
+Ophthalmol. 2005;244:14-21. https://doi.org/10.1007/s00417-005-1164-3
+8. Vimercati A, Greco P, D’Apolito A, Angelici MC, Possenti A, Carbonara S,
+et al. Risk assessment ofvertical transmission ofToxoplasma infections. Acta
+Biomed Ateneo Parmense. 2000;71(Suppl 1):537-40. PMID: 11424802.
+9. Brasil. Ministério da Saúde. Secretaria de Atenção Primária à Saúde.
+Departamento de Ações Programáticas. Manual de gestação de alto
+risco. Brasília (DF): Ministério da Saúde; 2022. 692 p.
+10. Dunn D, Wallon M, Peyron F, Petersen E, Peckham C, Gilbert R.
+Mother-to-child transmission of toxoplasmosis: risk estimates for
+clinical counseling. Lancet. 1999;353:1829-33. https://doi.org/10.1016/
+S0140-6736(98)08220-8
+11. Remington JS. Infectious diseases of the fetus and newborn infant.
+Philadelphia: Elsevier Saunders; 2011. 1260 p.
+12. Teimouri A, Mohtasebi S, Kazemirad E, Keshavarz H. Role of Toxoplasma
+gondii IgG avidity testing in discriminating between acute and chronic
+toxoplasmosis in pregnancy. J Clin Microbiol. 2020;58:e00505-20.
+https://doi.org/10.1128/JCM.00505-20
+13. Andrade GM, Vasconcelos-Santos DV, Carellos EV, Romanelli RM,
+Vitor RW, Carneiro AC, et al. Toxoplasmose congênita em filho de
+mãe cronicamente infectada com reativação de retinocoroidite na
+gestação. J Pediatr (Rio J). 2010;86:85-8. https://doi.org/10.1590/
+S0021-75572010000100015
+14. Lebas F, Ducrocq S, Mucignat V, Paris L, Mégier P, Baudon JJ, et al.
+Toxoplasmose congénitale: un nouveau cas d’infection pendant
+la grossesse chez une femme antérieurement immunisée et
+immunocompétente. Arch Pediatr. 2004;11:926-8. https://doi.
+org/10.1016/j.arcped.2004.04.017
+15. Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde.
+Departamento de Vigilância das Doenças Transmissíveis. Protocolo
+de notificação e investigação: toxoplasmose gestacional e congênita.
+Brasília (DF): Ministério da Saúde; 2018. 31 p.
+16. Elbez-Rubinstein A, Ajzenberg D, Dardé ML, Cohen R, Dumètre
+A, Yera H, et al. Congenital toxoplasmosis and reinfection during
+pregnancy: case report, strain characterization, experimental model
+of reinfection, and review. J Infect Dis. 2009;199:280-5. https://doi.
+org/10.1086/595793
+17. Avelar JB, Rezende HH, Storchilo HR, Candido RR, Amaral
+WN, Avelino MM, et al. Reativação da toxoplasmose durante o
+oitavo mês de gestação. Revista Norte Mineira de Enfermagem.
+2015;4:57-69.
+18. Silva MS, Yamamoto AY, Carvalheiro CG, Grigg ME, Medeiros
+AL, Mussi-Pinhata MM, et al. Congenital ocular toxoplasmosis in
+consecutive siblings. Arq Bras Oftalmol. 2021;85:625-8. https://doi.
+org/10.5935/0004-2749.20220079

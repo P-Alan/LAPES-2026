@@ -1,0 +1,1110 @@
+Lipidose hepática felina: fisiopatogenia, diagnóstico e tratamento
+Links rápidos:
+O que é lipidose hepática
+Fisiopatogenia da lipidose hepática felina
+Fatores de risco: quais animais estão mais propensos a desenvolver a lipidose hepática?
+Principais sinais clínicos da lipidose hepática felina
+Como diagnosticar a lipidose hepática felina
+Diagnóstico diferencial
+Tratamento para a lipidose hepática felina
+Como prevenir a Lipidose Hepática Felina
+Com mais de 50 anos de tradição, a Royal Canin é referência em nutrição animal
+A lipidose hepática felina é uma doença hepatobiliar de elevada ocorrência no atendimento clínico. Entenda os tópicos mais relevantes e saiba como abordar o paciente acometido.
+O fígado é responsável por desempenhar funções primordiais para a manutenção da homeostase. Dentre elas, podemos citar a participação na digestão, na absorção e no metabolismo de nutrientes, além de armazenamento, desintoxicação, catabolismo e excreção de inúmeros metabólitos.
+A lipidose hepática felina é a doença hepática mais comum em gatos, comprometendo severamente a função do fígado, o que resulta em importantes distúrbios metabólicos. O prognóstico pode variar muito, dependendo das condições subjacentes e das comorbidades relacionadas. A taxa de sobrevida global está entre 50% e 85%, mas pancreatite aguda, ptialismo, derrame cavitário, hipoalbuminemia e idade avançada são alguns dos fatores prognósticos negativos descritos (NIVY, 2023).
+Compreenda, a seguir, a complexa fisiopatogenia dessa enfermidade e os detalhes de como conduzir os casos de lipidose hepática felina.
+O que é lipidose hepática
+A lipidose hepática felina, também chamada de “fígado gorduroso”, é uma síndrome bem reconhecida na Medicina Felina e é caracterizada pelo acúmulo excessivo de gordura no fígado.
+A condição ocorre quando mais de 50% dos hepatócitos acumulam excesso de triglicerídeos, resultando em colestase grave e disfunção hepática (TILLEY, SMITH JR, 2014).
+A lipidose hepática felina pode estar associada com outras doenças subjacentes, como obesidade, pancreatite, diabetes e colangiohepatite, podendo ser ainda idiopática, quando a causa primária não é detectada.
+Em gatos, a lipidose hepática frequentemente está relacionada a um histórico de longo período de inapetência, que pode estar associado ao manejo alimentar inadequado, a eventos estressantes ou a fatores crônicos ligados às comorbidades citadas acima.
+Fisiopatogenia da lipidose hepática felina
+Acredita-se que a etiopatogenia da lipidose hepática felina esteja correlacionada a uma combinação de fatores, como (NELSON, COUTO, 2015):
+excessiva mobilização periférica de lipídeos;
+deficiência na formação de lipoproteínas;
+lipogênese excessiva;
+aumento da oxidação hepática de ácidos graxos;
+inibição da oxidação lipídica;
+inibição da síntese de lipoproteínas de densidade muito baixa (VLDL).
+Conforme citado, a lipidose hepática em gatos geralmente surge quando há longos períodos de inapetência (36 horas, por exemplo). Durante a privação alimentar, o glicogênio hepático armazenado previamente servirá como fonte de energia reserva para o organismo.
+Se a ingestão alimentar permanecer comprometida mesmo após os estoques de glicogênio hepático serem consumidos, ocorrerá diminuição dos níveis plasmáticos de insulina na tentativa de manter a glicemia e, com isso, há o estímulo à lipólise periférica.
+Os ácidos graxos depositados no tecido adiposo são, então, mobilizados para geração de energia, e a taxa de oxidação no fígado aumenta. Com isso, inicia-se uma série de disfunções metabólicas deletérias ao organismo do animal, uma vez que a chegada de lipídios ao fígado excede sua capacidade de oxidação.
+A liberação maciça de triglicerídeos na circulação pode levar à disfunção hepatocelular, pois o acúmulo de gordura nos hepatócitos (Figura 1) compromete a função dessas células e afeta toda a integridade do organismo do animal.
+Fatores de risco: quais animais estão mais propensos a desenvolver a lipidose hepática?
+Dentre os principais fatores de risco para o desenvolvimento de lipidose hepática felina, destacam-se o sobrepeso ou a obesidade e os períodos prolongados de jejum (acima de 36 horas). Saiba mais a seguir:
+A influência do sobrepeso e da obesidade no desenvolvimento da lipidose hepática nos gatos
+Gatos com sobrepeso ou obesos podem apresentar grande quantidade de ácidos graxos liberados rapidamente dos depósitos de gordura periféricos e viscerais quando expostos a um período de hiporexia ou anorexia (VALTOLINA & FAVIER, 2017).
+Para completar, diferentemente dos cães, que podem tolerar períodos de jejum prolongado, os felinos apresentam menor reserva hepática para gliconeogênese, levando à ativação exacerbada da lipólise em resposta ao déficit energético. Esse mecanismo resulta na rápida infiltração gordurosa no parênquima hepático, agravando a disfunção hepatocelular (WEBB, 2018).
+No final, podemos dizer que boa parte dos gatos que desenvolvem lipidose hepática felina são obesos que passaram por um período de privação alimentar, no qual houve intensa mobilização de gordura periférica proveniente de seu acúmulo excessivo de tecido adiposo. Portanto, quanto maior o percentual de gordura corporal, maior a chance do desenvolvimento de lipidose hepática.
+Além disso, a obesidade em felinos leva à resistência insulínica e ao diabetes, doença que também estimula o aumento da mobilização dos triglicerídeos para o fígado, agravando ainda mais o quadro.
+Saiba mais sobre obesidade em gatos e cães e acesse materiais exclusivos sobre controle de peso em nossa página especial.
+Outros fatores que podem desencadear a lipidose hepática
+Outros fatores como estresse, enfermidades sistêmicas concomitantes e alterações no manejo alimentar podem precipitar quadros de anorexia, levando ao desenvolvimento da lipidose hepática felina (NIVY, 2023).
+Por que os gatos são mais acometidos do que os cães?
+Embora as causas não estejam completamente esclarecidas, a lipidose hepática felina é mais comum do que em pacientes caninos.
+Além da questão excesso de peso e do jejum citadas acima, algumas diferenças anatômicas e metabólicas nos gatos explicam parcialmente as razões que os tornam mais susceptíveis a essa enfermidade.
+A presença do ducto pancreático e sua unificação com ducto biliar antes de entrar no duodeno, por exemplo, é um dos fatores que explicam a possibilidade da lipidose hepática felina se desenvolver secundariamente a outras afecções do fígado ou do pâncreas, como colestase, colangiohepatite, insuficiência hepática, pancreatite e diabetes.
+Principais sinais clínicos da lipidose hepática felina
+As manifestações clínicas mais frequentemente observadas em pacientes com lipidose hepática felina são:
+perda de peso;
+ptialismo;
+hiporexia ou anorexia;
+vômitos;
+icterícia;
+constipação ou diarreia;
+letargia.
+Como diagnosticar a lipidose hepática felina
+O diagnóstico de lipidose hepática felina é baseado na identificação de alterações clínicas associada ao histórico de anorexia prolongada ou qualquer fator que cause desequilíbrio nutricional, como modificações dietéticas severas para redução de peso, por exemplo.
+No exame físico, o médico-veterinário pode identificar obesidade, hepatomegalia, desidratação, icterícia e/ou fraqueza (ventroflexão do pescoço/decúbito).
+A ultrassonografia é o exame de imagem de escolha para pacientes com suspeita de lipidose hepática felina, podendo evidenciar a hepatomegalia e o aumento difuso da ecogenicidade do fígado.
+Em conjunto, análises laboratoriais de amostras sanguíneas podem detectar alterações bioquímicas por meio da mensuração de enzimas hepáticas. Além disso, a biópsia hepática possibilita diferenciar a lipidose hepática felina de outras afecções do fígado e confirmar o diagnóstico da doença.
+Principais alterações encontradas em exames de gatos com lipidose hepática
+Em quadros de lipidose hepática felina, o médico-veterinário pode evidenciar que a maioria dos pacientes apresenta elevação significativa da fosfatase alcalina (FA) e poucos deles terão qualquer elevação notável na gama-glutamiltransferase (GGT). Já a alanina aminotransferase (ALT) e aspartato aminotransferase estarão de leve a moderadamente elevadas (WEBB, 2018).
+Hipocalemia, hipomagnesemia, hipertrigliceridemia e alterações em um ou mais parâmetros de coagulação podem estar presentes. Outros achados incluem ainda: hipoalbuminemia, hiperamonemia, ureia baixa no sangue.
+No hemograma, pode-se evidenciar poiquilócitos e corpúsculos de Heinz, juntamente com anemia não regenerativa de leve à moderada. Já a urinálise do paciente com lipidose hepática felina pode apresentar bilirrubinúria e lipidúria.
+Conforme dito anteriormente, o ultrassom abdominal constitui uma importante ferramenta para o diagnóstico da lipidose hepática felina, evidenciando aumento do fígado, parênquima hiperecóico e pouca visibilidade das paredes da veia porta intra-hepática.
+Diagnóstico diferencial
+Segundo Tilley & Smith Jr. (2014), o diagnóstico diferencial da lipidose hepática felina deve considerar doenças que também podem ocasionar as mesmas manifestações clínicas, tais como:
+colelitíase;
+neoplasia;
+colangite/colangioepatite;
+obstrução extra-hepática de ducto biliar;
+anomalia vascular portossistêmica;
+toxoplasmose hepática;
+PIF;
+pancreatite;
+doença inflamatória intestinal;
+intoxicação;
+hipertireoidismo.
+Tratamento para a lipidose hepática felina
+Por ser uma doença grave que pode causar sérias complicações e até mesmo levar o animal a óbito, o diagnóstico da lipidose hepática em gatos e a intervenção terapêutica devem ser realizados em tempo hábil para aumentar as chances de sucesso no tratamento.
+A base do tratamento da lipidose hepática felina é o suporte nutricional e o controle da náusea. A intervenção nutricional é ponto-chave para restabelecer o metabolismo de nutrientes e será abordada com mais detalhes a seguir.
+O manejo terapêutico inicial também deve incluir a correção de desequilíbrios hidroeletrolíticos para evitar complicações.
+Vale ressaltar que a resolução da lipidose hepática felina associada com comorbidades como pancreatite e infecções depende do sucesso no tratamento do distúrbio concomitante.
+A importância da abordagem nutricional adequada
+A abordagem nutricional é a base da terapia do paciente com lipidose hepática felina e tem como objetivo fornecer uma nutrição eficaz ao animal convalescente (WEBB, 2018). Para isso, um meio de alimentação enteral pode ser necessário.
+Se o gato não pode ser anestesiado com segurança para a colocação de uma sonda esofágica, um tubo nasoesofágico deve ser colocado, e uma fórmula enteral adequada deve ser administrada até que o gato esteja estabilizado para a colocação de uma sonda mais duradoura, que deve permanecer até que o paciente restabeleça a alimentação espontânea.
+Vale ressaltar que a alimentação forçada com seringas está em desuso e é contraindicada, pois pode causar aversão alimentar e gerar mais estresse para o gato.
+Alimento RECOVERY, da Royal Canin®, pode fazer parte do manejo alimentar do animal
+Como acabamos de mencionar, animais convalescentes já acometidos pela lipidose hepática felina necessitam do restabelecimento do aporte nutricional adequado. Nesses casos, o alimento RECOVERY® pode ser recomendado.
+Sua formulação exclusiva contém alta densidade de energia, permitindo atender os requerimentos energéticos enquanto ajuda a reduzir a quantidade de alimento oferecido ao paciente crítico. O alto nível de proteína ajuda a manter a massa muscular, e sua textura permite uma fácil administração, possibilitando o uso através de sondas.
+Como prevenir a Lipidose Hepática Felina
+Uma vez que a lipidose hepática felina pode se desenvolver secundariamente a doenças crônicas, é importante adotar o monitoramento médico-veterinário de gatos que apresentam condições prévias que favoreçam o desenvolvimento desta afecção, intervindo sempre que necessário para que a lipidose hepática felina não se instale.
+Adotar uma dieta completa e balanceada que atenda às necessidades nutricionais específicas dos felinos é de extrema importância para a manutenção do metabolismo saudável destes animais.
+Os tutores devem ser instruídos a observar o apetite de seu animal em casa, certificando-se que a quantidade necessária seja ingerida de acordo com porte, idade e estilo de vida do pet.
+Por outro lado, excessos também devem ser evitados, já que a obesidade é um dos fatores de risco de desenvolvimento da lipidose hepática felina, além de ser uma condição inflamatória crônica que predispõe ao surgimento de outras complicações deletérias à saúde dos animais.
+Com mais de 50 anos de tradição, a Royal Canin é referência em nutrição animal
+Com mais de 50 anos de tradição, a Royal Canin® é referência global em nutrição animal, oferecendo soluções alimentares cientificamente formuladas para atender às necessidades específicas de gatos e cães em todas as fases da vida.
+A nutrição adequada desempenha um papel essencial na manutenção da saúde dos pets, prevenindo doenças e contribuindo para a longevidade. Além disso, dietas formuladas com níveis controlados de gorduras, proteínas de alta digestibilidade e um aporte adequado de nutrientes ajudam a manter o peso ideal, evitando o sobrepeso e a obesidade, um dos principais fatores predisponentes à lipidose hepática felina. E no caso de animais acometidos, o alimento RECOVERY® pode trazer benefícios.
+Vale lembrar que a Royal Canin® oferece ao médico-veterinário uma linha de alimentos específicos para diferentes necessidades nutricionais. São alimentos completos e balanceados para atender as demandas nutricionais de gatos e cães em diferentes fases e estilos de vida.*
+Conheça melhor o nosso portfólio e as nossas linhas de alimentos coadjuvantes e para animais saudáveis. Utilize a nossa ferramenta de Recomendação Nutricional para facilitar a escolha do melhor produto e da quantidade ideal de alimento para cada paciente.
+* A escolha do alimento ideal para o paciente deve ser sempre feita pelo médico-veterinário responsável, considerando suas particularidades, condição de saúde e necessidades específicas, promovendo uma nutrição adequada, bem-estar e longevidade. 
+Referências:
+BROWN, B.; MAULDIN, G.E.; ARMSTRONG, J.; MOROFF, S.D.; MAULDIN, G.N. Metabolic and hormonal alterations in cats with hepatic lipidosis. J Vet Intern Med, v.14, i.1, 2000. Acesso em: 19 mar. 2025.
+FASCETTI, A.J.; DELANEY, S.J. Applied Veterinary Clinical Nutrition. p.235-250. Wiley-Blackwell, 2012.
+KUZI, S. et al. Prognostic markers in feline hepatic lipidosis: a retrospective study of 71 cats. Veterinary Record, v.181, n.19, 2017. Acesso em: 19 mar. 2025.
+MARKS, S. Nutritional management of hepatobiliary diseases. In: FASCETTI, A.; DELANEY, S. Applied Veterinary Clinical Nutrition. Wiley-Blackwell, 2012.
+MEYER, H.P.; TWEDT, D.C.; ROUDEBUSH, P.; DILL-MACKY, E. Hepatobiliary disease. In: Small Animal Clinical Nutrition, 2010.
+NATIONAL RESEARCH COUNCIL OF THE NATIONAL ACADEMIES PRESS. Nutrient Requirements of Dogs and Cats. Washington D.C., 2006. Acesso em: 19 mar. 2025.
+NELSON, R.W.; COUTO, C.G. Medicina interna de pequenos animais. Rio de Janeiro: Elsevier, 5 ed., 2015.
+NIVY, R. Lipidosis hepática en el gato. Vetfocus, v.33.2, 2023. Acesso em: 19 mar. 2025.
+TILLEY, L.P.; SMITH JR., F.W.K. Consulta Veterinária em 5 Minutos – Espécies canina e felina. São Paulo: Manole, 5 ed., 2014.
+VALTOLINA, C.; FAVIER, R.P. Feline Hepatic Lipidosis. Veterinary Clinics Of North America: Small Animal Practice, v.47, n.3, 2017.
+VIEIRA, E.S.; MELLO, O.A.; OLIVEIRA, M.B. Parâmetros ultrassonográficos e clínicos em caso de lipidose hepática felina: Relato de caso. Acesso em: 19 mar. 2025.
+WALLACE, O.P. et al. Association of time to start of enteral nutrition and outcome in cats with hepatic lipidosis. Journal of Veterinary Internal Medicine, v.38, n.6, 2024. Acesso em: 19 mar. 2025.
+WEBB, C.B. Hepatic lipidosis: Clinical review drawn from collective effort. Journal of Feline Medicine and Surgery, v.20, i.3, 2018. Acesso em: 19 mar. 2025.
+
+Ana C.R. Silva et al.2
+Pesq. Vet. Bras. 44:e07454, 2024
+diagnosticados com anemia discreta a grave. A classificação dos
+tipos de icterícia (pré-hepática, hepática e pós-hepática) baseou-se
+em achados macroscópicos e microscópicos. Dos 44 animais, 10
+foram classificados como icterícia pré-hepática, 33 com icterícia
+hepática e sete com icterícia pós-hepática. Contudo, em alguns
+gatos, foram encontrados dois tipos de icterícia, cinco dos quais
+foram classificados como icterícia pré-hepática e hepática e um
+caso como icterícia hepática e pós-hepática. De acordo com os
+achados macroscópicos e microscópicos, a causa da icterícia pré-
+hepática foi anemia hemolítica idiopática. A causa mais frequente
+de ícterícia hepática foi a lipidose hepática (26/44), seguida de
+peri-hepatite e hepatite compatível com peritonite infecciosa
+felina, linfoma, degeneração glicogênica, colangiocarcinoma
+e leucemia mieloide metastática. Nos gatos com icterícia pós-
+hepática, as causas incluíram colangite devida a infecção por
+Platynosomum spp., colangioma do ducto hepático comum e
+colangite crônica. Atualmente, a compreensão da etiopatogenia
+da icterícia requer um estudo clínico-patológico preciso e causas
+concomitantes da doença em gatos devem ser consideradas.
+TERMOS DE INDEXAÇÃO: Felino, anemia hemolítica idiopática,
+lipidose hepática, vírus da peritonite infecciosa felina, hemopatógenos.
+INTRODUCTION
+Jaundice or icterus is defined as an increase in bilirubin levels
+in the blood (hyperbilirubinemia) and its deposition in tissues,
+identified grossly by the yellow color of the mucous membranes,
+skin, sclera, and various internal tissues (Cullen & Stalker 2016).
+Jaundice occurs when serum bilirubin levels are detected
+five to ten times higher than normal. Hyperbilirubinemia is
+highly specific for most hepatobiliary diseases and/or acute
+hemolysis, although less than 50% of cats with jaundice have
+liver disease. The accumulation of this endogenous pigment
+is related to pre-hepatic disorders (destruction of intra- or
+extravascular red blood cells), hepatic disorders (deficits in
+hepatocellular bile uptake, conjugation, or excretion), and
+post-hepatic disorders (impaired bile flow) (Sherding 2000).
+Clinical signs, such as vomiting, inappetence, and weight
+loss, are indicators of hepatic or post-hepatic icterus. Signs of
+hemolytic anemia, together with jaundice, may be related to
+pre-hepatic icterus (Sherding 2000, Harvey 2009). However,
+several diseases can affect bilirubin metabolism and cause
+jaundice, either alone or in combination. Lipidosis, necrosis,
+hepatitis, cholangitis and neoplasia are examples of some liver
+diseases commonly reported in cats (Cullen 2009). Considering
+the various diseases that are associated with jaundice in cats
+and the lack of previous studies on this subject, the aim of
+this study was to determine the types of icterus, as well as to
+describe the causes of its occurrence in 44 cats, emphasizing
+the anatomopathological and etiological findings.
+MATERIALS AND METHODS
+Animal Ethics. This study was approved by the Ethics Committee
+on Animal Use of the “Universidade Federal of Minas Gerais” (CEUA
+– 61/2017).
+Sampling method. Domestic cats (Felis catus) with jaundice
+sent for necropsy were obtained through a retrospective study
+at the “Setor de Patologia, Departamento de Clínica e Cirurgia
+Veterinárias, Escola de Veterinária” (Sector of Animal Pathology in
+the Department of Veterinary Clinic and Surgery of the Veterinary
+School) of “Universidade Federal de Minas Gerais” (UFMG) (n=31)
+and the “Setor de Anatomia Patológica” (Sector of Animal Pathology)
+of “Universidade Federal do Piauí” (n=13), totaling 44 cats. The
+inclusion of cats from a second institution was performed to increase
+the number of cases. The sampling period was from June 2014 to
+December 2019. The main criterion for including cats in the study
+was jaundice on gross examination, regardless of its intensity and
+histopathology. The criterion for defining the intensity of jaundice
+was subjective, determined by differences in the intensity of the
+yellow color in the mucous membranes, subcutaneous tissue, skin,
+tunica intima of the vessels, serosae, and joint capsules.
+Gross findings and histopathology. During the post-mortem
+examination, samples were collected from several organs (especially
+the liver, spleen, kidney, lymph nodes, intestines, bone marrow and
+brain) for histopathological analysis. Samples were fixed in 10%
+neutral-buffered formalin. Four-micrometer tissue sections were
+stained with hematoxylin and eosin (HE) (Luna 1968) and examined
+under a light microscope. Additional sections of the spleen, liver, and
+bone marrow were stained with Giemsa (Luna 1968) to visualize
+hemotropic agents in the red blood cells when prehepatic icterus
+was suspected. The type of jaundice (pre-hepatic, hepatic, and
+post-hepatic) was defined based on gross and microscopic findings.
+Immunohistochemistry. Organ samples from three cats with
+lesions characteristic of feline infectious peritonitis (FIP) were
+subjected to immunohistochemistry (IHC) to identify the FIP
+viral antigen. Samples from two other cats with lymphoma were
+subjected to IHC for feline leukemia virus (FeLV). Samples from a
+single cat diagnosed with multicentric lymphoma were subjected to
+concomitant IHC for FeLV and feline immunodeficiency virus (FIV).
+Information regarding the IHC is shown in Table 1.
+Molecular tests. For the molecular detection of hemopathogens,
+DNA was extracted from liver, kidney, lymph node, and spleen samples
+of 10 cats (10/44), from which frozen samples were available for
+examination. DNA was extracted using silica and sodium iodide (NaI)
+methods (Vogelstein & Gillespie 1979). PCR (Polymerase Chain Reaction)
+was carried out for hemoplasmas (16S rRNA region), Mycoplasma spp.,
+Mycoplasma haemofelis, ‘Candidatus Mycoplasma haemominutum’,
+and ‘Candidatus Mycoplasma turicensis’ (Criado-Fornelio et al. 2003,
+Watanabe et al. 2003, Peters et al. 2008); Anaplasma platys (16S rRNA
+region); Anaplasma phagocytophilum (gene msp4) (De La Fuente
+et al. 2005, Bown et al. 2007, Ramos et al. 2009); Anaplasmataceae
+monocyte agents (16S rRNA region) (Kawahara et al. 2009); Ehrlichia
+canis (partial gene VirB9) (Kledmanee et al. 2009); genus Babesia/
+Theileria/Cytauxzoon (18S rRNA region) (Zahler et al. 2000, Da
+Silveira et al. 2011); Babesia vogeli (18S rRNA) (Kledmanee et al.
+2009); and Cytauxzoon felis (Birkenheuer et al. 2006) (Table 2). PCR
+products from samples positive for the 16S rRNA gene of Mycoplasma
+spp. were purified using a commercial QIAquick PCR Purification
+Kit (Qiagen Biotecnologia Brasil, São Paulo, Brazil) according to the
+manufacturer’s instructions. The purified products were sequenced
+using the dideoxynucleotide method (Sanger et al. 1977) on an Applied
+Biosystems ABI3130 Genetic Analyzer automatic capillary sequencer
+(Life Technologies, Carlsbad/CA, USA).
+The electrochromatograms were evaluated for quality and
+edited using ChromasPro 2.0.6 (Technelysium Pty Ltd., Helensvale,
+Australia). The identities of the obtained partial DNA sequences were
+determined by comparison with sequences available in GenBank
+using BLASTn (Altschul et al. 1990). The sequences were registered
+in GenBank under accession numbers OQ397116, OQ397117,
+OQ397118, and OQ397119.
+3
+Pesq. Vet. Bras. 44:e07454, 2024Jaundice in cats: Causes and post-mortem findings in 44 cases
+RESULTS
+Epidemiology
+Among the 44 cats examined, 15 (34.1%) were female and
+25 (56.8%) were male, and there was no information on the
+sex of four cats (9.1%). Their ages ranged from 6 months to
+13 years, and most animals did not have a particular breed
+(35/44). The specified breeds were Turkish Angora (2/44),
+Oriental Shorthair (1/44), and Persian (1/44).
+Classification of icterus type and frequency
+Jaundice was classified based on the anatomopathological
+findings and established diagnoses (Table 3). Of the 44 cats,
+the intensity (mild, moderate, or severe) of jaundice was
+determined in 39 cats. The intensity was not recorded in
+the remaining cats because of the lack of this information
+in the gross description of these cases. The icterus grade
+was determined according to the intensity of the yellow
+discoloration of the body tissue. Twelve (27.3%) cats presented
+mild jaundice, 12 (27.3%) moderate jaundice, and 16 (36.4%)
+severe jaundice. The cats were also classified according to the
+icterus type based on gross and histopathological findings:
+pre-hepatic icterus in 10 (22.7%) cats, hepatic icterus in
+33 (79.5%) cats, and post-hepatic icterus in seven (15.9%)
+animals. One cat (6.8 %) was diagnosed with both hepatic and
+post-hepatic icterus, and five cats (11.3%) were diagnosed
+with pre-hepatic and hepatic icterus. For pre-hepatic icterus,
+moderate intensity was recorded in three cats (3/5) and
+severe in two cats (2/5). For hepatic icterus, a mild intensity
+was recorded in 11 cats (11/27), moderate in seven cats
+(7/27) and severe in four cats (4/27). The intensity was not
+recorded in five cats with hepatic icterus. For post-hepatic
+icterus, mild intensity was recorded in one cat (1/6) and
+severe intensity in five cats (5/6). In cats with concomitant
+pre-hepatic and hepatic icterus, the intensity was moderate
+in one cat (1/5) and severe in four cats (1/4). Only one cat
+had concomitant hepatic and post-hepatic icterus, which was
+recorded as severe. Note that in 44 animals, there are cats
+that have been diagnosed with more than one type of icterus
+based on the pathological findings (Table 3).
+Pre-hepatic icterus-related diseases
+Pre-hepatic icterus resulting from extravascular idiopathic
+hemolytic anemia was identified in 10 cats (10/44).
+Hemolytic anemia
+Ten cats were identified as having jaundice associated
+with extravascular hemolytic anemia. Splenomegaly because
+of expansion of the red pulp (Fig.1) was a frequent finding
+among carriers of this condition, and hyperplasia of the white
+pulp was observed in three (3/10) cats. In nine (9/10), the
+bone marrow was pale red. Microscopically, the most relevant
+findings in cats with hemolytic anemia were splenic (Fig.2)
+and hepatic erythrophagocytosis. The livers of these animals
+showed bile stasis (probably with conjugated bilirubin)
+and vacuolar degeneration, with individual necrosis of the
+centrilobular hepatocytes. In the kidneys, bile pigments are
+present in the lumen and the epithelial cells of the tubules.
+The bone marrow of one cat showed marked erythroid
+hyperplasia. Giemsa staining of the spleen, liver, and bone
+marrow did not reveal infectious agents.
+Hepatic icterus-related diseases
+Hepatic icterus was identified in 33 cats (33/44) and
+was associated with various conditions, including metabolic,
+infectious, and neoplastic diseases.
+Fatty degeneration
+Twenty-six (26/33) cats were diagnosed with lipidosis
+(fatty degeneration). Grossly, the liver was diffusely yellow
+and enlarged (Fig.3) with rounded edges and evidence of
+a lobular pattern (mottled liver). The organ was diffusely
+friable and greasy when cut open. Microscopically, the
+Table 1. Immunohistochemical protocol for feline leukemia virus (FeLV), feline immunodeficiency virus (FIV), and feline
+coronavirus (FCoV) antigens
+Virus
+FeLV FIV FIP
+Blocking endogenous
+peroxidase
+Hydrogen peroxide for 20 minutes Hydrogen peroxide for 20 minutes Hydrogen peroxide for 15 minutes
+Antigen retrieval Tris EDTA Buffer pH 9.0, in a pressure
+cooker (96°C) for 40 minutes
+Citrate Buffer pH 6.0, in a pressure
+cooker (96°C) for 40 minutes
+Tris EDTA Buffer pH 9.0, in a pressure
+cooker (96°C) for 40 minutes
+Primary antibody Anti-feline leukemia virus mouse
+monoclonal (gp 70) (Bio-rad,
+Kidlington, UK), at 1:200 dilution, for
+14-16 hours, room temperature
+Anti-feline immunodeficiency vírus
+mouse monoclonal (p24 gag) (Bio-rad,
+Kidlington, UK), at 1:600 dilution, for
+14-16 hours, room temperature
+Anti-coronavirus mouse monoclonal
+(FIPV3-70) (Santa Cruz Biotechnology,
+Dallas, Texas, USA), at 1:250 dilution,
+for 14-16 hours, room temperature
+Blocking nonspecific
+activities
+Skimmed milk (5%) for 15 minutes Skimmed milk (5%) for 15 minutes Skimmed milk (5%) for 20 minutes
+Second antibody Universal MACH 4-HRP polymer kit,
+Biocare Medical, Concord, USA
+Universal MACH 4-HRP polymer kit,
+Biocare Medical, Concord, USA
+Universal MACH 4-HRP polymer kit,
+Biocare Medical, Concord, USA
+Chromogen 3,3’-Diaminobenzidine (DAB), Sigma,
+St. Louis, USA
+3,3’-Diaminobenzidine (DAB), Sigma,
+St. Louis, USA
+3,3’-Diaminobenzidine (DAB), Sigma,
+St. Louis, USA
+Counterstain Harris Hematoxylin Harris Hematoxylin Harris Hematoxylin
+Negative control Universal Negative Control Serum
+(Biocare Medical, Concord, USA)
+Universal Negative Control Serum
+(Biocare Medical, Concord, USA)
+Universal Negative Control Serum
+(Biocare Medical, Concord, USA)
+Positive control* Lymph nodes Lymph nodes Small intestine
+* Tissues from cats known to be positive for the antigens tested.
+Ana C.R. Silva et al.4
+Pesq. Vet. Bras. 44:e07454, 2024
+Table 2. Oligonucleotide primer sequences, gene region for PCR assays for hemopathogens
+Hemopathogen Oligonucleotide primer sequences
+(5’-3’)
+Gene
+region
+Amplicon
+size (bp) Reference
+Mycoplasma spp. ATACGGCCCATATTCCT
+ACGTGCTCCACCACTTGTTCA
+HBTF5
+HBTR5
+16S
+rRNA
+595 Criado-Fornelio et al. (2003)
+Mycoplasma haemofelis CGTGGAAACTAGAGCTTCGCGAGC
+ATGGTATTGCTCCATCAGACTTTCG
+OH-OK
+00CB-r1
+16S
+rRNA
+274 Watanabe et al. (2003)
+‘Candidatus Mycoplasma
+haemominutum’
+ATGCCCCTCTGTGGGGGATAGCCG
+ATGGTATTGCTCCATCAGACTTTCG
+CA-B2f
+00CB-r1
+16S
+rRNA
+202 Watanabe et al. (2003)
+‘Candidatus Mycoplasma
+turicensis’
+AGAGGCGAAGGCGAAAACT
+CTACAACGCCGAAACACAAA
+CMt-F
+CMt-R
+16S
+rRNA
+138 Peters et al. (2008)
+Anaplasma platys
+1st reaction AGTTTGATCATGGCTCAG
+CCATGGCGTGACGGGCAGTGT
+8-F
+1448-R 16S
+rRNA
+Ramos et al. (2009)
+2nd reaction GATTTTTGTCGTAGCTTGCTATG
+TAGCACTCATCGTTTACAGC
+PLATYS-F
+EHR16S-R
+678
+Anaplasma phagocytophilum
+1st reaction ATGAATTACAGAGAATTGCTTGTAGG
+TTAATTGAAAGCAAATCTTGCTCCTATG
+MSP4AP5
+MSP4AP3
+msp4
+849 De La Fuente et al. (2005)
+2nd reaction CTATTGGYGGNGCYAGAGT
+GTTCATCGAAAATTCCGTGGTA
+msp4f
+msp4r
+381 Bown et al. (2007)
+Anaplasmataceae monocyte
+1st reaction ACGGACAATTGCTTATAGCCTTACAACTTTT
+ATGGATTAGCTAAAT
+NS16SCH1F
+NS16SCH1R 16S
+rRNA
+1195 Kawahara et al. (2009)
+2nd reaction GGGCACGTAGGTGGACTAG
+CCTGTTAGGAGGGATACGAC
+NS16SCH2F
+NS16SCH2R
+443
+Ehrlichia canis CCATAAGCATAGCTGATAACCCTGTTAC
+TGGATAATAAAACCGTACTATGTATGCT
+Ehr1401 F
+Ehr1780 R
+VirB19
+parcial
+377 Kledmanee et al. (2009)
+Babesia spp./Theileria spp./Cytauxzoon spp.
+1st reaction CGGGATCCAACCTGGTTGATCCTGC
+CCGAATTCCTTGTTACGACTTCTC
+RIB-19
+RIB-20
+18S
+rRNA
+1700 Zahler et al. (2000)
+2nd reaction ACCTCACCAGGTCCAGACAG
+GTACAAAGGGCAGGGACGTA
+BAB-rumF
+BABrumR
+18S
+rRNA
+430 Da Silveira et al. (2011)
+Babesia vogeli CCAATCCTGACACAGGGAGGTAGTGACA
+CCCCAGAACCCAAAGACTTTGATTTCTCTCAAG
+Ba103F
+Ba721R
+18S
+rRNA
+619 Kledmanee et al. (2009)
+Cytauxzoon felis CGAATCGCATTGCTTTATGCTCCAA
+TTGATACTCCGGAAAGAG
+Cytaux F
+Cytaux R
+18S
+rRNA
+284 Birkenheuer et al. (2006)
+hepatocytes were enlarged as a result of an accumulation
+of well-demarcated large clear vacuoles, often displacing
+the nucleus to the periphery. In these cats, there was an
+accumulation of green pigment (bile) in the lumen of the bile
+ducts and the cytoplasm of the hepatocytes (Fig.4). Among
+cats diagnosed with hepatic lipidosis, 15/26 had exclusively
+lipidosis lesions. At the same time, 11/26 also had gross
+lesions related to infectious inflammatory processes. In the
+last of these, different cases of hepatitis and perihepatitis
+were variably observed. Of the animals diagnosed with
+hepatic lipidosis, jaundice was classified as severe in eight
+(8/26) cats, moderate in seven (7/26), and mild in eight
+(8/26). In one (1/26) cat with hepatic lipidosis, there were
+also poorly delimited intracytoplasmic vacuoles, consistent
+5
+Pesq. Vet. Bras. 44:e07454, 2024Jaundice in cats: Causes and post-mortem findings in 44 cases
+Table 3. Classification of icterus in 44 cats according to type, frequency, and causes
+Icterus type % (n/total) Diagnosis n (%)
+Pre-hepatic
+11.36%
+(5/44)
+Hemolytic anemia
+TOTAL
+5
+5
+100
+100
+Hepatic
+61.36%
+(27/44)
+Hepatic lipidosis
+Lipidosis and hepatitis/FIP perihepatitis
+FIP perihepatitis
+Lymphoma
+Glycogenic degeneration
+Lipidosis and glycogenic degeneration
+Myeloid leukemia
+Intrahepatic bile duct carcinoma
+Lipidosis and lymphoma
+TOTAL
+15
+3
+1
+3
+1
+1
+1
+1
+1
+27
+55.56
+11.11
+3.70
+11.11
+3.70
+3.70
+3.70
+3.70
+3.70
+100.0
+Post-hepatic
+13.63%
+(6/44)
+Platynosomiasis
+Proliferative cholangitis
+Common bile duct cholangioma
+TOTAL
+4
+1
+1
+6
+66.6
+16.7
+16.7
+100.0
+Pre-hepatic and hepatic
+11.36%
+(5/44)
+Hemolytic anemia/lipidosis
+Hemolytic anemia/lipidosis and hepatitis/FIP perihepatitis
+TOTAL
+4
+1
+5
+80.0
+20.0
+100.0
+Hepatic and
+post-hepatic
+2.27%
+(1/44)
+Lipidosis and platynosomiasis
+TOTAL
+1 100.0
+100.0
+with glycogenic degeneration; in four (4/26) cats, there was
+an association of lipidosis with fibrinous and necrotizing
+and/or pyogranulomatous hepatitis/perihepatitis owing to
+FIP; and one cat (1/26) was diagnosed with hepatic lipidosis
+and lymphoma.
+Glycogenic degeneration
+Two cats (2/33) were diagnosed with degenerative liver
+lesions compatible with glycogen accumulation. Grossly, the
+liver was diffusely pale red to yellow, intensely enlarged, and
+showed a lobular pattern. The parenchyma was diffusely
+friable. Both cats had mild jaundice. Microscopically, poorly
+demarcated microvacuoles accumulated in the cytoplasm of
+the hepatocytes in the absence of compression and nuclear
+displacement. Green pigment accumulation was observed in
+the cytoplasm of several hepatocytes and bile ducts. In one
+(1/2) of these cats, there was also a variable accumulation of
+lipid vacuoles in the cytoplasm of the hepatocytes (hepatic
+lipidosis). No other changes that could explain jaundice were
+found in these cats.
+Feline infectious peritonitis
+In four cats (4/33) with hepatic icterus, the lesions were
+compatible with the effusive form of FIP. In one (1/5) of
+these animals, there was severe jaundice, whereas moderate
+jaundice was found in another cat (1/5), and in the other
+three cats (3/5), the jaundice was mild. In the livers of these
+cats, gross lesions consisted of prominent millimetric white
+nodules (granuloma) on the surface and parenchyma. These
+lesions were also present in the intestinal serosa, spleen, and
+kidneys. In one (1/5) of these animals, nodules were also seen
+in the pleura, along with fibrin deposits. One cat (1/5) had
+fibrin deposits in the liver capsule. Microscopically, different
+animals show multifocal infiltrates of macrophages, neutrophils,
+lymphocytes, and plasma cells in the aforementioned organs,
+as well as thrombosis, phlebitis, and perivascular fibrin
+accumulation. Hepatic lipidosis was observed variably in
+three (3/5) of these cats with lesions compatible with FIP.
+Intrahepatic bile duct carcinoma
+In one (1/44) of the cats, there was severe jaundice
+associated with primary hepatic neoplasia. Grossly, the
+liver was markedly enlarged with multifocal to coalescent
+five-centimeter yellowish-white nodules prominent on the
+subcapsular surface and deep in the parenchyma of all lobes.
+Microscopically, the neoplasm was poorly delimited, expansive,
+infiltrative, and composed of epithelial cells organized in ducts
+and acini with one or two cell layers (cholangiocarcinoma),
+supported by an abundant fibrovascular stroma. The cells
+were cuboidal to columnar and closely juxtaposed, with scant
+and granular cytoplasm and a round central nucleus with
+coarse chromatin and prominent nucleoli. Anisocytosis and
+anisokaryosis were moderate, and 15 mitotic figures were
+seen in 10 400x fields (2.37mm2). There were extensive
+areas of fibrosis and compressive necrosis throughout the
+neoplasm with loss of the hepatic parenchyma.
+Lymphoma
+In four cats (4/33), gross lesions were compatible with
+multicentric lymphoma. In these animals, the liver was enlarged
+with white, flat, and multifocal to coalescent, millimeter-sized
+areas. Lymphoma-like lesions were also identified in the spleen
+and gastric and pancreatic lymph nodes. In one animal (1/4),
+the spleen was markedly enlarged with an irregular surface and
+capsular thickening. Jaundice was mild in these four animals, and
+the lymphoma was classified as multicentric. Microscopically,
+the neoplasm was infiltrative, non-encapsulated, and poorly
+demarcated. It was composed of round cells organized in mantles
+and supported by a fine fibrovascular stroma. The cells had a
+scant eosinophilic cytoplasm with indistinct cell borders, a
+Ana C.R. Silva et al.6
+Pesq. Vet. Bras. 44:e07454, 2024
+Fig.1-6. Pathological findings in cats with jaundice of various causes. (1-2) Pre-hepatic icterus caused by hemolytic anemia. (1) Cat, mixed
+breed, male, 3-year-old, spleen. The organ was markedly enlarged, with rounded edges and diffusely dark red, and omentum marked
+yellow. Inset: oral mucous membrane with icterus. (2) Cat, mixed breed, female, 7-month-old, spleen. Marked erythrophagocytosis
+(arrows). Giemsa, obj.40x. (3-4) Hepatic icterus caused by fatty degeneration. (3) Cat, mixed breed, male, 2-year-old, liver. Liver
+enlarged and diffusely yellow. (4) Cat, mixed breed, female, liver. Well-demarcated vacuoles in the cytoplasm of the hepatocytes with
+displacement of the nucleus to the periphery (lipidosis). HE, obj.40x. (5) Post-hepatic icterus due to Platynosomum spp. cholangitis.
+Cat, mixed breed, male, liver. Cut surface with intense dilation and thickening of bile ducts (asterisk), and accumulation of intraluminal
+mucus. (6) Markedly dilated intrahepatic bile duct, with intraluminal adult trematode (center), epithelial hyperplasia (arrow), and
+abundant mural fibrosis (asterisk). HE, obj.10x.
+7
+Pesq. Vet. Bras. 44:e07454, 2024Jaundice in cats: Causes and post-mortem findings in 44 cases
+central round nucleus with stippled chromatin, and prominent
+nucleoli. Anisocytosis and anisokaryosis were moderate, and
+there were 12 mitotic figures in 10 400x fields (2.37mm2). The
+remnant hepatic parenchyma was compressed and partially
+lost. Similar neoplastic cells were found in the spleen, gastric,
+and pancreatic lymph nodes, whereas kidney metastases were
+observed in only one cat (1/4). Hepatic lipidosis was also
+present in one (1/4) cat.
+Myeloid leukemia
+One cat (1/33) with hepatic icterus was diagnosed
+with myeloid leukemia (undifferentiated blast cells) with
+metastases to the liver, lymph nodes, and spleen. Grossly,
+the liver was diffusely orange with an accentuated lobular
+pattern. The animal had moderate jaundice and petechiae
+in its pleura and cecal mucosa. The mesenteric lymph nodes
+were moderately enlarged and diffusely yellow-to-white
+upon cutting. The bone marrow of all bones was light red
+to white. Microscopically, there was an evident distortion
+of the hepatic architecture, with numerous neoplastic cells
+displaying myeloid characteristics found along the sinusoids,
+leading to compression and hepatocyte loss. Neoplastic
+cells with morphology similar to that described above were
+present in the mesenteric lymph nodes and spleen. In the
+bone marrow, undifferentiated blast cells were predominant,
+and granulocytes, rubricytes and megakaryocytes were rare.
+Post-hepatic icterus-related diseases
+Post-hepatic icterus was identified in seven (7/44) cats
+and was associated with inflammatory and neoplastic diseases
+of the intra- or extrahepatic bile ducts.
+Cholangitis
+In this study, six cats (6/44) had cholangitis as the
+predominant lesion. In one animal (1/6), the cause of
+cholangitis could not be determined, whereas, in the other
+five (5/6), cholangitis was attributed to platynosomiasis,
+confirmed by the visualization of intralesional trematodes
+or parasitic eggs by direct examination of the bile. Three
+cats were from Teresina, Piauí. In the cat diagnosed with
+idiopathic cholangitis, jaundice was moderate, and the liver
+was diffusely yellow and enlarged with evidence of a lobular
+pattern. Microscopically, there was a moderate proliferation of
+ducts in the portal spaces with periductal fibrosis, which was
+sometimes associated with moderate amounts of lymphocytes,
+plasma cells, macrophages, and neutrophils. There was an
+intraluminal accumulation of green pigment (bilirubin) in the
+lumen of the ducts and bile ducts. The same animal was also
+diagnosed with fibrinonecrotic pancreatitis. Grossly, animals
+infected with Platynosomum spp. exhibit severe jaundice.
+The liver was enlarged and diffusely yellow. When cut, the
+intrahepatic bile ducts were dilated, and the mucus flowed
+slightly to marked volumes (Fig.5). One cat also had cystic
+mucinous hyperplasia of the gallbladder and post-hepatic/
+obstructive jaundice owing to complete obstruction of bile
+flow. Microscopically, operculated eggs and adult trematodes
+accumulated in the lumen of some ducts. The bile ducts were
+proliferated and dilated (duct ectasia), with intraluminal
+accumulation of mucus and deposits of fibrous connective tissue
+throughout the wall (proliferative and sclerosing cholangitis).
+Moderate numbers of lymphocytes, plasma cells, histiocytes,
+rare neutrophils, and eosinophils were clumped around the
+bile ducts. In two (2/5) cases, adult forms of trematodes were
+observed (Fig.6), with compression and loss of hepatocytes
+in extensive areas of the liver parenchyma resulting from
+bile duct fibrosis. In two animals (2/5), no adult forms of the
+parasite or trematode eggs were observed, although areas of
+marked ectasia and bile duct proliferation were identified. In
+one (1/5) of these animals, parasite eggs were found upon
+direct examination of the bile contents.
+Cholangioma of the common hepatic duct
+Bile flow obstruction of the extrahepatic ducts was
+diagnosed in one of the seven cats with post-hepatic icterus
+owing to cholangioma of the common hepatic duct. In this
+animal, the liver was diffusely red-orange and moderately
+enlarged with an increased lobular pattern. A white, firm
+nodule in the common hepatic duct impaired the extrahepatic
+bile flow, resulting in severe post-hepatic icterus. Marked
+retention of bile flow causes bilirubin accumulation and
+deposition in various tissues, including the brain (moderate
+multifocal kernicterus). Microscopically, the neoplasm was non-
+encapsulated, well-demarcated, and expansive, compressing
+the common hepatic duct, composed of cuboidal cells organized
+into well-differentiated ducts and acini. Moderate amounts
+of multifocal yellowish pigments were observed within the
+cytoplasm of hepatocytes and bile duct cells (moderate
+multifocal cholestasis).
+Immunohistochemical analysis
+Five cats had characteristic FIP lesions (Fig.7), and
+immunolabelling for the FcoV antigen was performed in
+three cats (3/5), all three with positive results (Fig.8). Hepatic
+lipidosis was a common finding in these cats. Of the three
+cats diagnosed with lymphoma and tested for FeLV, two
+(2/3) tested positive for the virus alone. One of these cats
+was also diagnosed with lipidosis. Lymphoma was a major
+comorbidity in these cats. One cat with multicentric lymphoma
+had double-positive results (FeLV and FIV) (Fig.9 and 10).
+Detection and molecular characterization of hemopathogens
+by conventional PCR
+Only two of the 10 cats tested by PCR were positive for
+hemoparasites, as confirmed by gene sequencing. Only one
+cat that tested positive for both mycoplasmas (Mycoplasma
+haemofelis and Candidatus M. haemominutum) in the liver,
+lymph node, and kidney samples was diagnosed with anemia.
+However, there was no histological evidence of infection
+(erythrophagocytosis and visualization of infectious agents
+in red blood cells by histochemical staining). One cat that
+was positive only for Candidatus M. haemominutum in a
+lymph node was diagnosed with post-hepatic icterus due to
+cholangioma of the common hepatic duct. BLASTn analysis of
+the sequences obtained in this study revealed 100% identity
+with M. haemofelis detected in a fishing cat (Prionailurus
+viverrinus) from Thailand (GenBank KM275257.1) and
+Candidatus M. haemominutum from domestic cats in Distrito
+Federal (GenBank KC331024.1) and Cuiabá/MT, Brazil
+(GenBank KC331024.1). All DNA samples were negative for
+A. platys (16S rRNA gene), A. phagocytophilum (msp4 gene),
+piroplasms, based on the 18S rRNA genes of Babesia/Theileria
+and Babesia spp. and the 18S rRNA gene of C. felis.
+Ana C.R. Silva et al.8
+Pesq. Vet. Bras. 44:e07454, 2024
+DISCUSSION
+In comparison, hepatic icterus was found more frequently in
+cats in the present study, whereas post-hepatic icterus was
+observed in a smaller number of animals, followed by cases
+that showed different types of icterus simultaneously. These
+findings were similar to those reported in studies on dogs,
+in which hepatic icterus was also the most frequent type of
+jaundice (Andrade et al. 2020, Brough et al. 2022).
+In the present study, the hepatic icterus-associated lesions
+were caused by degenerative processes (fatty and glycogenic
+degeneration), perihepatitis, hepatitis (caused by FIP virus),
+primary hepatic neoplasms (intrahepatic duct cholangiocarcinoma),
+multicentric lymphoma, and metastasis of myeloid leukemia.
+Jaundice is usually present in approximately 30-40% of cats
+with liver disease (Ettinger & Feldman 2004). Hepatic icterus
+occurs because of acute or chronic, extensive, and severe hepatic
+injury, with significant damage to hepatocytes and consequent
+reduction or prevention of bilirubin uptake, excretion, and
+elimination processes (Barros & Giaretta 2023). The causes of
+liver disease in cats generally include feline hepatic lipidosis,
+primary liver neoplasms, feline cholangiohepatitis complex,
+feline triaditis (Zoran 2015), and infectious hepatitis, such
+as FIP (Sills & Howerth 2018), disseminated toxoplasmosis,
+(Nagel et al. 2013) and salmonellosis (Riker et al. 2023). In the
+present study, severe diffuse lipidosis was the most common
+lesion causing hepatic icterus. In cats, the causes of lipidosis are
+multifactorial (Cullen & Stalker 2016, Barros & Giaretta 2023)
+and can occur as a result of obesity, endocrine diseases such
+as diabetes mellitus (Zawie & Garvey 1984, Barros & Giaretta
+2023), acute pancreatitis, cholangiohepatitis, inflammatory
+diseases that cause anorexia, such as enteritis (Center et al. 1993,
+Cullen & Stalker 2016, Barros & Giaretta 2023) and nephritis
+(Cullen & Stalker 2016), neoplasms (Center et al. 1993, Cullen
+& Stalker 2016, Barros & Giaretta 2023), hyperthyroidism
+(Cullen & Stalker 2016, Barros & Giaretta 2023). In this study,
+severe cases of hepatic lipidosis were associated with certain
+Fig.7-10. Cat with hepatic icterus due to FIP. (7) Abdominal cavity. Randomly distributed fibrin deposits over the peritoneal surface and
+intestinal serosa. Note multifocal small nodules in the intestinal serosa (arrows) and mild cavitary effusion. Inset: fibrin deposition
+and multifocal small nodules in the subcapsular surface of the liver. (8-9) Viral immunolabeling panel. (8) Intestinal serosa
+immunohistochemistry. Positive multifocal cytoplasmic immunolabeling in mononuclear inflammatory infiltrate. Anti-Fcov, obj.40x.
+(9) Cat, mixed breed, female, 6-year-old, liver. Positive multifocal cytoplasmic immunolabeling in neoplastic lymphoid cells. Anti-FeLV,
+obj.40x. (10) Cat, mixed breed, female, 6-year-old, bone marrow. Positive multifocal cytoplasmic immunolabeling in myeloid cells.
+Anti-FIV, hematoxylin counterstain, obj.40x.
+9
+Pesq. Vet. Bras. 44:e07454, 2024Jaundice in cats: Causes and post-mortem findings in 44 cases
+infectious, parasitic, and neoplastic diseases, possibly owing
+to impairment of the complex process of lipid metabolism and
+secretion of low-density lipoproteins (LDL) resulting from
+hepatocyte injury, reduced protein intake in malnourished
+animals (Cullen & Stalker 2016), or an increase in fatty acid
+income to the liver resulting from the mobilization of lipid
+reserves in inappetent and anorexic cats (Blanchard et al. 2002).
+Cats with concomitant pre-hepatic and hepatic icterus
+caused by hemolytic anemia and lipidosis, respectively, may
+suffer from hepatocyte hypoxia owing to their dependence
+on oxidative metabolism for the synthesis and transport of
+lipoproteins, leading to the accumulation of intracellular
+triglycerides and hepatic lipidosis (Cullen & Stalker 2016).
+In these cases, the gross and microscopic findings were
+compatible with cases similar to those described previously
+(Cullen & Stalker 2016, Barros & Giaretta 2023).
+Glycogenic degeneration in cats in this study was possibly
+a result of a natural or iatrogenic endocrine imbalance (Cullen
+& Stalker 2016, Barros & Giaretta 2023). However, it was not
+possible to determine the hormone dosages. Although cats
+are considered less susceptible than dogs, glucocorticoid
+hepatopathy (Lowe et al. 2008), on the other hand, represents
+a differential diagnosis of glycogenic degeneration associated
+with diabetes. In the former, pathogenesis may result from
+the activation of glycogen synthase (resulting from the use
+of glucocorticoids), which induces an increase in glycogen
+storage in hepatocytes (Cullen & Stalker 2016), while in the
+latter, there is usually insulin resistance or a deficiency in its
+production, leading to an excessive and prolonged increase
+in glucose and overloading of the hepatic glycogen metabolic
+pathway, causing accumulation in hepatocytes (Lowe et al.
+2008, Cullen & Stalker 2016).
+In this study, feline coronavirus was associated with
+fibrinonecrotic or pyogranulomatous hepatitis/perihepatitis
+lesions in two cats. FIP is considered the most lethal viral
+disease among domestic cats (Dean et al. 2003) and mostly
+affects young animals (Uzal et al. 2016). Systemic polyserositis,
+vasculitis, and thrombosis were observed in the same cats.
+The mild jaundice observed in these cases might have been
+caused by compression and loss of hepatocytes.
+Hepatocellular adenoma/carcinoma and cholangioma/
+cholangiocarcinoma are two of the most common primary
+liver neoplasms in cats (Cullen & Popp 2002). The latter
+may appear as multiple nodules in the hepatic lobes with
+centrally collapsed (umbilicated) areas of central necrosis
+(Cullen & Stalker 2016). Malignant neoplasms can lead to loss
+and compression of the liver parenchyma and consequent
+hepatic and/or post-hepatic icterus (Cullen & Popp 2002,
+Ochoa, et al. 2012, Cullen & Stalker 2016). The lymphoma
+in this report appears to be the most frequently occurring
+neoplasm, leading to jaundice of hepatic origin in four cats,
+highlighting the importance of this type of neoplasm associated
+with jaundice in domestic cats (Valli et al. 2016).
+Pre-hepatic icterus associated with hemolytic anemia
+due to splenic, hepatic, and extravascular hemolysis was
+an important finding in the cats in this study. In these cats,
+the cause of hemolysis could not be definitively diagnosed,
+favoring the diagnosis of idiopathic hemolytic anemia. In cats,
+immune-mediated hemolytic anemia (IMHA) usually results
+from the interaction of red blood cells with immune complexes
+comprising antigen-antibody reactions with infectious agents
+(secondary IMHA) (McCullough 2003). To diagnose primary
+IMHA, all possible causes of secondary IMHA should be ruled
+out (Gunn-Moore et al. 1999). Mycoplasma haemofelis and FeLV
+are among the infectious agents most commonly associated with
+hemolytic anemia in cats (Taneno & Sacco 2009). Molecular
+detection of Mycoplasma spp. antigen (hemoplasma) was
+obtained in two cats in the present study. In these cases, there
+was no association with hemolytic anemia (Taneno & Sacco
+2009). Reports on the molecular detection of Mycoplasma
+haemofelis in cats with or without clinical signs of anemia
+have been documented in different regions of Brazil (Braga
+et al. 2012, Santis et al. 2014). Another cause of pre-hepatic
+icterus includes hemophagocytic histiocytic sarcoma caused
+by phagocytosis of red blood cells by neoplastic macrophages
+(Sills & Howerth 2018). In this study, intravascular hemolytic
+anemia was not found in the cats. This type of hemolytic
+anemia is caused by Babesia lengau, which has so far only
+been reported in Africa and Europe (Bosman et al. 2013).
+Cats with post-hepatic icterus were mainly affected by
+parasite-induced cholangitis. Although infectious cholangitis was
+suggested in one animal, it could not be confirmed based on the
+examinations performed (Cullen & Stalker 2016). For anatomical
+reasons, cholangitis or cholangiohepatitis is a relatively frequent
+disease in cats (Hirose et al. 2014), mainly linked to bacteria
+(Cullen & Stalker 2016), viruses (FIV and/or FeVL) (Argenta et
+al. 2018), or trematodes (Daniel 2012), and is also included as
+one of the elements that constitute feline triaditis (Černá et al.
+2020). Histologically, three forms of presentation of the condition
+are known: suppurative cholangitis/cholangiohepatitis, chronic
+progressive non-suppurative cholangitis/cholangiohepatitis,
+and biliary cirrhosis or sclerosing cholangitis (Barros & Giaretta
+2023). Cholangitis with multiple cysts is another presentation
+(Daniel 2012). In two studies, lymphocytic cholangitis (non-
+suppurative) was the most frequent. It was associated with
+changes in the extrahepatic biliary system, small intestine, or
+pancreas (Gagne et al. 1996, Argenta et al. 2018). In the present
+study, chronic non-suppurative cholangitis was observed in six
+animals as a consequence of parasitism by Platynosomum spp.
+CONCLUSIONS
+Hepatic icterus was the most frequent type of jaundice
+in this study, in contrast to post-hepatic icterus. Hepatic
+lipidosis was the comorbidity most frequently associated with
+jaundice. The causes of pre-hepatic icterus were particularly
+challenging in the current study, as specific ancillary tests
+were required to confirm its etiology. The type of jaundice
+was confirmed by diagnosing the underlying disease and
+excluding differential diagnoses.
+Complementary tests are essential when considering the
+diversity of causes and pathological findings. Nevertheless,
+necropsy should not be considered optional, as it is the key
+to a definitive diagnosis and is necessary to confirm or refute
+clinical hypotheses in fatal cases.
+Authors’ contributions.- ACRS and RE: conceptualization, methodology,
+investigation, data curation, ACRS, RE and CEBL: writing-original draft, RE,
+ACRS, CSF, MCL, JBSO and SAFB: performed post-mortem and histologic
+examinations, IRS and DD: performed immunohistochemical analysis, ACA
+and JAGS performed molecular analysis, RE; writing – review & editing. All
+authors critically review the final version.
+Ana C.R. Silva et al.10
+Pesq. Vet. Bras. 44:e07454, 2024
+Funding.- This study was financed in part by the “Coordenação de
+Aperfeiçoamento de Pessoal e Nível Superior” (CAPES – Coordination of
+Improvement of Higher Education Personnel), Brazil, Finance Code 001.
+Roselene Ecco, David Driemeier and Julia A. G. Silveira are recipients of
+research scholarships from “Conselho Nacional de Desenvolvimento Científico
+e Tecnológico” (CNPq – National Council for Scientific and Technological
+Development), Brazil.
+Conflict of interest statement.- The authors declared no conflicts of interest
+concerning this manuscript’s research, authorship or publication.
+REFERENCES
+Altschul S.F., Gish W., Miller W., Myers E.W. & Lipman D.J. 1990. Basic local
+alignment search tool. J. Mol. Biol. 215(3):403-410. <https://dx.doi.
+org/10.1016/S0022-2836(05)80360-2> <PMid:2231712>
+Andrade M.C., Oliveira L.B., Santos Á.F., Moreira M.V.L., Pierezan F. & Ecco
+R. 2020. Differential diagnoses in 83 dogs with icterus. Pesq. Vet. Bras.
+40(6):451-465. <https://dx.doi.org/10.1590/1678-5150-PVB-6482>
+Argenta F.F., Rolim V.M., Lorenzo C., Snel G.G.M., Pavarini S.P., Sonne L. &
+Driemeier D. 2018. Aspectos anatomopatológicos e avaliação de agentes
+infecciosos em 32 gatos com colangio-hepatite. Pesq. Vet. Bras. 38(5):920-
+929. <https://dx.doi.org/10.1590/1678-5150-PVB-5320>
+Barros C.S.L. & Giaretta P.R. 2023. Fígado, vias biliares e pâncreas exócrino,
+p.221-307. In: Santos R.L. & Alessi A.C. (Eds), Patologia Veterinária. 3ª ed.
+Roca, Rio de Janeiro.
+Birkenheuer A.J., Marr H., Alleman A.R., Levy M.G. & Breitschwerdt E.B. 2006.
+Development and evaluation of a PCR assay for the detection of Cytauxzoon
+felis DNA in feline blood samples. Vet. Parasitol. 137(1/2):144-149. <https://
+dx.doi.org/10.1016/j.vetpar.2005.12.007> <PMid:16417970>
+Blanchard G., Paragon B.M., Milliat F. & Lutton C. 2002. Dietary L-carnitine
+supplementation in obese cats alters carnitine metabolism and decreases
+ketosis during fasting and induced hepatic lipidosis. J. Nut. 132(2):204-210.
+<https://dx.doi.org/10.1093/jn/132.2.204> <PMid:11823579>
+Bosman A.-M., Oosthuizen M.C., Venter E.H., Steyl J.C.A., Gous T.A. & Penzhorn
+B.L. 2013. Babesia lengau associated with cerebral and haemolytic
+babesiosis in two domestic cats. Parasit. Vectors 6:128. <https://dx.doi.
+org/10.1186/1756-3305-6-128> <PMid:23634743>
+Bown K.J., Lambin X., Ogden N.H., Petrovec M., Shaw S.E., Woldehiwet Z. &
+Birtles R.J. 2007. High-resolution genetic fingerprinting of European strains
+of Anaplasma phagocytophilum by use of multilocus variable-number
+tandem-repeat analysis. J. Clin. Microbiol. 45(6):1771-1776. <https://
+dx.doi.org/10.1128/JCM.00365-07> <PMid:17442796>
+Braga M.S.C.O., André M.R., Freschi C.R., Teixeira M.C.A. & Machado R.Z.
+2012. Molecular detection of hemoplasma infection among cats from São
+Luís island, Maranhão, Brazil. Braz. J. Microbiol. 43(2):569-575. <https://
+dx.doi.org/10.1590/S1517-83822012000200018> <PMid:24031865>
+Brough A., Caraguel C., Ciaravolo S. & Stickney A. 2022. Clinical findings and
+assessment of factors associated with survival in dogs presenting with
+hyperbilirubinaemia: 115 cases in Victoria, Australia (2015-2020). Vet. Rec.
+Open 9(1):e42. <https://dx.doi.org/10.1002/vro2.42> <PMid:35990552>
+Center S.A., Crawford M.A., Guida L., Erb H.N. & King J. 1993. Retrospective
+study severe hepatic of 77 cats with lipidosis: 1975-1990. J. Vet. Intern.
+Med. 7(6):349-359. <https://dx.doi.org/10.1111/j.1939-1676.1993.
+tb01030.x> <PMid:8114031>
+Černá P., Kilpatrick S. & Gunn-Moore D.A. 2020. Feline comorbidities: What do
+we really know about feline triaditis? J. Feline Med. Surg. 22(11):1047-1067.
+<https://dx.doi.org/10.1177/1098612X20965831> <PMid:33100169>
+Criado-fornelio A., Martinez-marcos A., Buling-saraña A. & Barba-carretero J.C.
+2003. Presence of Mycoplasma haemofelis, Mycoplasma haemominutum and
+piroplasmids in cats from southern Europe: a molecular study. Vet. Microbiol.
+93(4):307-317. <https://dx.doi.org/10.1016/s0378-1135(03)00044-0>
+<PMid:12713893>
+Cullen J.M. & Popp J.A. 2002. Tumors on the liver and gallbladder, p.483-
+508. In: Meuten D.J. (Ed.), Tumors in Domestic Animals. 4th ed. Iowa
+State Press, Iowa.
+Cullen J.M. & Stalker M.J. 2016. Liver and biliary system, p.258-352.e1. In:
+Maxie M.G. (Ed.), Jubb, Kennedy and Palmer’s Pathology of Domestic
+Animals. Vol.2. 6th ed. Elsevier, St. Louis. <https://dx.doi.org/10.1016/
+B978-0-7020-5318-4.00008-5>
+Cullen J.M. 2009. Summary of the World Small Animal Veterinary Association
+Standardization Committee Guide to Classification of Liver Disease in Dogs
+and Cats. Vet. Clin. N. Am., Small Anim. Pract. 39(3):395-418. <https://
+dx.doi.org/10.1016/j.cvsm.2009.02.003> <PMid:19524786>
+Da Silveira J.A.G., Rabelo E.M.L. & Ribeiro M.F.B. 2011. Detection of Theileria
+and Babesia in brown brocket deer (Mazama gouazoubira) and marsh deer
+(Blastocerus dichotomus) in the State of Minas Gerais, Brazil. Vet. Parasitol.
+177(1/2):61-66. <https://dx.doi.org/10.1016/j.vetpar.2010.10.044>
+<PMid:21354704>
+Daniel A.G.T., Diaz R.F., Camignatto L.O., Kage N.K., Pellegrino A. & Cogliati
+B. 2012. Polycystic liver disease associated with Platynosomum fastosum
+infection in a cat. Braz. J. Vet. Pathol. 5(3):137-141.
+De La Fuente J., Massung R.F., Wong S.J., Chu F.K., Lutz H., Meli M., von Loewenich
+F.D., Grzeszczuk A., Torina A., Caracappa S., Mangold A.J., Naranjo V., Stuen
+S. & Kocan K.M. 2005. Sequence analysis of the msp4 gene of Anaplasma
+phagocytophilum strains. J. Clin. Microbiol. 43(3):1309-1317. <https://
+dx.doi.org/10.1128/JCM.43.3.1309-1317.2005> <PMid:15750101>
+Dean G.A., Olivry T., Stanton C. & Pedersen N.C. 2003. In vivo cytokine response
+to experimental feline infectious peritonitis virus infection. Vet. Microbiol.
+97(1/2):1-12. <https://dx.doi.org/10.1016/j.vetmic.2003.08.010>
+<PMid:14637034>
+Ettinger S.J. & Feldman E.C. 2004. Tratado de Medicina Interna Veterinária:
+doenças do cão e do gato. Vol.2. 5ª ed. Guanabara Koogan, Rio de Janeiro.
+2254p.
+Gagne J.M., Weiss D.J. & Armstrong P.J. 1996. Histopathologic evaluation of
+feline inflammatory liver disease. Vet. Pathol. 33(5):521-526. <https://
+dx.doi.org/10.1177/030098589603300506> <PMid:8885178>
+Gunn-moore D.A., Day M.J., Graham M.E.A., Cue S.M. & Harbour D.A. 1999.
+Immune-mediated haemolytic anaemia in two sibling cats associated with
+multicentric lymphoblastic infiltration. J. Feline Med. Surg. 1(4):209-214.
+<https://dx.doi.org/10.1053/jfms.1999.0043> <PMid:11714237>
+Harvey A. 2009. Clinical conundrum. J. Small Anim. Pract. 50(6):4-7. <https://
+dx.doi.org/10.1111/j.1748-5827.2009.00782.x> <PMid:19527417>
+Hirose N., Uchida K., Kanemoto H., Ohno K., Chambers J.K. & Nakayama H.
+2014. A retrospective histopathological survey on canine and feline liver
+diseases at the University of Tokyo between 2006 and 2012. J. Vet. Med.
+Sci. 76(7):1015-1020. <https://dx.doi.org/10.1292/jvms.14-0083>
+<PMid:24717415>
+Kawahara M., Tajima T., Torii H., Yabutani M., Ishii J., Harasawa M., Isogai
+E. & Rikihisa Y. 2009. Ehrlichia chaffeensis infection of sika deer. Japan
+Emerg. Infect. Dis. 15(12):1991-1993. <https://dx.doi.org/10.3201/
+eid1512.081667> <PMid:19961683>
+Kledmanee K., Suwanpakdee S., Krajangwong S., Chatsiriwech J., Suksai P.,
+Suwannachat P., Sariya L., Buddhirongawatr R., Charoonrut P. & Chaichoun
+P. 2009. Development of multiplex polymerase chain reaction for detection
+of Ehrlichia canis, Babesia spp. and Hepatozoon canis in canine blood.
+Southeast Asian J. Trop. Med. Publ. Health 40(1):35-39. <PMid:19323031>
+Lowe A.D., Campbell K.L., Barger A., Shaeffer D.J. & Borst L. 2008. Clinical,
+clinicopathological and histological changes observed in 14 cats treated with
+glucocorticoids. Vet Rec. 162(24):777-783. <https://dx.doi.org/10.1136/
+vr.162.24.777> <PMid:18552328>
+11
+Pesq. Vet. Bras. 44:e07454, 2024Jaundice in cats: Causes and post-mortem findings in 44 cases
+Luna L.G. 1968. Manual of Histologic Staining Methods of the Armed Forces
+Institute of Pathology. Vol.3. McGraw-Hill, New York. 258p.
+McCullough S. 2003. Immune-mediated hemolytic anemia: understanding the
+nemesis. Vet. Clin. N. Am., Small Anim. Pract. 33(6):1295-1315. <https://
+dx.doi.org/10.1016/j.cvsm.2003.08.003> <PMid:14664200>
+Nagel S.S., Williams J.H. & Schoeman J.P. 2013. Fatal disseminated toxoplasmosis
+in an immunocompetent cat. J. S. Afr. Vet. Assoc. 84(1):a299. <https://
+dx.doi.org/10.4102/jsava.v84i1.299> <PMid:23718784>
+Ochoa J., Roque A.I. & Daza J.A. 2012. Hepatic cholangiocarcinoma in a feline
+and anatomopathologic and clinical findings, compatible with Feline
+Infectious Peritonitis. Revta MVZ Córdoba 17(2):3080-3086.
+Peters I.R., Helps C.R., Willi B., Hofmann-lehmann R. & Tasker S. 2008. The
+prevalence of three species of feline haemoplasmas in samples submitted
+to a diagnostics service as determined by three novel real-time duplex PCR
+assays. Vet. Microbiol. 126(1/3):142-150. <https://dx.doi.org/10.1016/j.
+vetmic.2007.06.017> <PMid:17689890>
+Ramos C.A.N., Ramos R.A.N., Araújo F.R., Guedes Jr. D.S., Souza I.I.F., Ono
+T.M., Vieira A.S., Pimentel D.S., Rosas E.O., Faustino M.A.G. & Alves L.C.
+2009. Comparação de nested-PCR com o diagnóstico direto na detecção
+de Ehrlichia canis e Anaplasma platys em cães. Revta Bras. Parasitol.
+Vet. 18(Supl.1):58-62. <https://dx.doi.org/10.4322/rbpv.018e1011>
+<PMid:20040193>
+Riker J., Miller D.M., Blas-Machado U., Lieske D.E., Stilwell J.M., McCullough K.,
+Sanchez S. & Rissi D.R. 2023. Systemic salmonellosis in 4 cats. J. Vet. Diagn.
+Invest. 35(5):581-584. <https://dx.doi.org/10.1177/10406387231181389>
+<PMid:37329122>
+Sanger F., Nicklen S. & Coulson A.R. 1977. DNA sequencing with chain-
+terminating inhibitors. Proc. Natl. Acad. Sci. USA 74(12):5463-5467.
+<https://dx.doi.org/10.1073/pnas.74.12.5463> <PMid:271968>
+Santis A.C.G.A., Herrera H.M., Sousa K.C.M., Gonçalves L.R., Denardi N.C.B.,
+Domingos I.H., Campos J.B.V., Machado R.Z. & André M.R. 2014. Molecular
+detection of hemotrophic mycoplasmas among domiciled and free-roaming
+cats in Campo Grande, state of Mato Grosso do Sul, Brazil. Revta Bras.
+Parasitol. Vet. 23(2):231-236. <https://dx.doi.org/10.1590/S1984-
+29612014039> <PMid:25054503>
+Sherding R.G. 2000. Feline jaundice. J. Feline Med. Surg. 2(3):165-169. <https://
+dx.doi.org/10.1053/jfms.2000.0088> <PMid:11716613>
+Sills W.S. & Howerth E.W. 2018. Pathology in practice. J.A.V.M.A. 252(9):1063-
+1066. <https://dx.doi.org/10.2460/javma.252.9.1063> <PMid:29641339>
+Taneno J.C. & Sacco S.R. 2009. Micoplasmose felina: relato de caso. Revta
+Cient. Eletrôn. Med. Vet. 7(12):1-4.
+Uzal F.A., Plattner B.L. & Hostetter J.M. 2016. Alimentary system, p.1-257e2.
+In: Maxie M.G. (Ed.), Jubb, Kennedy and Palmer’s Pathology of Domestic
+Animals. Vol.2. 6th ed. Elsevier, St. Louis. <https://dx.doi.org/10.1016/
+B978-0-7020-5318-4.00007-3>
+Valli V.E., Bienzle D. & Meuten D.J. 2016. Tumors of the hemolymphatic system,
+p.203-321. In: Meuten D.J. (Ed.), Tumors in Domestic Animals. 5th ed. Iowa
+State Press, Iowa. <https://dx.doi.org/10.1002/9781119181200.ch7>
+Vogelstein B. & Gillespie D. 1979. Preparative and analytical purification of
+DNA from agarose. Proc. Natl. Acad. Sci. USA 76(2):615-619. <https://
+dx.doi.org/10.1073/pnas.76.2.615> <PMid:284385>
+Watanabe M., Hisasue M., Hashizaki K., Furuichi M., Ogata M., Hisamatsu S.,
+Ogi E., Hasegawa M., Tsuchiya R. & Yamada T. 2003. Molecular detection
+and characterization of Haemobartonella felis in domestic cats in Japan
+employing sequence-specific polymerase chain reaction (SS-PCR). J. Vet.
+Med. Sci. 65(10):1111-1114. <https://dx.doi.org/10.1292/jvms.65.1111>
+<PMid:14600350>
+Zahler M., Rinder H., Schein E. & Gothe R. 2000. Detection of a new pathogenic
+Babesia microti-like species in dogs. Vet. Parasitol. 89(3):241-248. <https://
+dx.doi.org/10.1016/s0304-4017(00)00202-8> <PMid:10760414>
+Zawie D.A. & Garvey M.S. 1984. Feline hepatic disease. Vet. Clin. N. Am.,
+Small Anim. Pract. 14(6):1201-1230. <https://dx.doi.org/10.1016/s0195-
+5616(84)50154-5> <PMid:6393553>
+Zoran D.L. 2015. Tratamento de pancreatite e doença intestinal inflamatória
+concomitante, p.1566-1677. In: Little S.E. (Ed.), O Gato: medicina interna.
+1ª ed. Editora Roca, Rio de Janeiro.

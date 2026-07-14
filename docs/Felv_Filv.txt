@@ -1,0 +1,924 @@
+A FeLV é uma doença extremamente complexa, e seu diagnóstico é um desafio ao médico-veterinário. Veja mais detalhes sobre essa importante afecção que acomete gatos em todo o mundo.
+O vírus da leucemia felina (FeLV) é um dos mais importantes retrovírus em gatos domésticos e, junto do vírus da FIV (Imunodeficiência Viral Felina), é responsável por grande parte dos quadros infecciosos dessa espécie em todo o mundo (HARTMANN & HOFMANN-LEHMANN, 2020). Apesar de estarem intimamente relacionados, FeLV e FIV se diferenciam em seu potencial de causar doença clínica, sendo o primeiro considerado mais patogênico que o segundo (HARTMANN, 2012).
+Nos últimos anos, campanhas de testagem e o desenvolvimento de vacinas para FeLV contribuíram com o decréscimo da prevalência da doença em muitos países. Em 2016, teve início no Brasil a campanha “Miou, testou”, idealizada pelo médico-veterinário Carlos Gabriel Dias, que incentiva a testagem para FIV e FeLV em todos os gatos atendidos na rotina clínica. Ainda assim, o vírus da leucemia felina demanda cuidado e atenção, tanto do médico-veterinário quanto do responsável pelo pet. Veja um panorama completo sobre a FeLV a seguir.
+O que é FeLV em gatos?
+O vírus da leucemia felina (FeLV) é um gamarretrovírus envelopado que pertence à subfamília dos oncorretrovírus e não apresenta caráter zoonótico. Ele possui capacidade de replicação em diversos tecidos, tais como medula óssea, epitélio respiratório e glândulas salivares. Quando o sistema imune do animal não se apresenta de forma eficaz após a infecção inicial pelo FeLV, o vírus infecta os precursores hematopoiéticos na medula óssea (HARTMANN & HOFMANN-LEHMANN, 2020).
+Como em todas as retroviroses, o vírus da leucemia felina necessita do aparato nuclear da célula do hospedeiro para sua replicação. Após a transcrição reversa do RNA viral em DNA, ele é integrado ao genoma do gato infectado, produzindo células-filhas que também contêm o DNA viral. O DNA viral integrado é chamado de “provírus” (HARTMANN & HOFMANN-LEHMANN, 2020). Essa habilidade de se tornar parte do DNA do próprio hospedeiro é o fator mais importante para que o vírus da FeLV se perpetue no organismo do gato infectado após a contaminação da medula óssea (GREENE, 2006).
+A FeLV afeta apenas os gatos?
+A FeLV é uma enfermidade causada por um retrovírus exclusivamente felino e, portanto, não infecta cães, tampouco representa risco para humanos ou outras espécies domésticas (HARTMANN, 2012; LITTLE et al., 2020). Porém, a leucemia felina pode acometer felinos selvagens, incluindo espécies como pumas, linces e outros felídeos silvestres. Esses animais são suscetíveis ao vírus e podem desenvolver infecções regressivas ou progressivas semelhantes às observadas em gatos domésticos (HARTMANN & HOFMANN-LEHMANN, 2020; HARTMANN, 2012).
+Qual é a prevalência e o perfil epidemiológico da FeLV no Brasil?
+A prevalência da FeLV em gatos no Brasil é considerada moderada a elevada, variando conforme fatores populacionais, regionais e comportamentais. Um estudo realizado por Biezus et al. (2025) identificou a presença de infecções progressivas e regressivas pelo vírus da leucemia felina em diferentes proporções, demonstrando que a FeLV circula de maneira significativa no país.
+Quais fatores favorecem o desenvolvimento da FeLV?
+Os principais fatores de predisposição para o desenvolvimento da leucemia felina estão relacionados à maturidade da resposta do sistema imune do gato e ao comportamento do animal, incluindo (HARTMANN & HOFMANN-LEHMANN, 2020; LITTLE et al., 2020):
+machos intactos;
+gatos mais agressivos;
+acesso à rua;
+contato com outros gatos (por exemplo, abrigos, casas com vários gatos);
+pressão de infecção: gatos que tiveram um contato pontual com um animal infectado pelo FeLV apresentam um curso diferente da doença quando comparados a gatos que convivem por muito tempo com animais contaminados.
+Outro ponto relevante é que a FeLV costuma ser mais vista em animais sem raça definida. Algumas hipóteses para isso são a maior conscientização entre criadores profissionais (maior testagem e vacinação contra FeLV) e o fato de que animais de raça pura geralmente são mantidos exclusivamente dentro de casa.
+Já em relação ao estágio de vida, os filhotes possuem maior risco de se tornarem progressivamente infectados pelo vírus da leucemia felina. Com a maturidade, os gatos tendem a desenvolver uma maior resistência, desenvolvendo as formas regressiva ou abortiva da doença (HARTMANN, 2012).
+Como ocorre a transmissão da FeLV?
+A leucemia felina é uma afecção contagiosa, e a transmissão do FeLV ocorre tanto de forma horizontal quanto vertical. O vírus pode ser eliminado em diversos fluidos biológicos, como saliva, secreção nasal, leite, urina e fezes (LITTLE et al., 2020).
+A forma primária de transmissão horizontal da FeLV é via saliva, ocorrendo principalmente entre gatos com contato próximo. Sabe-se que tanto o contato social entre gatos que vivem juntos (compartilhamento de vasilhas de água ou alimento e lambeduras mútuas) quanto brigas são as formas mais efetivas de transmissão do vírus da leucemia felina (HARTMANN & HOFMANN-LEHMANN, 2020). Ou seja, os gatos com FeLV geralmente adquirem o vírus pela contaminação oronasal e por mordidas de animais contaminados.
+Ainda assim, é essencial se atentar a outras formas de transmissão da FeLV. A transmissão iatrogênica via seringas contaminadas, instrumentos cirúrgicos e por transfusão sanguínea também pode ocorrer (HARTMANN & HOFMANN-LEHMANN, 2020).
+Fêmeas podem infectar suas ninhadas (transmissão vertical) por via transplacentária ou ao lamber e cuidar de seus filhotes (transmissão horizontal). Quando ocorre a infecção intrauterina pelo vírus da leucemia felina, observa-se falha reprodutiva, mas até 20% dos filhotes podem sobreviver ao período neonatal e tornarem-se adultos progressivamente infectados (HARTMANN & HOFMANN-LEHMANN, 2020; LITTLE et al., 2020).
+Por ser um vírus envelopado, o vírus da leucemia felina é bastante lábil no ambiente, sendo inativado em alguns minutos fora do organismo ou em contato com calor ou desinfetantes (HARTMANN & HOFMANN-LEHMANN, 2020).
+Quais são as fases da FeLV e como a doença é classificada?
+Além de compreender o que é e como o vírus da leucemia felina pode ser transmitido, é importante entender as fases da FeLV e como a doença é classificada de acordo com o curso da afecção.
+O vírus da FeLV é primeiramente encontrado nos linfonodos locais e, após atingir linfócitos e monócitos, causa uma viremia primária e pode atingir a medula óssea (HARTMANN & HOFMANN-LEHMANN, 2020; LITTLE et al., 2020). Então, pode ocorrer uma nova fase de viremia (viremia secundária), com leucócitos e plaquetas contaminados por FeLV aparecendo na corrente sanguínea (HARTMANN & HOFMANN-LEHMANN, 2020; LITTLE et al., 2020).
+Uma nova classificação dos possíveis desfechos da infecção por FeLV foi definida com base em estudos moleculares. Cabe ressaltar que tais cursos da doença foram bem caracterizados em estudos experimentais, mas a progressão do quadro nas infecções naturais pode se comportar de forma diferente e, em algumas vezes, confusa (HARTMANN & HOFMANN-LEHMANN, 2020).
+Infecção abortiva por FeLV
+Gatos com infecção abortiva pelo vírus da leucemia felina desenvolvem uma resposta imune humoral e celular eficientes após a replicação inicial nos linfonodos locais da orofaringe, inibindo a replicação viral. Esses gatos nunca se tornarão virêmicos (HOFMANN-LEHMANN & HARTMANN, 2020).
+Acredita-se que aproximadamente um terço dos gatos desenvolvem esse tipo de infecção por FeLV. Os resultados de testes que detectam o vírus diretamente serão sempre negativos, e o único sinal da exposição ao vírus será a presença de anticorpos específicos (LITTLE et al., 2020). A infecção abortiva possivelmente ocorre em casos de baixa pressão de exposição ao vírus da FeLV, e não há redução da expectativa de vida dos gatos com esse curso clínico. Tais animais desenvolvem uma resposta imune eficiente que pode protegê-los por muitos anos e apresentam uma vida normal (HARTMANN & HOFMANN-LEHMANN, 2020; GERALDO, 2021).
+Infecção regressiva por FeLV
+Gatos com infecção regressiva pelo FeLV apresentam uma resposta imune eficiente, e a replicação viral e a viremia são controladas antes ou logo após a contaminação da medula óssea. Nesses animais, ocorre a integração do provírus ao genoma do gato, tornando-os infectados por toda a vida (carreadores do provírus FeLV). Apesar disso, não há produção ativa do vírus.
+Vale dizer que, anteriormente, esses animais eram classificados como “latentes”, pois apresentavam culturas virais positivas de amostras medulares ou de outros tecidos, mas não sanguíneas (HARTMANN & HOFMANN-LEHMANN, 2020). Atualmente são classificados na denominação de infecção regressiva. Os resultados dos testes sorológicos para FeLV podem variar significativamente, e o prognóstico é melhor, não necessariamente evoluindo para óbito por causas relacionadas à leucemia felina (GERALDO, 2021).
+Contudo, há a possibilidade de reativação do vírus da FeLV, especialmente em gatos imunossuprimidos. Nesses casos, o vírus pode voltar a ser eliminado pela saliva e o animal pode desenvolver doenças relacionadas à FeLV. A reativação da infecção regressiva também pode acontecer durante a gestação e a lactação (HARTMANN & HOFMANN-LEHMANN, 2020).
+Infecção progressiva por FeLV
+A infecção progressiva pelo vírus da leucemia felina é caracterizada por uma ineficiência do sistema imune. A infecção inicial não é contida pelo sistema imunológico, ocorrendo uma intensa replicação viral primeiramente nos linfonodos e, então, na medula óssea e na mucosa e nas glândulas de tecidos epiteliais. A infecção mucosa e glandular está associada à alta eliminação de vírus infectante (HARTMANN & HOFMANN-LEHMANN, 2020).
+Nesses quadros, há viremia persistente por mais de 12 semanas, e esses animais têm potencial de infectar outros gatos por toda a sua vida. Gatos com infecção progressiva por FeLV geralmente desenvolvem doenças associadas ao vírus que diminuem sua expectativa de vida e possuem prognóstico ruim (GERALDO, 2021). O quadro progressivo é caracterizado por uma imunidade FeLV-específica insuficiente, e esses gatos apresentam níveis baixos ou indetectáveis de anticorpos neutralizantes (HARTMANN & HOFMANN-LEHMANN, 2020).
+Infecção focal ou atípica por FeLV
+Gatos com infecção focal ou atípica pelo vírus da leucemia felina são considerados raros em circunstâncias de infecção natural. Experimentalmente, observa-se que esse quadro ocorre em até 10% dos animais infectados (LITTLE et al., 2020). Nesses animais, a infecção fica restrita a alguns tecidos, como glândulas mamárias, bexiga, olhos, baço, linfonodos ou intestino delgado, onde a replicação local ocorre de forma persistente. Há relatos de transmissão do vírus por via transmamária por uma gata aos seus filhotes, mesmo quando seus resultados sorológicos para FeLV foram negativos (HARTMANN & HOFMANN-LEHMANN, 2020).
+Quais síndromes clínicas estão associadas à leucemia felina
+As síndromes clínicas mais observadas em gatos com FeLV progressiva são o surgimento de neoplasias (principalmente linfoma), a supressão da medula óssea (principalmente anemia) e imunossupressão com surgimento de infecções secundárias. Outras alterações como neuropatias, alterações reprodutivas e doenças imunomediadas também podem ocorrer em gatos infectados pelo vírus da leucemia felina (GREENE, 2006; HARTMANN, 2021).
+Contudo, nem sempre é possível determinar se o surgimento de uma doença é decorrente diretamente da infecção pelo FeLV. Além disso, gatos progressivamente infectados podem ter uma vida saudável por vários anos, apesar da redução da sua expectativa de vida geral (HARTMANN & HOFMANN-LEHMANN, 2020).
+Gatos com infecção regressiva por FeLV não apresentam redução na expectativa de vida, a menos que a infecção seja reativada e eles se tornem virêmicos. Nesses casos, os animais apresentam os mesmos riscos de desenvolverem as síndromes clínicas que acometem gatos progressivamente infectados (HARTMANN & HOFMANN-LEHMANN, 2020).
+A supressão de medula óssea e o surgimento de linfoma também podem ocorrer em gatos com infecção regressiva por leucemia felina. Nessas situações, o próprio provírus pode causar uma alteração no mecanismo celular ou ter uma ação oncogênica, levando ao desenvolvimento de tumores sem a replicação ativa do vírus (HARTMANN & HOFMANN-LEHMANN, 2020).
+Como é feito o diagnóstico de FeLV em gatos?
+O diagnóstico da FeLV em gatos exige uma abordagem sistemática que combina anamnese detalhada, exames laboratoriais adequados e a interpretação integrada dos resultados, considerando os diferentes desfechos clínicos possíveis: infecção progressiva, regressiva, abortiva ou focal.
+Vale ressaltar que o status da FeLV de todos os gatos atendidos deve ser avaliado, seja numa consulta de um animal saudável que será vacinado e/ou introduzido em um lar com outros gatos, ou no atendimento de um felino doente, suspeito ou não para leucemia felina. Essa é a forma mais comum de diagnóstico da doença (LITTLE et al., 2020).
+Anamnese e histórico do paciente com suspeita de FeLV
+A anamnese e o histórico do paciente direcionam o médico-veterinário para as particularidades do protocolo diagnóstico da FeLV. Por isso, é importante investigar os fatores que podem aumentar significativamente o risco de infecção pelo vírus da leucemia felina, tais como (HOFMANN-LEHMANN & HARTMANN, 2020; HARTMANN, 2012; GREENE, 2006):
+origem do animal;
+estilo de vida (acesso ao ambiente externo, convivência com múltiplos gatos ou introdução recente de novo animal ao domicílio);
+idade;
+episódios recorrentes de doenças, infecções secundárias, emagrecimento, linfadenomegalia, infertilidade ou alterações hematológicas prévias;
+vacinação e testagem prévia para FeLV.
+Quais exames são indicados para o diagnóstico de FeLV?
+As principais formas de diagnóstico da leucemia felina em gatos são os testes que buscam o antígeno FeLV p27 (testes sorológicos de ELISA e alguns testes rápidos), o RNA viral (RT-PCR) ou o DNA do provírus (PCR). O diagnóstico da FeLV pode variar significativamente de acordo com o curso da infecção e o momento da vida do animal. Os resultados serão negativos enquanto o vírus não estiver circulante (infecção regressiva ou “latência”) e potencialmente positivos em quadros de infecção progressiva e infecção regressiva reativada (HARTMANN & HOFMANN-LEHMANN, 2020). Justamente por essa transição entre as fases da FeLV, uma única testagem não deve ser considerada suficiente em casos suspeitos.
+Teste antígeno FeLV p27
+Resultados positivos ou questionáveis no teste de antígeno FeLV p27 devem ser confirmados imediatamente, principalmente se houver pouca prevalência ou se o risco de exposição for baixo. Para a confirmação, é preferível que outro método diagnóstico seja utilizado, como o teste antígeno p27 de outro laboratório ou RT-PCR em saliva, ou PCR no sangue para busca de provírus (HOFMANN-LEHMANN & HARTMANN, 2020).
+Se o resultado for positivo para FeLV, o gato apresenta antigenemia e tem potencial de transmissão do vírus no momento do teste. O teste deve ser repetido após 6 semanas e, se ainda for FeLV positivo, o animal deve ser testado novamente em mais 6 semanas para determinar se a infecção é progressiva com antigenemia/viremia persistente ou se se trata de uma infecção regressiva com antigenemia/viremia transitória. Gatos FeLV positivos devem ser sempre separados de gatos FeLV negativos até que eventualmente se tornem negativos.
+Um resultado negativo no teste de antígeno p27 é bastante confiável em países com baixa prevalência de FeLV. Isso pode indicar que o gato não foi exposto ao vírus, que é imune (pela proteção vacinal, por exemplo), que apresenta infecção regressiva, infecção abortiva ou que não se tornou ainda positivo por ter tido contato recente com o vírus da leucemia felina (HOFMANN-LEHMANN & HARTMANN, 2020). A detecção de antígenos FeLV no sangue periférico após a infecção leva de 3 a 6 semanas para ocorrer. Se a exposição recente não puder ser excluída, um novo teste deve ser realizado em 6 semanas, mantendo o animal em isolamento até lá.
+Detecção molecular de RNA viral FeLV (RT-PCR) em saliva
+Gatos positivos por antígeno p27 são geralmente positivos também para RNA viral em amostras de saliva, indicando antigenemia ativa no momento do teste. O grande diferencial do RT-PCR salivar no diagnóstico de FeLV é que o RNA viral pode ser detectado aproximadamente 2 semanas antes que o antígeno p27, sendo útil especialmente na fase inicial da infecção. Além disso, as amostras salivares podem ser usadas para testar colônias por pool de amostras de vários animais.
+Cabe ressaltar que o RT-PCR salivar é pouco utilizado no Brasil no diagnóstico da leucemia felina, devido ao custo mais elevado em comparação à pesquisa sorológica do antígeno p27. Quando as amostras positivas são obtidas de um pool, todos os gatos devem ser testados individualmente para identificação do animal disseminador do vírus da FeLV (HOFMANN-LEHMANN & HARTMANN, 2020).
+Detecção molecular de DNA proviral FeLV (PCR) no sangue
+Gatos contaminados que desenvolvem a infecção progressiva ou regressiva pelo FeLV carreiam em seu DNA a inserção do provírus, servindo como uma “tatuagem” genética que indica que o animal está infectado ou já se infectou com o vírus da leucemia felina.
+O teste de PCR no sangue é muito importante para detectar as infecções regressivas por FeLV e para confirmar animais realmente negativos em casas com múltiplos gatos. Além disso, deve ser usado para triar gatos doadores de sangue, pois há possibilidade de transmissão do vírus via transfusão sanguínea em doadores portadores do provírus. A janela entre a infecção pelo FeLV e a detecção do provírus no sangue é de apenas 1 a 2 semanas (HOFMANN-LEHMANN & HARTMANN, 2020).
+Sorologia ou PCR para FeLV? Conheça as diferenças entre os exames
+O teste sorológico para FeLV é altamente sensível e rapidamente executável, sendo o método recomendado para triagem inicial de todos os gatos. Entretanto, um resultado negativo não exclui completamente a infecção pelo vírus da leucemia felina, especialmente quando o animal está na fase muito inicial da exposição. Por isso, as diretrizes recomendam repetir a sorologia após 30 a 60 dias em casos de risco epidemiológico ou suspeita clínica persistente (BEALL, M.J. et al.; LITTLE et al., 2020).
+A PCR e a RT-PCR para FeLV são extremamente úteis para identificar infecções regressivas ou casos em que o vírus não circula de forma significativa na corrente sanguínea. Porém, nem sempre o vírus da leucemia felina está presente em concentração detectável no sangue do animal acometido, tornando a PCR um exame com possibilidade de falso-negativo (HARTMANN, 2012; HOFMANN-LEHMANN & HARTMANN, 2020).
+Quais as consequências e o prognóstico de gatos com FeLV?
+A infecção pelo vírus da leucemia felina pode evoluir de diferentes formas, e cada uma delas determina impactos clínicos distintos e prognósticos variados. A severidade das manifestações e a expectativa de vida do gato com FeLV dependem diretamente do tipo de infecção estabelecida, da resposta imunológica individual e de fatores ambientais e sanitários (HARTMANN, 2012; LITTLE et al., 2020; HOFMANN-LEHMANN & HARTMANN, 2020).
+As principais consequências clínicas da infecção por FeLV podem incluir (GREENE, 2006):
+supressão da medula óssea (anemia não regenerativa, neutropenia, trombocitopenia, pancitopenia)
+imunossupressão e infecções secundárias
+neoplasias (linfomas, leucemias)
+outras manifestações sistêmicas (neuropatias, alterações reprodutivas, doenças imunomediadas, enteropatias crônicas, glomerulopatias)
+A expectativa de vida de gatos atendidos com infecção progressiva de FeLV e que não foram eutanasiados próximo ao diagnóstico foi de 2 a 4 anos (LITTLE et al., 2020).
+Existe tratamento para o paciente FeLV positivo?
+Embora não exista um tratamento antiviral curativo para a leucemia felina, é fundamental acompanhar de perto o paciente FeLV positivo. Gatos com FeLV devem receber avaliações clínicas frequentes a cada 6 meses, visando detectar quaisquer alterações em sua saúde. Recomenda-se que o hemograma completo seja feito a cada 6 meses (pelo risco de alterações hematológicas relacionadas ao vírus da leucemia felina), e um check-up bioquímico completo e a avaliação da urina devem ser realizados anualmente (LITTLE et al., 2020).
+Quando necessário, o tratamento de suporte deve ser instituído conforme as manifestações clínicas do paciente com FeLV. Medicações que agem diretamente no retrovírus, como as usadas em humanos infectados pelo vírus do HIV, não demonstraram ainda resultados animadores, tanto por questões de eficácia quanto por questões de custos, toxicidade e prazo de utilização (WESTMAN et al., 2024). Contudo, o AZT é um dos poucos antivirais utilizados em pacientes com FIV e FeLV e pode reduzir a carga viral e melhorar o status clínico e imunológico de alguns pacientes. Estudos avaliando o uso de interferon ainda não comprovaram benefícios aos pacientes com leucemia felina (LITTLE et al., 2020).
+O fornecimento de um ótimo suporte nutricional é fundamental para a manutenção da saúde de gatos com FeLV, mesmo quando eles ainda estão clinicamente saudáveis. A nutrição adequada contribui para a preservação da condição corporal, da função imunológica e da qualidade de vida do paciente ao longo do acompanhamento clínico, sendo parte integrante do manejo do gato FeLV positivo.
+Para felinos em quadros convalescentes, recomenda-se a instituição de nutrição adequada precocemente, evitando o surgimento/agravamento de caquexia. Devemos lembrar que o metabolismo do paciente crítico está alterado, por isso ele necessita de alimentação específica.
+O alimento Royal Canin® Recovery é indicado para casos de gatos convalescentes, pois possui alta palatabilidade e alta densidade energética (principais fontes de energia são lipídios e proteínas). Além disso, sua formulação contém um alto teor de vitaminas e minerais, e nutracêuticos como antioxidantes, frutooligossacarídeos (FOS), mananoligossacarídeos (MOS), ômega-3, arginina e glutamina. Caso o gato não se alimente voluntariamente por via oral, o alimento Recovery pode ser utilizado para nutrição via sondas, pois possui consistência adequada.
+Como prevenir e controlar a FeLV?
+O controle efetivo da leucemia felina baseia-se na identificação precoce, na segregação adequada e na prevenção da transmissão entre gatos, considerando a alta eficiência de disseminação do vírus da FeLV em ambientes onde há convivência próxima.
+Por essa razão, recomenda-se a testagem de todos os gatos para FeLV na primeira consulta, antes da vacinação, após potenciais exposições e sempre que houver sinais clínicos compatíveis com retroviroses (HARTMANN & HOFMANN-LEHMANN, 2020). A classificação correta do status infeccioso é essencial: gatos com infecção regressiva por FeLV podem reativar a viremia em situações de imunossupressão, tornando-se transmissores. Já os felinos positivos no teste antígeno p27 devem ser mantidos sob manejo ambiental rigoroso, separados dos demais gatos e sem acesso à rua (HOFMANN-LEHMANN & HARTMANN, 2020).
+A quarentena de novos gatos antes da introdução definitiva ao grupo deve ser obrigatória, com testagem inicial para FeLV e repetição após algumas semanas, considerando o período de janela diagnóstica e o risco de resultados falso-negativos em infecções muito recentes (LITTLE et al., 2020).
+Nesse contexto, a vacinação contra FeLV desempenha papel importante como medida adicional de controle da leucemia felina. Embora nenhuma vacina seja 100% eficaz, imunizar gatos soronegativos previamente testados reduz significativamente o risco de infecção, sendo especialmente recomendada para (GERALDO JR, 2021):
+gatos com acesso ao ambiente externo;
+gatos que convivem com animais de status infeccioso desconhecido;
+animais que vivem em lares, abrigos ou gatis com risco epidemiológico elevado.
+A vacinação não deve ser aplicada em gatos FeLV positivos, e os reforços devem seguir o protocolo recomendado pelo fabricante e pelas diretrizes internacionais.
+ 
+Vacinação contra FeLV: qual o protocolo e quais vacinas múltiplas utilizar?
+A vacinação é uma das ferramentas mais importantes na prevenção da leucemia felina, e sua indicação deve considerar o contexto epidemiológico brasileiro e o estilo de vida de cada animal.
+A vacinação contra FeLV deve ocorrer em todos os filhotes até um ano de idade e em adultos considerados grupo de risco, sendo aqueles com acesso à rua, em constante contato com outros gatos e que frequentam creches e hotéis. Antes de iniciar o protocolo, é indispensável resultado negativo em teste diagnóstico para FeLV.
+Como é o protocolo vacinal contra FeLV?
+O protocolo vacinal tem início às 9 semanas de idade, com múltiplas doses até 16 semanas de vida. Uma nova dose é aplicada aos 6 meses e, posteriormente, em intervalo anual, quando deve ser avaliado se o felino continuará com a vacina quíntupla ou se transitará para a tríplice ou quádrupla.
+As recomendações internacionais da World Small Animal Veterinary Association (WSAVA) classificam as vacinas em essenciais e não essenciais. Para a leucemia felina, a classificação depende da incidência de casos em cada região. 
+Além das vacinas múltiplas, a imunização deve ser concluída com a vacina antirrábica, obrigatória por lei e alinhada ao conceito de Saúde Única, que integra saúde animal, humana e ambiental.
+Perguntas frequentes sobre a FeLV (vírus da leucemia felina):
+O que é FeLV em gatos?
+A FeLV é um retrovírus que infecta gatos domésticos e selvagens, com diferentes cursos de infecção (abortiva, regressiva, progressiva).
+Qual o tratamento indicado para gatos com FeLV?
+Não há tratamento antiviral curativo para FeLV. A indicação é instituir terapia de suporte conforme as manifestações clínicas, incluindo manejo de infecções secundárias, anemia e comorbidades.
+Existe vacina para FeLV em gatos?
+Sim. A vacinação para FeLV é indicada para gatos soronegativos, especialmente aqueles com risco de exposição.
+Qual o melhor exame para o diagnóstico de FeLV em gatos?
+O teste inicial recomendado é a sorologia para detecção do antígeno p27 no sangue, por ser rápido, sensível e adequado para triagem. Outros exames podem ser necessários.
+PCR ou sorologia para FeLV: qual exame escolher?
+A escolha do exame para FeLV depende da fase da enfermidade. A sorologia é o exame de escolha para triagem, enquanto a PCR é usada para confirmar diagnóstico. Porém, o vírus pode estar ausente do sangue em algumas fases, levando a falso-negativos na PCR.
+Gato com FeLV pode conviver com outros gatos?
+Gato com FeLV só pode conviver com outros gatos também positivos, pois há alto risco de transmissão. Gatos positivos não devem ter acesso à rua e devem ser mantidos separados de gatos negativos.
+Qual a diferença entre infecção regressiva e progressiva na FeLV?
+Na infecção de FeLV regressiva, o gato controla a replicação viral, tornando-se não virêmico. Na progressiva, há viremia persistente, maior risco de doenças e alta transmissibilidade.
+Quando repetir o teste para FeLV após resultado negativo?
+Recomenda-se repetir o teste para FeLV em 30 a 60 dias, para excluir infecção recente ainda na janela diagnóstica.
+Como acontece a transmissão da FeLV entre gatos?
+A transmissão da leucemia felina acontece, principalmente, por contato próximo e prolongado entre gatos, via saliva, secreções nasais, mordidas, compartilhamento de comedouros e lambeduras, além da transmissão vertical.
+Ciência, tradição e cuidado definem a trajetória de mais de 50 anos da Royal Canin®
+Ao longo de mais de cinco décadas, a Royal Canin® se dedica a oferecer nutrição da mais alta qualidade aos pets, investindo em pesquisa e inovação para desenvolver produtos específicos que atendem às necessidades nutricionais de cada indivíduo, firmando seu compromisso com a saúde e o bem-estar de gatos e cães.
+Referências:
+BEALL, M.J. et al. Feline leukemia virus lifetime study: whole blood samples increase detection of low positive cats with extended long-term survival. J. Feline Med. Surg., v.27, n.11, 2025. Disponível em: https://pubmed.ncbi.nlm.nih.gov/41215536/. Acesso em: 17 nov. 2025.
+BIEZUS, G. et al. Survival analysis and clinical abnormalities in cats with progressive or regressive feline leukemia virus (FeLV) infection in Brazil. PLoS One, v.20, n.7, 2025. Disponível em: https://pubmed.ncbi.nlm.nih.gov/40591622/. Acesso em: 17 nov. 2025.
+GERALDO JR, C. A. Novo guideline de doenças retrovirais AAFP 2020 – Parte 1 – FIV e FeLV. Zoetis Brasil, 2021. Disponível em: https://www2.zoetis.com.br/prevencaocaesegatos/posts/novo-guideline-de-doencas-retrovirais-aafp-2020-parte-1-fiv-e-felv. Acesso em: 17 nov. 2025.
+GREENE, C. E. Infectious diseases of the dog and cat. 3. ed. St. Luis: Saunders Elsevier, 2006.
+HARTMANN, K. Clinical Aspects of Feline Retroviruses: A Review. Viruses. v. 4, n.11, 2012. Disponível em: https://pubmed.ncbi.nlm.nih.gov/23202500/. Acesso em: 17 nov. 2025.
+HARTMANN, K.; HOFMANN-LEHMANN, R. What’s New in Feline Leukemia Virus Infection. Veterinary Clinics – Small Animal Practice. v. 50, n.5, 2020. Disponível em: https://pubmed.ncbi.nlm.nih.gov/32680664/. Acesso em: 17 nov. 2025.
+HOFMANN-LEHMANN, R.; HARTMANN, K. Feline leukaemia virus infection – a practical approach to diagnosis. Journal of Feline Medicine and Surgery. v. 22, n.9, 2020. Disponível em: https://journals.sagepub.com/doi/10.1177/1098612X20941785. Acesso em: 17 nov. 2025.
+LITTLE, S. et al. 2020 AAFP Feline Retrovirus Testing and Management Guidelines. Journal of Feline Medicine and Surgery. v. 22, n.1, 2020. Disponível em: https://journals.sagepub.com/doi/10.1177/1098612X19895940. Acesso em: 17 nov. 2025.
+WESTMAN, M.E. et al. Antiviral therapy in cats progressively infected with feline leukaemia virus: lessons from a series of 18 consecutive cases from Australia. Aust. Vet. J., v.102, n.9, 2024. Disponível em: https://pubmed.ncbi.nlm.nih.gov/39042044/. Acesso em: 17 nov. 2025.
+
+Feline immunodeficiency virus, feline leukemia virus and Leishmania spp. prevalence in cats from shelters in Mato Grosso do Sul, Brazil
+Abstract
+Diseases such as those caused by feline immunodeficiency virus (FIV) and feline leukemia virus (FeLV) represent health problems for cats. Feline leishmaniasis (FL) has been reported in several cities across the country. The objective was to carry out a clinical-epidemiological and laboratory study of FIV, FeLV and FL in cats from shelters in Dourados, Mato Grosso do Sul, Brazil. Blood samples and swabs from the conjunctival and nasal mucosa were obtained from 75 cats, from four animal shelters. Serology for FIV and FeLV was performed. For Leishmania, polymerase chain reaction (PCR) was performed on blood, conjunctiva and nasal mucosa. In the immunochromatographic serological test, seven cats tested positive for FIV and none for FeLV. No samples was positive in PCR for Leishmania. The study showed that despite the presence of human and canine leishmaniasis in the studied region, Leishmania spp. were absent in the cats studied. To avoid an increase in contagion in shelters, it is essential isolate cats with FIV.
+Keywords:
+ PCR; Leishmaniasis; nasal mucosa; conjunctival mucosa; FIV; FeLV
+Resumo
+Doenças como as causadas pelos vírus da imunodeficiência felina (FIV) e vírus da leucemia felina (FeLV) representam problemas de saúde para os gatos. A leishmaniose felina (LF) tem sido relatada em diversas cidades do país. O objetivo deste trabalho foi realizar um estudo clínico-epidemiológico e laboratorial de FIV, FeLV e LF em gatos de abrigos em Dourados, Mato Grosso do Sul, Brasil. Amostras de sangue e swabs da mucosa conjuntival e da mucosa nasal foram obtidas de 75 gatos, dos quatro abrigos de animais. Foi feita a sorologia para FIV e FeLV. Para Leishmania foi realizada a reação em cadeia da polimerase (PCR) em sangue, conjuntiva e mucosa nasal. No teste sorológico imunocromatografico, sete gatos apresentaram resultado positivo para FIV e nenhum para FeLV. Nenhuma amostra foi positiva na PCR para Leishmania. O estudo demonstrou que apesar da presença de leishmaniose humana e canina, na região estudada, não foi encontrado Leishmania spp. nos gatos analisados. Para evitar o aumento do contágio em abrigos é fundamental isolar os gatos com FIV.
+Palavras-chave:
+ PCR; Leishmaniose; mucosa nasal; mucosa conjuntival; FIV; FeLV
+Introduction
+Common retroviral diseases, such as feline immunodeficiency virus (FIV) and feline leukemia virus (FeLV), pose health problems for cats. The most affected animals are adult males with access to the external environment (Gleich & Hartmann, 2009).
+Diseases caused by hemoparasites and retroviruses are emerging challenges that affect cats in many parts of the world. Free-range cats are highly vulnerable to infections because of exposure to a variety of ectoparasites that can transmit pathogens (Otranto & Dantas-Torres, 2010; Tasker, 2010). Leishmaniasis is endemic in the state of Mato Grosso do Sul (MS) and should be further investigated. Feline leishmaniasis (FL) has been reported in several cities in the Brazil, including Campo Grande/MS (Coelho et al., 2011;Benassi et al., 2017;Metzdorf et al., 2017; Asfaram et al., 2019;Mendonça et al., 2020).
+Therefore, owing to the endemic characteristics of leishmaniasis in the state and as the main causes of infectious diseases in cats, this study aimed to conduct a clinical-epidemiological and laboratory study of FIV, FeLV and FL in cats from shelters in Dourados, MS, Brazil.
+Material and Methods
+Study population
+Males and females domestic cats, different ages and mixed breed were examined in all cat shelters in the city of Dourados, Brazil: 25 cats in shelter 1 (22.22680°S, 54.84430ºW) with 95 cats sheltered, 25 cats in shelter 2 (22.27064ºS, 54.75491ºW) with 68 cats, all 15 cats from shelter 3 (22.21412ºS, 54.75907ºW), and 10 cats in shelter 4 (22.20158ºS, 54.87498ºW) with 12 cats sheltered. The sample for the study was calculated based on a total population of 190 cats, considering a confidence level of 95% and a margin of error of 6%, resulting in a sample of 75 individuals. The cats belonged to shelters, according to the owners, but had free access to the street. A cat was collected that did not belong to any shelter but had free access to it and was there at the time of sample collection. The cats were selected for convenience, from less skittish animals, which showed more apparent clinical signs and were in the shelter at the time of collection.
+The animals were clinically evaluated by a veterinarian through anamnesis and physical examinations, to analyze body score, mucosal color, oral and nasal cavities, and ophthalmological and dermatological alterations.
+This study was approved by the Ethics Committee on the Use of Animals (CEUA) of the Universidade Federal da Grande Dourados (protocol number 29/2020).
+Obtaining biological samples
+Biological sample collection was conducted from April to May 2021. The animals were catalogued in individual files and identified by name, sex, and age. After performing clinical analysis, the animals were physically restrained to collect peripheral blood, and conjunctival and nasal swab samples.
+Peripheral blood (3 mL) was collected by jugular venipuncture and placed in tubes with and without EDTA to obtain whole blood and serum, respectively. The samples were kept at -20°C for subsequent serological and molecular tests. Conjunctival and nasal samples were obtained by swab collection and stored at -20ºC in microtubes for molecular diagnosis.
+Serology for FIV and FeLV
+Serological analyses were performed in serum using the Alere FIV/FeLVTM Test Kit (BioNote, Abbott Diagnósticos Rápidos, Belo Horizonte, Brazil), which detects FIV IgG antibodies and FeLV antigens, following the manufacturer's protocol.
+Obtaining DNA
+Genomic DNA extractions from blood, conjunctiva, and nasal samples were performed with 20% sodium dodecyl sulfate, following a previously established protocol (Neitzke-Abreu et al., 2020). For each group of samples, a positive control (blood with 104 Leishmania infantum promastigotes) and a negative control (blood without L. infantum) were included.
+Polymerase chain reaction (PCR)
+To search for Leishmania, DNA from blood, conjunctiva and nasal samples were subjected to PCR using the primers LITSR (5′-CTG GAT CAT TTT CCG ATG-3′) and L5.8S (5′-TGA TAC CAC TTA TCG GCA CTT-3′) (El Tai et al., 2000), which amplify a 320 – 350-bp fragment of the ITS1 region of Leishmania spp. The PCR mixture (25 μL) was composed of 0.4 μM of each primer (Exxtend Biotecnologia), 1.5 mM MgCl2, 0.2 mM dNTP (Invitrogen), 1.5 U Taq DNA polymerase (Phoneutria), and 2 μL DNA. Amplification was performed in a thermocycler (T100 Thermal Cycler, Bio-Rad) at 95°C for 5 min, followed by 35 cycles: 95°C for 30 s, 56.1°C for 30 s, 72°C for 1 s, and finally 72°C for 10 min. The products were kept at 4°C until electrophoresis. Amplified products were subjected to 2% agarose gel electrophoresis (KASVI, Ludwig), and stained with ethidium bromide (10 mg/mL). The presence of bands was observed using a transilluminator (Loccus Biotecnologia).
+All samples were subjected to a new reaction using the primers ActinF (5’-CGG AAC CGC TCA TTG CC-3’) and ActinV (5’-ACC CAC ACT GTG CCA TCT A-3’) (Du Breuil et al., 1993), which amplify a 289-bp fragment present in the mammalian β-actin gene, as a control for DNA quality. The PCR mixture (15 μL) was composed of 0.4 μM of each primer (Exxtend Biotecnologia), 1.5 mM MgCl2, 0.2 mM dNTP (Invitrogen), 1 U Taq DNA polymerase (Phoneutria), and 1 μL DNA. Amplification was performed in a thermocycler (T100 Thermal Cycler; Bio-Rad) at 95°C for 5 min, followed by 35 cycles: 94°C for 30 s, 57°C for 30 s, 72°C for 1 min, and finally at 72°C for 10 min. The products were kept at 4ºC until subsequent electrophoresis on agarose gel was performed.
+Results
+Samples were collected from 75 domestic cats (45 males and 30 females), aged between 4 months and 11 years, mixed breed. Of the animals analyzed, 56% (42/75) exhibited some clinical signs, among which the main manifestations observed were: nasal secretion 18%, skin disease 13%, gingivitis-stomatitis complex 12%, weight loss 9.3%, pale mucous membranes 6.6%, ectoparasites 6.6%, ocular discharge 5.3%, lymphadenopathy 4%, jaundice 2.6%, blepharitis 2.6% and keratoconjunctivitis sicca 3%. In some cases, diarrhea (5.3%) was observed at the time of collection and bloody urine characterizing a urinary tract infection (5.3%).
+Seven cats tested positive for FIV and no cat tested positive for FeLV. Of the FIV-positive cats, only three had clinical signs and presented oral lesions, alopecia and ear tip lesions. None of the animals tested positive for Leishmania spp. in the analyzed samples. The internal control (PCR actinF/V) showing the presence of mammalian DNA in all samples tested.
+Discussion
+Cats are common domestic animals in homes, and approximately 27.1 million felines in Brazil are estimated to share the same environment as humans (Instituto Pet Brasil, 2022). It is important to understand and investigate feline pathogens that may be involved in human diseases, owing to this close contact, which can facilitate the sharing of pathogens (Brum et al., 2007). In addition to the overcrowding of animals, shelter environments are usually precarious and favorable for FL and other diseases, because of the accumulation of organic matter (environments with fruit trees and shady places), a worrying fact because leishmaniasis vectors lay eggs in these places (Brasil, 2014).
+Owing to the role of dog as a primary reservoir and the severe disease that can occur, leishmaniasis in dogs has been well studied. In contrast, cats have been considered, for many years, as less susceptible or resistant animals, and their role in the epidemiology of leishmaniasis is considered insignificant. Despite the initial reluctance, cases of FL have been increasingly reported worldwide.
+Most cats with FL are subclinically infected, possibly because of their natural resistance to the development of disease (Solano-Gallego et al., 2007). The most common clinical signs include lymphadenomegaly, cutaneous and mucocutaneous lesions (nodular and/or ulcerative dermatitis), with or without visceral signs (Pennisi, 2015), generalized weakness, weight loss, anorexia, and ocular and oral lesions (Pennisi & Persichetti, 2018). However, not all clinical signs in cats with FL are necessarily due to this disease; some may be caused by comorbidities, such as FIV and FeLV (Marcos et al., 2009). Retroviruses are associated with various clinical problems such as anemia, lymphoma, chronic inflammatory disease, oral inflammatory disease such as gingivostomatitis, and secondary and opportunistic infections (Little et al., 2020).
+In the present study, three cats showed clinical signs of FIV (oral lesions, alopecia, and ear tip lesions), and one of them did not live in the shelter but had free access to and contact with the resident cats. This wandering animal, which has free access to the shelter, becomes a source of infection for other cats, demonstrating a health risk. Although none of the cats examined tested positive for Leishmania spp., studies have demonstrated the presence of Leishmania in cats. A study carried out in Israel showed that 75% (50/67) of cats housed in a shelter were seropositive for L. infantum, and 16% (11/67) were positive in the DNA analysis using PCR (Baneth et al., 2020). Peripheral blood PCR was negative for Leishmania spp., a very low result compared to the rates observed in another region of MS (Metzdorf et al., 2017). Little information is available on the mechanisms responsible for the susceptibility or resistance of felines naturally exposed to infection by L. infantum (Persichetti et al., 2017). The PCR positivity of peripheral blood samples is generally lower than that of lymph node and bone marrow aspirates or local skin impressions (Alcover et al., 2021); however, they are less invasive. None of the shelters studied received a complaint from the city’s Zoonosis Control Center regarding precarious conditions, such as accumulation of organic matter and waste. Therefore, although the shelters have agglomerations of animals, there may be sandfly vectors in these locations.
+Because retroviral diseases weaken animals and are immunosuppressive diseases, they represent a challenge for the health of felines. However, most cats naturally infected with FIV do not present a serious clinical condition; with proper care, infected cats can live for many years. As observed in the current study, although some animals tested positive for FIV, they did not present characteristic symptoms of the disease. Care must be taken in places with a high density of animals as immunosuppressive diseases favor the development of opportunistic diseases.
+Conclusion
+Leishmania spp. were not detected in the examined cats. A negative PCR ITS1 for Leishmania, in blood and conjunctival and nasal samples, does not exclude Leishmania infection, and it is important serology, kDNA PCR and PCR of other tissues. Further investigations of FL are necessary owing to the high number of cases of human and canine leishmaniasis in Dourados, in addition to reports of the presence of sand fly vectors. Cats from shelters can have viral diseases, such as FIV and FeLV, and rapid diagnosis and early isolation of felines is important to prevent contagion to other animals. The presence of immunosuppressive diseases in cats from shelters with high animal density requires greater monitoring of the animals' health.
+How to cite: Barbosa WZ, Magalhães KA, Pussi KF, Lima Junior MSC, Neitzke-Abreu HC. Feline immunodeficiency virus, feline leukemia virus and Leishmania spp. prevalence in cats from shelters in Mato Grosso do Sul, Brazil. Braz J Vet Parasitol 2024; 33(2): e006324. https://doi.org/10.1590/S1984-29612024035
+
+
+Ethics declaration
+ All procedures herein reported were approved by the Ethics Committee for Animal Use of the Universidade Federal da Grande Dourados (protocol number 29/2020).
+
+
+References
+Asfaram S, Fakhar M, Teshnizi SH. Is the cat an important reservoir host for visceral leishmaniasis? A systematic review with meta-analysis. J Venom Anim Toxins Incl Trop Dis 2019; 25: e20190012. http://doi.org/10.1590/1678-9199-jvatitd-2019-0012 PMid:31258555.
+» http://doi.org/10.1590/1678-9199-jvatitd-2019-0012
+Alcover MM, Basurco A, Fernandez A, Riera C, Fisa R, Gonzalez A, et al. A cross-sectional study ofLeishmania infantuminfection in stray cats in the city of Zaragoza (Spain) using serology and PCR.Parasites Vectors2021; 14, 178. https://doi.org/10.1186/s13071-021-04682-w
+» https://doi.org/10.1186/s13071-021-04682-w
+Baneth G, Nachum‑Biala Y, Zuberi A, Zipori‑Barki N, Orshan L, Kleinerman G, et al. Leishmania infection in cats and dogs housed together in an animal shelter reveals a higher parasite load in infected dogs despite a greater seroprevalence among cats. Parasit Vectors 2020; 13(1): 115. http://doi.org/10.1186/s13071-020-3989-3 PMid:32192533.
+» http://doi.org/10.1186/s13071-020-3989-3
+Benassi JC, Benvenga GU, Ferreira HL, Pereira VF, Keid LB, Soares R, et al. Detection of Leishmania infantum DNA in conjunctival swabs of cats by quantitative real-time PCR. Exp Parasitol 2017; 177: 93-97. http://doi.org/10.1016/j.exppara.2017.04.004 PMid:28438522.
+» http://doi.org/10.1016/j.exppara.2017.04.004
+Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Vigilância Epidemiológica. Manual de vigilância e controle da leishmaniose visceral Brasília: Ministerio da Saúde; 2014.
+Brum LC, Conceição LG, Ribeiro VM, Júnior VH. Principais dermatoses zoonóticas de cães e gatos. Rev Clin Vet 2007; 69: 29-46.
+Coelho WMD, Richini-Pereira VB, Langoni H, Bresciani KDS. Molecular detection of Leishmania sp. in cats (Felis catus) from Andradina Municipality, São Paulo State, Brazil. Vet Parasitol 2011; 176(2-3): 281-282. http://doi.org/10.1016/j.vetpar.2010.10.052 PMid:21130575.
+» http://doi.org/10.1016/j.vetpar.2010.10.052
+Du Breuil RM, Patel JM, Mendelow BV. Quantitation of beta-actin-specific mRNA transcripts using xeno-competitive PCR. PCR Methods Appl 1993; 3(1): 57-59. http://doi.org/10.1101/gr.3.1.57 PMid:8220185.
+» http://doi.org/10.1101/gr.3.1.57
+El Tai NO, Osmar OF, El Fari M, Presber WH, Schönian G. Genetic heterogeneity of ribosomal internal transcribed spacer in clinical samples of Leishmania donovani spotted on filter paper as revealed by single-strand conformation polymorphisms and sequencing. Trans R Soc Trop Med Hyg 2000; 94(5): 575-579. http://doi.org/10.1016/S0035-9203(00)90093-2 PMid:11132393.
+» http://doi.org/10.1016/S0035-9203(00)90093-2
+Gleich S, Hartmann K. Hematology and serum biochemistry of feline immunodeficiency virus-infected and feline leukemia virus-infected cats. J Vet Intern Med 2009; 23(3): 552-558. http://doi.org/10.1111/j.1939-1676.2009.0303.x PMid:19645840.
+» http://doi.org/10.1111/j.1939-1676.2009.0303.x
+Instituto Pet Brasil. Censo Pet IPB: com alta recorde de 6% em um ano, gatos lideram crescimento de animais de estimação no Brasil [online]. 2022 [cited 2023 Jan 5]. Available from: https://institutopetbrasil.com/fique-por-dentro/amor-pelos-animais-impulsiona-os-negocios-2-2/
+ » https://institutopetbrasil.com/fique-por-dentro/amor-pelos-animais-impulsiona-os-negocios-2-2/
+Little S, Levy J, Hartmann K, Hofmann-Lehmann R, Hosie M, Olah G, et al. 2020 AAFP Feline Retrovirus Testing and Management Guidelines. J Feline Med Surg 2020; 22(1): 5-30. http://doi.org/10.1177/1098612X19895940 PMid:31916872.
+» http://doi.org/10.1177/1098612X19895940
+Marcos R, Santos M, Malhão F, Pereira R, Fernandes AC, Montenegro L, et al. Pancytopenia in a cat with visceral leishmaniasis. Vet Clin Pathol 2009; 38(2): 201-205. http://doi.org/10.1111/j.1939-165X.2009.00111.x PMid:19490573.
+» http://doi.org/10.1111/j.1939-165X.2009.00111.x
+Mendonça IL, Batista JF, Lopes KSPP, Magalhães FCR No, Alcântara DS, Merigueti YFFB, et al. Infection of Lutzomyia longipalpis in cats infected with Leishmania infantum. Vet Parasitol 2020; 280: 109058. http://doi.org/10.1016/j.vetpar.2020.109058 PMid:32200198.
+» http://doi.org/10.1016/j.vetpar.2020.109058
+Metzdorf IP, Lima MSC Jr, Matos MFC, Souza AFS Fo, Tsujisaki RAS, Franco KG, et al. Molecular characterization of Leishmania infantum in domestic cats in a region of Brazil endemic for human and canine visceral leishmaniasis. Acta Trop 2017; 166: 121-125. http://doi.org/10.1016/j.actatropica.2016.11.013 PMid:27851895.
+» http://doi.org/10.1016/j.actatropica.2016.11.013
+Neitzke-Abreu HC, Vieira VBD, Silveira APS, Batalini LS, Gnutzmann LV, Castro SO, et al. Diagnosis of canine leishmaniasis using ear blood PCR in region of Brazil. Adv Anim Vet Sci 2020; 8(2): 157-160. http://doi.org/10.17582/journal.aavs/2020/8.2.157.160
+» http://doi.org/10.17582/journal.aavs/2020/8.2.157.160
+Otranto D, Dantas-Torres F. Canine and feline vector-borne diseases in Italy: current situation and perspectives. Parasit Vectors 2010; 3(1): 2. http://doi.org/10.1186/1756-3305-3-2 PMid:20145730.
+» http://doi.org/10.1186/1756-3305-3-2
+Pennisi MG, Persichetti MF. Feline leishmaniosis: is the cat a small dog? Vet Parasitol 2018; 251: 131-137. http://doi.org/10.1016/j.vetpar.2018.01.012 PMid:29426470.
+» http://doi.org/10.1016/j.vetpar.2018.01.012
+Pennisi MG. Leishmaniosis of companion animals in Europe: an update. Vet Parasitol 2015; 208(1-2): 35-47. http://doi.org/10.1016/j.vetpar.2014.12.023 PMid:25573248.
+» http://doi.org/10.1016/j.vetpar.2014.12.023
+Persichetti MF, Solano-Gallego L, Vullo A, Masucci M, Marty P, Delaunay P, et al. Diagnostic performance of ELISA, IFAT and Western blot for the detection of anti-Leishmania infantum antibodies in cats using a Bayesian analysis without a gold standard. Parasit Vectors 2017; 10(1): 119. http://doi.org/10.1186/s13071-017-2046-3 PMid:28285598.
+» http://doi.org/10.1186/s13071-017-2046-3
+Solano-Gallego L, Rodríguez-Cortés A, Iniesta L, Quintana J, Pastor J, Espada Y, et al. Cross-sectional serosurvey of feline leishmaniasis in ecoregions around the Northwestern Mediterranean. Am J Trop Med Hyg 2007; 76(4): 676-680. http://doi.org/10.4269/ajtmh.2007.76.676 PMid:17426169.
+» http://doi.org/10.4269/ajtmh.2007.76.676
+Tasker S. Haemotropic mycoplasmas: what’s their real significance in cats? J Feline Med Surg 2010; 12(5): 369-381. http://doi.org/10.1016/j.jfms.2010.03.011 PMid:20417898.
+» http://doi.org/10.1016/j.jfms.2010.03.011
+
+O que é FIV, o famoso vírus da “AIDS Felina”?
+A FIV é o vírus da imunodeficiência felina que, como o próprio nome diz, tem características semelhantes ao vírus da Aids humana.
+Como a FIV é transmitida?
+A FIV é transmitida através de mordidas profundas entre gatos e relação sexual. Gatos com FIV não transmitem o vírus pelo contato, compartilhamento de vasilhas de água ou comida e lambedura.
+FIV: sintomas
+O vírus da FIV pode causar febre, anemia, emagrecimento, falta de apetite, mudanças no comportamento e problemas, como:
+Gengivites
+Úlceras na boca
+Doenças na pele
+Doenças nos olhos
+Problemas respiratórios 
+Problemas gastrointestinais (vômitos e diarreias)
+E como saber se meu gato está com FIV?
+O diagnóstico da FIV se dá através de uma avaliação clínica realizada por um médico-veterinário e por exames e testes realizados dentro do consultório.
+A FIV tem cura?
+Infelizmente, a FIV não tem cura. Mas alguns gatos podem viver muito bem por meses e até anos, desde que estejam com sua imunidade sob controle, e principalmente não estejam passando por situações estressantes.
+A vacina FeLV protege os gatos contra o vírus da leucemia felina. É importante que os responsáveis entendam como o protocolo do imunizante funciona para manter a carteira de vacinação dos animais em dia. Continue lendo para saber mais.
+
+O que é e para que serve a vacina FeLV?
+A vacina contra FeLV imuniza o animal contra a leucemia felina. Ela pode ser inativada (feito com o vírus morto ou inativo) ou recombinante (feita com proteínas virais via engenharia genética). As duas versões são muito eficazes e seguras.
+Ao ser aplicada no gato, a vacina estimula o organismo do felino a produzir anticorpos, que são como “soldados”, prontos para combater o vírus da FeLV caso o animal seja contaminado.
+A aplicação do imunizante não cura o animal que já tem a doença, mas é fundamental para prevenir e garantir a saúde a longo prazo.
+Indicação da vacina contra FeLV
+A vacina FeLV é indicada para os felinos com mais chances de entrarem em contato com outros gatos portadores da leucemia felina, nas seguintes situações:
+gatos que saem para a rua sem supervisão;
+gatos que moram em casas com entrada de outros gatos;
+gatos que frequentam hotéis ou creches;
+gatos de abrigos, gatis e ONGs;
+gatos que convivem com outros FeLV positivo.
+Além de vacinar o felino, evitar o acesso dele sem supervisão às ruas é outra forma de protegê-lo da FeLV. Também evitar a entrada de gatos desconhecidos na área em que o seu pet vive.
+Mecanismo de ação e resposta imunológica
+Toda vacina possui um antígeno, uma parte do ou o próprio causador da doença, percebido pelo sistema imunológico do animal. No caso da FeLV, trata-se de um vírus.
+Logo após a aplicação, duas células entram em ação, os linfócitos B (que produzem anticorpos, uma memória imunológica que dura em torno de um ano) e as células T citotóxicas (que matam as células invadidas pelo vírus).
+A vacina FeLV para gatos protege de forma completa, pois os anticorpos produzidos circulam pelas mucosas, as principais portas de entrada do vírus. Essa proteção é chamada de mucosa e sistêmica.
+Posologia e protocolo de aplicação
+Você deve estar se perguntando quantas doses da vacina FeLV são necessárias para proteger o seu pet. O protocolo de imunização contra a leucemia felina segue um esquema específico, que deve ser formulado pelo médico-veterinário do animal.
+O profissional levará em conta o quadro de saúde, o estilo de vida e outras especificidades importantes do gato para definir se e quando ele deve ser vacinado. De maneira geral, a primeira vacinação acontece por volta de 9 semanas de vida, com 2 doses de intervalo de 3 a 4 semanas.
+Depois, são necessárias doses de reforço pontuais, de acordo com o protocolo vacinal escolhido pelo médico-veterinário. Por isso, é fundamental contar com um profissional de confiança, que poderá analisar o quadro do pet e realizar todo o processo de forma segura.
+Efeitos colaterais e contraindicações
+A FeLV tem vacina que pode causar os mesmos efeitos da maioria, como inchaço no local da aplicação, letargia leve e febre baixa. As reações raras incluem dor intensa no local e reação anafilática. Caso observe qualquer alteração, leve imediatamente o pet ao veterinário.
+As contraindicações da vacinação contra FeLV felina acontecem em animais com teste positivo para leucemia felina ou doença ativa, fêmeas prenhas e lactantes, além de gatos com alergia à gentamicina ou à anfotericina B, conservantes do produto. Por isso, é fundamental testar o felino antes de decidir com o médico-veterinário sobre a vacina.
+Segurança e estudos clínicos
+A vacina contra FeLV é aprovada pelos órgãos reguladores mais importantes do mundo, como FDA dos EUA, EMA da Europa e MAPA no Brasil. O acompanhamento dos animais vacinados demonstra uma redução significativa de incidência de FeLV e um aumento da sobrevida dos animais, já que eles estão protegidos da leucemia felina.
+Outras informações sobre a vacina FeLV
+O ideal é testar o gato para FeLV antes da vacinação, de forma preventiva. O teste também pode ser realizado quando o animal apresentar sintomas, sempre com orientação do médico-veterinário.
+A vacina contra FeLV pode ser administrada junto de outras, como a V4 e a da raiva, sem riscos para o animal. De toda forma, é preciso contar com a avaliação do médico-veterinário, que levará em conta a individualidade de cada pet.
+Caso o reforço da vacina atrase, procure o veterinário para ele avaliar o tempo de e determinar a melhor conduta para o gato, que pode incluir a retomada do esquema vacinal.
+A vacina não causa a doença, pois utiliza antígenos inativados ou recombinantes, incapazes de provocar infecção. Trata-se de uma forma segura de estimular a imunidade e oferecer proteção duradoura ao felino.
+Mesmo em gatos idosos, a vacinação continua sendo eficaz e altamente recomendada, já que ajuda a manter as defesas do organismo ativas e a prevenir complicações.
+
+CENTRO UNIVERSITÁRIO BRASILEIRO
+CURSO DE MEDICINA VETERINÁRIA
+GEORGE ANDERSON DOS SANTOS CABRAL
+LUIZ ANTÔNIO DE PONTES RAMOS NETO
+SAMANTHA CAVALCANTI SANTOS
+LEUCEMIA VIRAL FELINA: Revisão de Literatura
+RECIFE/2022
+GEORGE ANDERSON DOS SANTOS CABRAL
+LUIZ ANTÔNIO DE PONTES RAMOS NETO
+SAMANTHA CAVALCANTI SANTOS
+LEUCEMIA VIRAL FELINA: Revisão de Literatura
+Monografia apresentada ao centro Universitário Brasileiro
+– UNIBRA como requisito parcial para obtenção do título
+de Bacharel em Medicina Veterinária
+Professora Orientadora: Ms Mariana de França da Silva
+RECIFE/2022
+Ficha catalográfica elaborada pela
+bibliotecária: Dayane Apolinário, CRB4- 2338/ O.
+R175l Ramos Neto, Luiz Antônio de Pontes
+Leucemia viral felina: revisão de literatura. / Luiz Antônio de Pontes
+Ramos Neto, George Anderson dos Santos Cabral, Samantha Cavalcanti
+Santos. - Recife: O Autor, 2022.
+29 p.
+Orientador(a): Me. Mariana de França da Silva.
+Trabalho de Conclusão de Curso (Graduação) - Centro Universitário
+Brasileiro – UNIBRA. Bacharelado em Medicina Veterinária, 2022.
+Inclui Referências.
+1. Leucemia. 2. Vírus. 3. Felina. I. Cabral, George Anderson dos
+Santos. II. Santos, Samantha Cavalcanti. III. Centro Universitário
+Brasileiro - UNIBRA. IV. Título.
+CDU: 619
+NOTA ______________
+DEDICATÓRIA
+Dedicamos o presente trabalho aos integrantes do grupo que participaram na
+elaboração e aos nossos familiares que sempre nos apoiaram e nos
+incentivaram acreditando no nosso potencial.
+AGRADECIMENTO
+Agradecemos primeiramente a Deus por ter nos proporcionado chegar até
+aqui. Aos nossos familiares pelo apoio diário, pois sem eles a jornada seria
+mais árdua. Agradecemos aos professores que sempre se comprometeram a
+ajudar da melhor forma em especial nossa orientadora. Por fim aos nossos
+colegas de turma pelos anos de convivência que estarão guardados em
+nossos corações.
+O sucesso é ir de fracasso em
+fracasso sem perder o entusiasmo
+(Desconhecido)
+LEUCEMIA VIRAL FELINA: REVISÃO LITERATURA
+George Anderson dos Santos Cabral1
+Luiz Antônio de Pontes Ramos Neto1
+Samantha Cavalcanti Santos1
+Mariana de França da Silva2
+RESUMO: O vírus da leucemia felina está distribuído por todo o mundo foi
+descrito pela primeira vez em 1964 por William Jarrett e colaboradores, que
+conseguiram visualizar partículas virais em um linfoma de um gato. Da família
+Retrovirídea, subfamília Onovirídea e gênero Gammaretrovírus, transcreve o
+RNA em DNA. O vírus transmitido tem predileção por células percursoras
+hematopoiéticas, através de secreções corporais. A doença está dividida em
+quatro subgrupos, FELV-A, FELV-B, FELV-C e FELV-T e diferentes fases de
+infecção regressiva, progressiva, abortiva e latente. Os sinais clínicos vão
+depender de qual doença virá associada ao vírus. A FeLV pode predispor a
+alterações reprodutivas, alterações oftálmicas, linfomas e leucemia, alterações
+hematopoiéticas dentre outras. O diagnóstico é feito através da realização de um
+ou mais testes. Ainda não existe tratamento definitivo para a FeLV, sendo
+indicado o tratamento profilático das doenças associadas e o uso de drogas
+antivirais humanas.
+Palavras-Chave: Leucemia; Vírus; Felina.
+ABSTRACT: Feline leukemia virus is present all around the world, described for
+the first time in 1964 by William Jarret and his collaborators, who were able to
+notice viral particles in a cat’s lymphoma. From the retroviridae family, subfamily
+onoviridae and genre gama retroviridae. It transcribes RNA into DNA. The virus
+has a predilection for hematopoiesis forerunner cells, its transmission occurring
+through body fluid. The disease divides itself into four subgroups: FeLV-A, FeLV-
+B, FeLV-C, FeLV-T, and different phases of infection – regressive, progressive,
+abortive, and latent. The clinical signs will vary according to which disease will
+come associated with the virus. A FeLV can predispose to reproductive,
+ophthalmic, and hematopoiesis alterations, lymphomas, and leukemia, among
+others. The diagnosis is done through one or more tests. There is still no definitive
+treatment for FeLV, being indicated prophylactic treatment of the associated
+diseases and the usage of antiviral human drugs.
+Keywords: Leukaemia; Virus; Feline
+____________________________
+1 Graduando em Medicina Veterinária pelo Centro Universitário Brasileiro - UNIBRA
+<george.75asc@gmail.com>
+1 Graduando em Medicina Veterinária pelo Centro Universitário Brasileiro - UNIBRA
+<netxpxntes@gmail.com>
+1 Graduanda em Medicina Veterinária pelo Centro Universitário Brasileiro - UNIBRA
+<samantha.cavalcanti06@gmail.com>
+² Professora da UNIBRA. Doutora em Biotecnologia. Email: mariana.franca@grupounibra.com
+LISTA DE FIGURAS
+Figura 1 - Felino FeLV positivo, apresentando ....................................... 20
+Figura 2 - Felino FeLV positivo recebendo transfusão sanguínea. ........ 22
+Figura 3 - Felino apresentando uveíte .................................................... 23
+Figura 4 - SNAP FIV/FELV Combo Test ................................................ 24
+SUMÁRIO
+1 INTRODUÇÃO ............................................................................................... 11
+1.1 Objetivos .................................................................................................. 12
+1.1.1 Objetivo geral .................................................................................... 12
+1.1.2 Objetivo específico ............................................................................ 12
+2 METODOLOGIA ............................................................................................ 13
+3 REVISÃO DE LITERATURA ......................................................................... 14
+3.1 Histórico e etiologia.................................................................................. 14
+3.2 Epidemiologia .......................................................................................... 15
+3.3 Fisiopatologia ........................................................................................... 15
+3.3.1 Infecção regressiva ........................................................................... 17
+3.3.2 Infecção Progressiva ......................................................................... 17
+3.3.3 Infecção abortiva ............................................................................... 18
+3.3.4 Infecção Latente ................................................................................ 19
+3.4 Transmissão ............................................................................................ 19
+3.5 Aspectos Clínicos .................................................................................... 20
+3.6 Sintomas Associadas ao FELV................................................................ 21
+3.6.1 Alterações Hematológicas................................................................. 21
+3.6.2 Linfoma e Leucemia .......................................................................... 22
+3.6.3 Alterações Reprodutivas ................................................................... 22
+3.6.4 Alterações Oftálmicas ....................................................................... 22
+3.7 Diagnóstico .............................................................................................. 23
+3.8 Tratamento............................................................................................... 25
+3.9 Vacinação ................................................................................................ 27
+4. CONSIDERAÇÕES FINAIS .......................................................................... 28
+REFERÊNCIAS ................................................................................................. 29
+11
+1 INTRODUÇÃO
+O Vírus da leucemia felina (FeLV) tem distribuição mundial. Descrito
+pela primeira vez em 1964 por William Jarrett et all, que identificaram
+partículas virais retiradas de um linfoma. Pertencente à Família Retrovirídea
+Subfamilia, Oncoviridae e Gammaretrovírus, o vírus se insere da célula alvo
+no genoma do felino e faz viral, pro-viral que se insere no genoma da célula.
+O FELV possui agentes exógenos que se replicam em vários tecidos, tem
+predileção por células percursoras hematopoiéticas, e sua eliminação se torna
+impossível após infecção das células tronco hematopoiéticas e imune. Não se
+sabe a prevalência exata da FELV por não existir um banco de dados sobre a
+doença. Sua transmissão ocorre por meio do contato com secreções corporais
+como saliva, lágrimas de felinos contaminados, dependendo do tempo de
+exposição ao vírus o gato pode desenvolver ou não a leucemia felina (FELV).
+O grupo de risco é formado por machos, errantes, não castrados ou que
+convivem em contato com outros gatos. A sua maior fonte de infecção são os
+felinos persistentemente infectados. O FELV é classificado em quatro
+subgrupos FELV-A, FELV-B, FELV-C e FELV-T, os quais utilizam diferentes
+receptores para se inserir na célula hospedeira. Esse vírus possui diferentes
+fases de infecção, são elas a infeção regressiva, infecção progressiva,
+infecção abortiva e infecção latente. Após a transmissão o animal infectado
+pode apresentar vários sinais clínicos, que irão do órgão e de lesões
+provocados nestes órgãos. Ao causar baixa da imunidade o vírus induz o
+aparecimento das doenças e sinais clínicos. Algumas alterações podem surgir
+associadas ao FELV, como alterações hematológicas, linfoma e leucemia,
+alterações reprodutivas, oftálmicas e outras. O Diagnóstico deve ser feito com
+base em dois ou mais testes. Na clínica pode ser feito o exame rápido para a
+detecção do antígeno p27 na confirmação desse ou na dúvida, solicitar um
+exame diferente para a confirmação do diagnóstico. Existe vacina para FELV
+que é indicada apenas para animais que não possuem o vírus. Ainda não
+existe tratamento para FELV, sendo indicado o tratamento profilático e das
+infecções que surgiram decorrente da doença. Seu tratamento é feito à base
+de drogas antivirais humanas, já que não existem drogas antivirais específicas
+na medicina veterinária.
+12
+1.1 Objetivos
+1.1.1 Objetivo geral
+O objetivo é de descrever como o FeLV ocorre dentro do organismo
+animal e o que pode causar nos animais infectados por ela.
+1.1.2 Objetivo específico
+• Descrever os tipos de infecções da FeLV juntamente com as
+doenças que podem surgir com as complicações causadas pelo
+vírus;
+• Apresentar procedimentos de diagnóstico e tratamento do vírus;
+• Classificar os tipos de FeLV e caracterizar o que se refere a cada
+um.
+13
+2 METODOLOGIA
+Foi realizada uma revisão integrativa da literatura do cenário dos casos
+de leucemia viral felina com vista ao levantamento do que já existe sobre o
+tema do estudo apresentado.
+Além disso o estudo se caracteriza pela pesquisa descritiva
+exploratória, com enfoque na análise documental com respaldo qualitativo,
+utilizando recursos que possam sustentar o trabalho realizado, obedecendo
+assim os seguintes procedimentos:
+● Selecionar materiais bibliográficos existentes sobre o tema através de
+livros, pesquisas de internet e documentário sobre o assunto destacado.
+● Ler, analisar e entender as diversas informações coletadas para o
+desenvolvimento do tema.
+● Utilizar as informações adequadas ao desenvolvimento do estudo.
+As bases de dados utilizadas foram SCIELO, Google Acadêmico,
+BDTD-Biblioteca Digital de tese e dissertações, nos quais foram utilizados os
+descritores, leucemia, vírus e felino que sejam combinados aos critérios de
+inclusão de artigos publicados em português que contenham em descrever os
+processos causados pelo FeLV e as complicações que ele causa.
+As buscas foram iniciadas com a análise dos artigos científicos e em
+seguida a leitura dos resumos, selecionando os que tratavam da leucemia
+viral felina, além dos fatores dos diagnósticos e tratamentos em artigos com
+idioma português, com data de publicação de 2012 a 2022.
+14
+3 REVISÃO DE LITERATURA
+3.1 Histórico e etiologia
+O vírus da Leucemia Felina (FeLV) pode ser encontrado em todo o
+mundo, a sua prevalência depende da sua distribuição geográfica e dos
+hábitos dos tutores em testar e vacinar seus felinos. Apresenta maior número
+de síndrome clínica que qualquer outro agente. Pode acometer gatos
+domésticos e selvagens. O FeLV foi descrito pela primeira vez por William
+Jarrett et., em 1964, quando identificaram através de microscópio eletrônico
+partículas virais a partir da membrana de linfoblastos infectados de um felino
+com linfoma de ocorrência natural (GREENE, 2015).
+Pertencente à Família Retrovirídea, Subfamilia, Oncoviridae de
+retrovirus e gênero Gammaretrovírus, o FeLV. O vírus produz transcriptase
+reversa, que catalisa a reação que resulta na formação de uma fita de DNA
+(pró-vírus) a partir do RNA viral no citoplasma das células infectadas. Dessa
+forma o DNA viral é inserido no genoma das células hospedeiras. Possui
+envelope lipoproteico e RNA de fita simples. Os retrovírus são comumente
+associados a doenças muito debilitantes que podem levar o paciente a óbito
+(LEITE et al. 2013).
+Seu capsídeo contém formato de cone que é formado por proteína
+central. Esses vírus são envelopados permitindo que a glicoproteína consiga
+entrar e se aderir na célula do hospedeiro (ALVES; MENOLLI, 2021).
+O FeLV possui três genomas, são eles: env, pol e gag, o gene envelope
+(env) é responsável por codificar a glicoproteína de superfície gp70 e a
+proteína transmembrana p15E. O gene polimerase (pol) é responsável pela
+transcriptase reversa, que consiste em síntese de DNA a partir de transcrição
+de um RNA. O gene (gag) codifica proteínas internas dos vírus como p.27,
+p12, p10. A proteína p27 é de extrema importância para originar o
+nucleocapsídeo do vírus, e de grande importância para a detecção das
+infecções pela FeLV através da detecção da proteína p27 em plasma
+sanguíneo e nas células infectadas pelo vírus (SILVA et al. 2018).
+O FeLV é um agente exógeno que sofre replicação em inúmeros
+tecidos. Caso a resposta imune do animal não interfira após a infecção inicial
+o FeLV atinge a medula óssea e infecta as células hematopoiéticas. Todos os
+Retrovírus precisam de um DNA intermediário para que possa ocorrer a
+15
+replicação viral, assim o FELV se integra aleatoriamente o seu DNA no
+genoma da célula do hospedeiro dando origem ao provírus, do qual será
+realizada a síntese de proteínas virais. Após a infecção da medula óssea, que
+é o centro das células tronco hematopoéiticas e imune, sua eliminação se
+torna impossível (GREENE, 2015).
+3.2 Epidemiologia
+A prevalência exata da FeLV não é conhecida, por se tratar de uma
+doença que não possui notificação obrigatória e não apresenta um banco de
+dados nem obrigatoriedade para os tutores testarem seus animais (SILVEIRA;
+JIMENEZ, 2020).
+Animais com infecção progressiva podem eliminar o agente por meio
+de aerossóis, fluidos corpóreos, leite, urina e fezes, onde a transmissão pode
+ocorrer por via oronasal. Para a que a infecção ocorra o animal precisa ser
+exposto prolongadamente ao vírus, que pode ocorrer por meio de
+compartilhamento de bebedouros e comedouros, ou contato direto com
+animal infectado através de comportamento agressivo ou sexual,
+mordiscadas, comportamento social, limpeza mútua e uso de áreas comuns
+de ninhadas (LEITE et al., 2013).
+O grupo de risco é formado por machos, errantes, não castrados e
+felinos que moram em locais onde tem vários outros animais. A transmissão
+do vírus também ocorre de forma iatrogênica, através de transfusão
+sanguínea, caso o animal doador seja portador do vírus, por isso a testagem
+para leucemia (SILVA et al., 2020).
+3.3 Fisiopatologia
+Felinos persistentemente infectados são a principal fonte de infecção
+podendo eliminar na saliva milhões de partículas virais. O FeLV pode causar
+infecção regressiva, progressiva, abortiva e latente. Existem fatores que
+podem influenciar essa infecção, seria resposta imune, cepa viral ao qual o
+animal desse felino (ALVES et al., 2015).
+O vírus é classificado em quatro subgrupos, são eles FeLV-A, FeLV-B,
+FeLV-C e FeLV-T. Esse vírus pertence a classe de vírus autônomo em
+replicação. O FeLV-A é o subgrupo mais identificado em felinos infectados
+16
+naturalmente pelo vírus. Estima-se que boa parte dos animais que possuem
+a infecção natural foi infectado inicialmente pela FeLV-A. Que normalmente é
+o subgrupo menos patogênicos quando associado aos demais subgrupos,
+podendo ser transmitido naturalmente de felino para felino e único transmitido
+horizontalmente. O Retrovírus endógeno (ERVs – endogenous retroviruses)
+podem ser transmitidos como provirus no DNA, geralmente ele se mantém
+estável no hospedeiro durante gerações. Estudos sugerem que a partir da
+combinação do FeLV-A com o enFeLV são formados os demais subgrupos
+(SILVA et al., 2020). Esses subgrupos vão utilizar diferentes receptores para
+entrar na célula do hospedeiro (LEITE et al., 2013).
+Os subgrupos B e C, são considerados mais patogênicos. A
+glicoproteína p 70 desses subgrupos possuem estruturas alteradas, tornando
+sua replicação defeituosa. O FeLV-B está relacionada a neoplasias
+hematopoiéticas e associadas a linfoma tímico. O FeLV-C está mais
+associado a neoplasias eritróide e por consequência anemias graves. O
+FeLV-T é propenso a infectar e destruir linfócitos T levando a destruição
+linfocitária e imunodeficiência (ALVES et al., 2015).
+A família retroviridae tem esse nome por causa da enzima transcriptase
+reversa. Durante anos o FeLV foi considerado o maior causador de morte em
+gatos por síndrome clínica do que qualquer outro agente. Estima-se que
+quase um terço de todas as mortes relacionadas a tumor em gatos estão
+ligadas a FeLV, estima-se que um número maior de mortes por anemia e
+infecção secundária estão associados ao FeLV. A média de sobrevivência de
+um felino infectado pelo vírus é de dois anos e quatro meses de vida, mesmo
+associado a diminuição na expectativa de vida do animal seja um dos fatores
+presentes na enfermidade, alguns tutores vão optar por fornecer tratamento
+adequado para seu animal, influenciando na qualidade de vida do mesmo,
+animais infectados podem viver muitos anos com suporte adequado. Após o
+início da infecção, o vírus vai atingir os tecidos linfoides e lá se multiplicar.
+Gatos imunocompetentes conseguem debelar a infecção de todas as células
+do organismo por uma resposta mediada pela resposta imune humoral,
+contribuindo para esses animais não se tornarem virêmicos, o sangue desse
+animal não vai demonstrar nenhum tipo de alteração associada ao FeLV. É
+provável que essa infecção aconteça quando o gato é exposto a baixas
+17
+quantidade do vírus. Poucos gatos que foram expostos ao vírus consigam
+eliminar completamente o vírus de toda as células do corpo (HARTMANN
+2012).
+3.3.1 Infecção regressiva
+Todas as infecções são crônicas e se desenvolvem durante os
+diferentes estágios da doença. A infecção pelo vírus da FeLV é dividida em
+quatro tipos.
+Na infecção regressiva a viremia é contida antes ou logo depois da
+infecção inicial da medula óssea. Após o início da infecção a FeLV vai infectar
+células mononucleares que são linfócitos e monócitos. Durante essa fase
+testes como ELISA, que detectam o antígeno p27, vão dar positivo.
+Gatos com a infecção regressiva vai espalhar o vírus principalmente
+pela saliva, no entanto a viremia acaba em semanas ou meses. Em alguns
+animais ela resiste mais de três semanas, após esse tempo as células
+percursoras hematopoiéticas são infectadas desenvolvendo granulócitos e
+plaquetas infectadas que vão circular pelo corpo. Mesmo com células
+percussoras hematopoiéticas infectadas, uma pequena porcentagem dos
+gatos infectados é capaz de eliminar a viremia. Porém, mesmo com o fim da
+viremia, ele não elimina o vírus totalmente do organismo, pois suas células
+tronco vão conter o DNA proviral no genoma do hospedeiro, nestas condições,
+o vírus não é produzido ativamente, em exames de detecção do antigeno da
+FeLV.
+Durante a divisão celular o DNA proviral pode aparecer em linhagens
+celulares completas, porém o DNA proviral não vai ser traduzido em proteínas
+ou partículas virais infecciosas. Sendo assim, gatos com FeLV latente não
+excretam FeLV e não são infecciosos para outros gatos. O PCR pode detectar
+provírus que são antígenos negativado em gato com a infecção latente. A
+infecção latente pode ser reativada em imunossupressão ou outro fator
+debilitante pois o felino já possui informação para produzir partículas virais
+estando presente pode ser ativida (HARTMANN 2012).
+3.3.2 Infecção Progressiva
+Gatos que apresentam infecção progressiva são persistentemente
+virêmicos. Cerca de 30% dos felinos que se contaminam com o vírus da FeLV
+18
+desenvolvem a infecção progressiva. Razões como carga viral, idade do
+animal na exposição do vírus ou idade do animal no início da infecção estão
+relacionados com a forma progressiva da FeLV. Sintomas de antigenemia
+persistente e avanço acelerado do quadro da doença são observados em
+animais que apresentam infecção progressiva (COELHO, 2013).
+Com isso, acontece uma ampla replicação do vírus, iniciando pelos
+tecidos linfoides, depois pela medula óssea, seguindo pelo epitélio glandular.
+Tanto a infecção progressiva quanto a regressiva são caracterizadas por meio
+de testes rápidos que por intermédio do sangue periférico é realizada a
+pesquisa do antígeno viral.
+Quando detectado infecção progressiva o felino infectado permanece
+sempre positivo, o que difere da regressiva, onde o animal torna-se negativo
+cerca de 16 semanas após contaminado. Atualmente, este teste rápido é o
+método mais indicado para diagnóstico de infecção progressiva, pois detecta
+o antígeno P27. (LITTLE et al., 2020). Esse tipo de teste não é possível ser
+realizado com amostras de saliva, pois foram relatados baixa sensibilidade,
+tendo um resultado mais fidedigno quando realizados com amostras de
+sangue, plasma ou soro (KENNEDY; LITTLE, 2012). Fatores como vacinação
+ou imunidade materna não influencia no resultado do teste, como também os
+gatos.
+3.3.3 Infecção abortiva
+Após a infecção inicial, na área que se localiza a orofaringe, acontece
+o processo de replicação do vírus no tecido linfoide local, que tem a função
+de produzir, maturar e conduzir as células de defesa do organismo. Essa
+replicação pode ser impedida em alguns felinos imunocompetentes, por
+possuírem níveis favoráveis de anticorpos neutralizantes, o organismo envia
+uma resposta imune humoral e uma resposta intervinda por células, logo
+esses felinos não desenvolvem viremia.
+A infecção abortiva poucas vezes foi notada depois da inoculação
+experimental do vírus, ela é definida por apresentar resultados negativos na
+cultura viral. Nem o antígeno da FeLV nem o RNA viral ou DNA proviral
+poderão ser detectados no sangue em qualquer fase do processo. Nessas
+circunstâncias, o vírus não irá sofrer disseminação sistêmica, e não se detecta
+19
+infecção. Estudos realizados em felinos domésticos mostram que animais
+expostos a baixas doses do vírus desenvolvem esse tipo de infecção.
+Atualmente não se tem o conhecimento se o mesmo acontece na natureza,
+pois estudos recentes realizados a partir de métodos de PCR mais sensíveis,
+apontaram que animais antes considerados “regressores”, posteriormente o
+vírus poderá ser recuperado, e provavelmente nenhum ou somente alguns
+dos felinos poderão demonstrar uma completa resolução da infecção pelo
+vírus da FeLV nas células. Sendo assim, os anticorpos responsáveis por
+neutralizar o vírus permanecem nos felinos recuperados sem haver infecção,
+manifestação ou exposição a felinos virêmicos. Os felinos recuperados
+geralmente têm a mesma expectativa de vida que um animal nunca exposto
+ao vírus da FeLV, pois eles possuem uma ótima resposta imunológica, se
+defendendo de novas ondas virais (HARTMANN, 2012).
+3.3.4 Infecção Latente
+Na infecção latente alguns gatos são capazes de depurar a viremia,
+ainda que não ocorra a erradicação total do vírus, nas células tronco da
+medula se encontra a informação para a replicação do vírus. Ainda que no
+interior do genoma celular se encontre o DNA proviral, não há produção de
+algum vírus ativamente, pois uma boa resposta do sistema imune limita que o
+vírus consiga se replicar, assim como se expressar (ALMEIDA et al., 2016).
+3.4 Transmissão
+As secreções nasais, assim como a saliva de animais infectados tem
+grande poder de transmissão viral, sendo a região oronasal a via principal de
+infecção. Comedouros e bebedouros compartilhados são grandes
+responsáveis pela contaminação de outros felinos sadios, pois a saliva de
+animais virêmicos contém alta quantidade do vírus. Outras vias com menor
+capacidade de transmissão, mas não menos importante ocorre através do
+leite, das secreções lacrimais e por meio das fezes e urina.
+A chamada transmissão iatrogênica é um meio indireto de propagação,
+ela acontece por meio de transfusão sanguínea, agulhas infectadas ou outros
+objetos contaminados (fômites).
+20
+O animal doador seja portador do vírus, por isso a testagem da FeLV
+deve ser realizada antes da coleta do sangue do animal. Esse tipo de
+transmissão é mais difícil de ocorrer pelo fato do vírus da FeLV não conseguir
+permanecer por muito tempo no ambiente. (SILVA et al., 2020).
+A transmissão da mãe para seus filhotes pode acontecer tanto por via
+transplacentária quanto após o nascimento pela amamentação ou até mesmo
+por meio de lambeduras. Esse tipo de transmissão recebe o nome de vertical.
+Vale ressaltar que casos de aborto, reabsorção fetal ou morte dos fetos pode
+acontecer em fêmeas gestantes infectadas (OLIVEIRA, 2013).
+3.5 Aspectos Clínicos
+Os sinais clínicos vão depender de qual órgão foi afetado e de que tipo
+de lesão que o vírus vai causar no hospedeiro. Após a exposição inicial ao
+vírus alguns gatos podem apresentar leves sinais clínicos e outros podem
+levar de anos a meses para começar qualquer tipo de sinal associado a
+distúrbios levados pelo FeLV (ALVES; MENOLLI 2021).
+Sabe-se que ao ocasionar a baixa da imunidade vai induzir
+aparecimento de doenças ou de alguns sinais clínicos. A leucemia é a
+proliferação neoplásica das células originais percursoras da medula óssea,
+geralmente associadas a infecção pelo FeLV. As células que se tornam
+neoplásicas são os monócitos, basófilos, neutrófilos, eosinófilos, linfócitos,
+eritrócitos e megacariócitos (ALMEIDA et al., 2016).
+Fonte: Caderno Técnicos de Veterinária e Zootenia Nº 64 – janeiro de 2012
+Figura 1 - Felino FeLV positivo, apresentando
+icterícia.
+21
+3.6 Sintomas Associadas ao FELV
+Por se tratar de uma doença debilitante as manifestações clínicas são
+variadas e normalmente vem associada agentes infecciosos tais como
+doenças reprodutivos (aborto, reabsorção fetal), imunomediadas,
+proliferativas (linfoma), mielossupressão (síndromes leucopênicas e anemia),
+desordens mioloproliferativas (leucemia), enterites, fibrossarcomas e
+síndromes neurológicas (OLIVEIRA, 2013).
+3.6.1 Alterações Hematológicas
+Mesmo o FeLV sendo descrito a partir de um linfoma de um gato
+infectado, vários animais procuram o veterinário em casos de
+imunossupressão e anemias e não neoplasias.
+A hematopoiese também pode ser afetada, por causa da predileção
+do vírus por células percursoras sanguíneas, levando a uma disfunção
+linfoide, anemia em consequência da mielossupressão disfunção plaquetária,
+neutropenia e linfocitopenia. Deixando animal mais susceptível a outras
+infecções. Em decorrência da FeLV pode ocorrer enterite crônica, algumas
+neuropatias, incontinência urinária, vocalização, paralisia e hiperestasia
+(OLIVEIRA, 2013).
+Alterações hematológicas e bioquímicas de relevância da FeLV,
+achados mostram que a linfopenia foi a alteração mais comuns em gatos
+infectados em seguida da presença de linfócitos atípicos ou relativos, e
+anemia e alterações não muito comum como leucocitose, leucopenia,
+monocitose, eosinofilia, neutrofilia, neutropenia, desvio nuclear de neutrófilo a
+esquerda e presença de neutrófilos tóxicos (FERREIRA et al., 2017).
+22
+Fonte: Caderno Técnicos de Veterinária e Zootenia Nº 64 – janeiro de 2012
+3.6.2 Linfoma e Leucemia
+Por ser uma doença que atinge as células que vão originar as células
+sanguíneas, acabam tornando as linhagens celulares neoplásicas. A presença
+do FeLV no organismo pode aumentar os riscos de linfoma em até 60 vezes. O
+linfoma e a Leucemia linfoide ou mieloide são alterações associadas ao FeLV
+(SILVA et al., 2018).
+3.6.3 Alterações Reprodutivas
+A FeLV pode favorecer o aparecimento de alterações reprodutivas, as
+gatas gestantes positivas para o vírus podem passar por abortos, reabsorção
+fetal, involução placentária e morte fetal. Decorrente da infecção uterina que
+o vírus vai causar. Em alguns casos filhotes que sobrevivem morrem horas
+depois ou quando a mãe se apresenta na infecção latente da doença os
+filhotes podem nascer viremicos. Decorrente da infecção uterina que o vírus
+vai causar. A mãe pode passar o vírus para o filhote através do leite materno
+ou o vírus pode ser transportado nos leucócitos da mãe através da placenta
+(MERCK, 2013).
+3.6.4 Alterações Oftálmicas
+Doenças infecciosas predispõem aparecimento de uveíte em gatos.
+Geralmente a uveíte vem secundária a infecção de outro agente, devida à
+baixa da imunidade que debilita o animal a imunossupressão vai fazer com
+que o felino fique mais propenso a alterações como as alterações oculares.
+Figura 2 - Felino FeLV positivo recebendo
+transfusão sanguínea.
+23
+São poucos os animais infectados pelo FeLV que apresentam alterações
+oftálmicas. O diagnóstico da Uveíte secundária a infecção causada pela FeLV
+difícil pois há várias outras doenças que podem levar ao surgimento da
+(SANTOS; DUTRA, 2020).
+Figura 3 - Felino apresentando uveíte
+Fonte: Disponível: https://www.nbnoticias.com. Acesso em: 12/05/2022
+3.7 Diagnóstico
+O diagnóstico da FeLV deve ser confirmado com base na realização de
+dois ou mais testes. Dependendo de qual fase o felino se encontra da infecção
+podem ter testes que ainda não vão conseguir detectar o antígeno do vírus.
+Portanto é recomendada a utilização de vários métodos de diagnóstico, que
+pode identificar em qual fase da infecção o paciente vai se encontrar.
+A fase inicial da infecção pode ser identificada por meio de detecção
+do RNA viral, através de amostra de saliva e plasma do gato. Testes que vão
+detectar a presença da proteína p27 no sangue, só vai conseguir detectar o
+antígeno a partir da terceira semana da infecção. Recomenda-se para o
+diagnóstico da infecção progressiva uma triagem utilizando testes rápidos que
+vão detectar o antígeno p.27 através de amostras de sangue, soro ou plasma.
+Não é recomendada a utilização de lagrimas ou saliva, porque só após a
+infecção das células epiteliais que o vírus pode ser encontrado nessas
+amostras.
+24
+Os testes rápidos são os testes atualmente mais utilizados em clínicas
+e hospitais veterinários, por seu curto tempo de espera pelo resultado. Porém
+é necessário solicitar outros exames para a confirmação do diagnóstico obtido
+primordialmente nos testes rápidos. Podendo ser utilizado (ELISA) ensaio de
+imunoabsorção enzimática, (PCR) Reação em cadeia de polimerase, que
+detecta o provírus, ou (IFA) ensaio de imunofluorescência, que detecta o vírus
+nas células e utilização de um novo teste rápido de marca diferente do
+primeiro teste, para diminuir as chances de um falso positivo. Animais que
+não se tem certeza da sua exposição ao vírus ou não se sabe por quanto
+tempo ele foi exposto ao vírus, o teste deve ser repetido com 30 dias (SILVA
+et al., 2020).
+Fonte: DEXX Laboratories 2017.
+O ELISA contém anticorpos monoclonais anti-FeLV p27, possui alta
+sensibilidade sendo capaz de detectar o vírus a partir do seu segundo estágio,
+geralmente com quatro semanas da infecção, mas pode levar até 12 semanas
+para um resultado positivo. Soro sanguíneo é a amostra mais indicada para a
+realização do teste por apresentar poucos resultados falso-positivo. Nos
+outros testes o vírus só é detectado após a viremia.
+Hemograma e bioquímico veem associados a anemias e aumento das
+enzimas hepáticas e bilirrubinas séricas. Aspirado de medula óssea é uma
+Figura 4 - SNAP FIV/FELV Combo Test
+25
+amostra indicada para a realização do teste da FeLV, em gatos que deram
+negativos nos testes sanguíneos, estes animais podem apresentar resultados
+positivos nesse teste, pois o vírus pode ser sequestrado na medula óssea
+(PAULA et al.,2014).
+A falha em diagnóstico de um felino com FeLV vai comprometer a
+saúde animal com um tratamento incorreto e pode levar a disseminação do
+vírus para gatos sadios (ALVES et al., 2015).
+3.8 Tratamento
+Ainda não existe de fato uma cura para a FeLV, sendo o tratamento
+sintomático. Logo, se o gato com a FeLV apresentar rinotraqueíte, trata-se a
+rinotraqueíte, assim como outros sintomas que são decorrentes da FeLV,
+como o linfoma por exemplo. Diversos estudos vêm sendo realizados ao longo
+dos anos em vários países, porém nenhum deles ainda é conclusivo.
+O tratamento dessas retroviroses consiste em medicamentos antivirais
+e drogas imunoestimulatórias. Até o momento, não há drogas antivirais
+específicas para medicina veterinária; assim, se faz o uso de medicações
+utilizadas no tratamento do vírus da imunodeficiência humana (HIV) (ROCHA
+et al., 2014).
+Tem-se utilizado no tratamento da FeLV drogas antivirais como a
+zidovudina ou azidotimidina (AZT) que foi o primeiro medicamento antiviral
+utilizado para tratar o HIV, como também o primeiro retroviral utilizado no
+tratamento da FeLV, tendo função de inibir a transcriptase reversa. Diversos
+estudos têm sido realizados sobre o uso dessa droga, contudo sua utilização
+em felinos persistentemente virêmicos não tem mostrado um efeito desejado.
+A utilização da AZT apresenta uma melhor efetividade em gatos infectados
+por experimentação aos infectados naturalmente. Vários efeitos tóxicos têm-
+se apresentados com a utilização de antivirais, logo, a disponibilidade desses
+medicamentos é limitada (ORNELAS et al 2012).
+A dosagem da azidotimidina é de 5-10 mg/kg, via oral ou subcutânea,
+de 12 em 12 horas. O desenvolvimento de uma anemia arregenerativa pode
+ser um efeito colateral do medicamento, logo a utilização da dosagem máxima
+deve ser realizada com extrema cautela. A droga deve ser diluída no cloreto
+de sódio 0,9% se for administrada por via subcutânea. Por via oral são
+26
+utilizados xaropes ou cápsulas. A zalcitabina, sumarin, didanosina, foscarnet
+e a ribavirina são drogas utilizadas em humanos para o tratamento da AIDS e
+o uso em felinos vem sendo estudado. A suramina é eficaz contra o FeLV,
+porém é responsável por muitos efeitos adversos.
+Em algumas situações os felinos apresentam melhora dos sinais
+clínicos por meio de imunoterapia, as drogas que podem ser utilizadas são
+proprionibacterium acnes, proteína A do staphylococcus spp., interferon alfa
+humano, acermannan ou extrato biológico de S. marcescens (BESM), todas
+elas apresentam eficácia em gatos com o vírus da FeLV, mas o BESM causa
+hipertermia e neutrofilia (ROCHA et al., 2014).
+Os imunomoduladores como interferon alfa humano e o levamisol
+estimula a resposta imunológica do animal, logo reduz os antígenos virais
+circulantes e geram uma melhora no quadro clínico. Já o interferon tipo 1 e o
+interferon-ω apresentam propriedades antivirais, impedindo a replicação do
+vírus e prevenindo infeções secundárias (BRAZ et al., 2012).
+Segundo a agência governamental FDA (Food and Drug
+Administration) cerca de 25 drogas foram aprovadas para o tratamento do
+HIV-1, que é o retrovírus mais estudado em termos de desenvolvimento de
+medicamentos. Ainda que a FeLV seja um gammaretrovírus e o HIV-1 um
+lentivírus, ambos possuem o mecanismo de replicação do vírus bastante
+semelhante, logo as drogas anti-HIV-1 também tem função de inibir a
+replicação da FeLV. Quatro medicamentos tiveram a aprovação do FDA
+inibindo o FeLV em cultura de células de acordo com estudos realizados por
+Greggs et al (2012). O raltegravir e o tenofir, que são drogas utilizadas no
+tratamento da HIV-1, e a gemcitabine e decitabine utilizadas para tratar o
+câncer de pâncreas e a síndrome mielodisplásica. A combinação de drogas
+quimioterápicas como doxorrubicina com vincristina, prednisona e
+ciclofosfamida são utilizadas nos felinos que desenvolveram neoplasias,
+tendo assim uma melhor chance de remissão completa. Em animais que
+apresentam sinais de doenças oportunistas são realizados tratamentos
+específicos para tal enfermidade. Em casos de anemia arregenerativa a
+utilização de eritopoetina, vitamina B12 e ácido fólico não apresenta uma boa
+resposta do organismo, sendo mais indicado à transfusão sanguínea para
+estabilizar o quadro do animal. Já nos casos de anemia hemolítica, sabendo
+27
+que essa anemia ocorre por reação imunomediada utiliza-se a prednisona. A
+utilização de doxiciclina no tratamento da anemia hemolítica que é causada
+pelo Microplasma, haemofelis, tem um bom resultado clínico. Felinos que
+apresentam quadro de viremia persistente, tem sua expectativa de vida
+diminuída em relação as síndromes clínicas que apresentam por conta do
+quadro. Nos dias atuais considera-se uma expectativa mais ampla caso o
+animal receba o tratamento adequado (HARTMANN, 2012).
+3.9 Vacinação
+Antes de ser introduzido em um ambiente onde o gato terá contato com
+outros felinos não infectados, assim como os gatos de uma residência ao
+introduzir um novo animal testado negativo para FeLV, é indicada a
+vacinação. A vacina é efetiva apenas para felinos que forem negativos nos
+testes, pois ela não apresentará benefícios para animais já infectados. A
+vacinação irá ajudar o felino a não contrair a infecção pelo vírus e auxiliar os
+animais a não contraírem a FeLV da forma persistente. As vacinas possuem
+subunidades criada por engenharia em laboratórios genéticos e o vírus
+inativo. Embora sejam baixos os relatos, há informação que a vacina vem
+sendo associadas a sarcomas na área de aplicação (MERCK, 2013).
+28
+4. CONSIDERAÇÕES FINAIS
+O FeLV é uma das principais enfermidades na medicina felina devido ao
+seu potencial patogênico, e já foi responsável pelo maior número de mortes e
+síndromes clínicas comparado a outras doenças em felinos, esta doença é
+causada por um retrovírus, pertencente a subfamília Oncoviridae, tendo a
+capacidade de causar distúrbios de proliferação e supressão celular. A forma
+que ela mais se apresenta clinicamente nos felinos é pela imunodeficiência
+decorrente de uma disfunção imunológica e pela debilitação do sistema
+linfoide.
+Ainda não existe uma cura total do FeLV, o tratamento resulta em
+remissão total ou parcial do vírus ainda havendo chances de contágio. A
+doença tem o prognóstico reservado em situações de viremia persistente. Os
+animais infectados que não apresentam sinais clínicos permanecem meses ou
+anos sendo assintomáticos. Após o diagnóstico de animais infectados, deve-
+se isolá-los impossibilitando o contato com felinos susceptíveis e o acesso à
+rua, sendo a forma de prevenção mais adequada.
+Por fim, vale salientar sobre a importância de um diagnóstico fidedigno
+tanto para felinos positivos para o FeLV, quanto para os negativos, uma vez
+que a falha no diagnóstico pode levar a mais contaminações de animais
+saudáveis, e até um tratamento não adequado.
+29
+REFERÊNCIAS
+ALVES, Suzane Aparecida; MENOLLI, Kássia Amariz Pires. Vírus da
+leucemia felina: revisão. Revista Terra & Cultura: Cadernos de Ensino e
+Pesquisa, v. 37, n. 72, p. 34-40, 2021.
+ALVES¹, Maria Cecília Rodrigues et al. Leucemia viral felina:
+revisão. PUBVET, v. 9, p. 052-100, 2015.
+CRMV, Cadernos Técnicos de Veterinária e Zootecnia, ISSN 1676-6024, Nº
+64 – janeiro de 2012. Retroviroses de animais domésticos. Editora
+FEPMVZ.
+COBUCCI, Gustavo Carvalho et al. Fatores de risco e sintomatologia clínica
+associados à infecção pelo FELV: estudo caso-controle em um hospital escola
+veterinário. Ciência Animal Brasileira, v. 20, 2019.
+DA SILVA, Dayse Helena Lages et al. Importância do vírus da leucemia felina
+na linfomagênese: Revisão. PUBVET, v. 12, p. 133, 2018.
+FERREIRA, Rafaela Furioso et al. Perfis hematológicos, bioquímicos e
+proteína plasmática total de gatos infectados com o vírus da leucemia
+felina. Archives of Veterinary Science, v. 22, n. 4, 2017.
+GREENE, Craig.E, Doeças infecciosas em cães e gatos, 4º ed. Rio de
+Janeiro, Editora Guanabara Koogan LTDA, 2015.
+HARTMANN, Katrin. Clinical aspects of feline retroviruses: a review. Viruses,
+v. 4, n. 11, p. 2684-2710, 2012.
+OLIVEIRA, Paula Maria Pires do Nascimento et al. Retroviroses dos animais
+domésticos. Veterinária e Zootecnia, v. 20, p. 73-92, 2013.
+RESENDE, JULIANA ALVES et al. TÓPICOS ESPECIAIS EM CIÊNCIA
+ANIMAL X. 2021.
+Santos, J., & Dutra, L. S. (2020). UVEÍTE SECUNDÁRIA À LEUCEMIA VIRAL
+FELINA (FeLV): REVISÃO DE LITERATURA. Anais do Seminário
+Interinstitucional de Ensino, Pesquisa e Extensão.
+KAWN, Cynthia.M, Manual Merck de veterinária, 10º ed. São Paulo, Grupo
+editorial nacional, 2013.
