@@ -1,0 +1,28 @@
+{
+    "pergunta_original": "Quais são os perigos da Felv?",
+    "agentes": [
+        "VectorDB Retriever",
+        "Tavily Search",
+        "Llama3 LLM"
+    ],
+    "recuperacao": {
+        "status": "pendente",
+        "itens": [
+            {
+                "conteudo": "## Como perceber a doença?\n\nEntender como a leucemia felina age no corpo do pet é fundamental para compreender sua gravidade. A Dra. Camille afirma que o perigo da Felv é que ela ataca as defesas do gato infectado. Dessa forma, há maior probabilidade de infecções secundárias decorrentes da Felv. De acordo com a especialista, os principais sintomas são:\n\n   Anorexia;\n   Perda de peso;\n   Apatia;\n   Problemas respiratórios;\n   Estomatites;\n   Febre.\n\nOs sinais acima podem assustar. Entretanto, eles representam um quadro mais leve da Felv em gatos. A Dra. Camille afirma que, em casos mais graves, os gatos podem apresentar:\n\n   Distúrbios hematológicos;\n   Linfoma;\n   Problemas neurológicos;\n   Paralisia. [...] A especialista explica ainda que o vírus afeta o sistema imunológico do peludo, o que facilita a entrada de vírus e bactérias, gerando diversas infecções. Em casos mais graves, o Felv pode ainda causar linfoma, um tipo de câncer de sangue. Devido à gravidade da doença, especialistas alertam os tutores sobre a necessidade de ficar de olho ainda nos primeiros sintomas.\n\n## Como proteger seu amigo\n\nComo explica a Dra. Camille, a Felv é uma doença causada por um vírus. Assim, o contágio ocorre quando o bichano entra em contato com pets ou ambientes contaminados. “Os gatos infectados com Felv eliminam o vírus pela saliva, fezes, leite e urina”, explica.",
+                "fonte": "https://www.petz.com.br/blog/quanto-tempo-vive-um-gato-com-felv"
+            },
+            {
+                "conteudo": "Boehringer Ingelheim\n\n# Tudo que você precisa saber sobre a leucemia viral felina, a FeLV\n\nA Leucemia Viral Felina (FeLV) é uma doença viral causada pelo vírus da leucemia felina, que afeta exclusivamente gatos. Esse vírus compromete o sistema imunológico, tornando os gatos mais vulneráveis a outras infecções e doenças graves, como anemia e linfomas. A FeLV é considerada uma das principais causas de morte em gatos domésticos e em situação de rua. Saiba mais sobre essa doença tão perigosa para os felinos.\n\nPurevax® FeLV\n\nSintomas da FeLV: como identificar que o gato pode estar infectado?\n\nOs sintomas da FeLV podem variar dependendo do estágio da infecção, mas alguns sinais comuns incluem: [...] Gatos que vivem em situação de rua ou têm acesso ao ambiente externo apresentam um risco significativamente maior de contrair FeLV, principalmente devido ao contato direto com outros felinos infectados e às formas de transmissão, como saliva, mordidas e secreções. De acordo com o estudo da WSAVA (World Small Animal Veterinary Association), a prevalência global de FeLV em gatos de rua pode chegar a 21%, enquanto em gatos domésticos bem cuidados e vacinados, essa taxa é geralmente inferior a 1%. [...] Risco da FeLV em gatos com Imunodeficiência viral felina (FIV)\n\nGatos que já possuem o vírus da imunodeficiência felina (FIV) estão em maior risco de desenvolver complicações graves se também forem infectados pela FeLV. Isso ocorre porque o sistema imunológico desses gatos já está comprometido, dificultando ainda mais a resposta do organismo às infecções.\n\nGatos com FeLV positivo podem conviver com gatos FeLV negativo?",
+                "fonte": "https://www.boehringer-ingelheim.com/br/saude-animal/animais-de-companhia/tudo-que-voce-precisa-saber-sobre-leucemia-viral-felina-felv"
+            },
+            {
+                "conteudo": "Foto: Gorodenkoff | Shutterstock / Portal EdiCase\n\nA FeLV é transmitida por meio do contato direto com um gato infectado, principalmente por meio da saliva, mas o contágio também pode acontecer por urina, fezes e sangue. \"Isso torna situações como brigas, mordidas, arranhaduras, partilha de comedouros e lambeduras um risco na transmissão da doença\", alerta Mariana Paraventi, veterinária e coordenadora de operações/franquias da Petland. Ainda segundo ela, os filhotes também podem se infectar por meio da placenta da mãe infectada, bem como pela ingestão do leite.\n\nNotícias relacionadas\n\nBolo caseiro sem açúcar e sem glúten. Foto: SaúdeLAB",
+                "fonte": "https://www.terra.com.br/vida-e-estilo/pets/8-cuidados-importantes-com-gatos-com-felv,7a6875cce466a355314c36d25c6eb124z1sa5nry.html"
+            }
+        ]
+    },
+    "fallback_acionado": true,
+    "motivo_fallback": "Score de similaridade abaixo do limiar (0.6)",
+    "resposta_final": "Based on the provided documents, the dangers of Felv (Leucemia Viral Felina) are:\n\n1. Attack on the cat's defenses: The virus weakens the cat's immune system, making it more susceptible to secondary infections.\n2. Infecções secundárias: With a compromised immune system, cats with Felv are more likely to develop various infections.\n3. Serious complications: In severe cases, Felv can cause:\n\t* Hematological disorders\n\t* Lymphoma (a type of blood cancer)\n\t* Neurological problems\n\t* Paralysis\n\nAdditionally, the virus also:\n\n1. Facilitates entry of other viruses and bacteria: The compromised immune system allows for easier infection by other pathogens.\n2. Increases risk of lymphoma: Felv can cause lymphoma, a serious blood cancer.\n\nIt's essential to monitor your cat closely for early signs of the disease, as this can lead to more severe complications if left untreated."
+}

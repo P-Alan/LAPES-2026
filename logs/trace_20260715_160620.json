@@ -1,0 +1,19 @@
+{
+    "pergunta_original": "WWhat are the symptoms of allergy caused by cats?",
+    "agentes": [
+        "VectorDB Retriever",
+        "Llama3 LLM"
+    ],
+    "recuperacao": {
+        "status": "sucesso",
+        "itens": [
+            {
+                "conteudo": "1. Alergia\nA alergia é uma das principais situações relacionada com os gatos e pode ser desencadeada pelo contato com os pelos dos gatos. Os principais sinais e sintomas de alergia respiratória são espirros, inchaço das pálpebras dos olhos, problemas respiratórios e até mesmo asma em algumas pessoas.\nLeia também: Alergia respiratória: sintomas, causas, tipos e o que fazer tuasaude.com/sintomas-de-alergia-respiratoria\nAlergia respiratória é uma resposta exagerada do sistema imunológico a substâncias alergênicas, causando sintomas como nariz escorrendo ou entupido, dificuldade para respirar, chiado no peito ou coceira no nariz e nos olhos.\nA alergia respiratória pode ser causada por contato com pó, pólen, pelos de animais ou mofo, por exemplo, sendo mais comum em pessoas com predisposição genética ou que possuem maior sensibilidade do sistema imunológico.\nPara tratar a alergia respiratória corretamente, o alergologista, pneumologista, otorrinolaringologista ou clínico geral deve identificar a sua causa e indicar o tratamento mais adequado que pode envolver o uso de remédios anti-histamínicos, além de evitar o contato com a substância alergênica.\nSintomas de alergia respiratória\nOs principais sintomas de alergia respiratória são: \n\tEspirros frequentes;\n\tTosse seca;\n\tNariz escorrendo ou entupido;\n\tCoceira nos olhos, nariz ou garganta;\n\tDor de cabeça;\n\tOlhos lacrimejando.\nEsses sintomas podem não estar presentes ao mesmo tempo e normalmente a alergia respiratória não causa febre.\nAlém disso, em alguns casos pode surgir chiado no peito, dificuldade para respirar ou sensação de aperto no peito. Nesses casos, deve-se ir ao hospital imediatamente.\nAlergia respiratória na gravidez\nA alergia respiratória na gravidez é muito frequente e acontece principalmente devido às alterações hormonais, ao aumento do volume sanguíneo e às mudanças corporais que a grávida experimenta durante a gestação.\nCaso a gestante sofra de alguma doença respiratória, como asma, é importante que, antes da gravidez, consulte um alergologista para iniciar o tratamento adequado e evitar o agravamento dos sintomas.",
+                "fonte": "docs/Alergia.txt"
+            }
+        ]
+    },
+    "fallback_acionado": false,
+    "motivo_fallback": null,
+    "resposta_final": "Based on the provided documents, the symptoms of allergy caused by cats (specifically, alergia respiratória) are:\n\n* Espirros frequentes\n* Nariz escorrendo ou entupido\n* Cocceira nos olhos, nariz ou garganta\n* Dor de cabeça\n* Olhos lacrimejando\n\nAdditionally, in some cases, the symptoms may include:\n\n* Chiado no peito\n* Dificuldade para respirar or sensação de aperto no peito (in which case it is recommended to go to the hospital immediately)\n\nIt's important to note that these symptoms are specific to alergia respiratória caused by cat exposure, and not all people with allergies will experience all of these symptoms."
+}

@@ -25,7 +25,7 @@ db = Chroma(
 )
 
 
-pergunta = "Where the Toxoplasmosis Parasite Can Be Found" 
+pergunta = "How common is toxocariasis?" 
 
 # Inicializando a estrutura do JSON
 trace = {
