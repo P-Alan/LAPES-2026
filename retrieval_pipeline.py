@@ -137,8 +137,3 @@ nome_arquivo = os.path.join(logs, f"trace_{datetime.datetime.now().strftime('%Y%
 
 with open(nome_arquivo, "w", encoding="utf-8") as f:
     json.dump(trace, f, indent=4, ensure_ascii=False)
-
-
-# Outras perguntas: 
-
-# 1. "
