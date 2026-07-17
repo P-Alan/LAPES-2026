@@ -25,7 +25,7 @@ db = Chroma(
 )
 
 
-pergunta = "How common is toxocariasis?" 
+pergunta = "Como tratar alergia causada por gatos?" 
 
 # Inicializando a estrutura do JSON
 trace = {
